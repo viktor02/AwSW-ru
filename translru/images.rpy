@@ -88,7 +88,7 @@ translate russiantl strings:
 
     # images.rpy:1162
     old "Kevin"
-    new ""
+    new "Кевин"
 
     # images.rpy:1164
     old "Dramavian"

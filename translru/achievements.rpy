@@ -4,63 +4,63 @@ translate russiantl strings:
 
     # achievements.rpy:10
     old "Achievement progress: [persistent.achievements]+1/63"
-    new ""
+    new "Прогресс достижений: [persistent.achievements]+1/63"
 
     # achievements.rpy:12
     old "Achievement progress: [persistent.achievements]/63"
-    new ""
+    new "Прогресс достижений: [persistent.achievements]/63"
 
     # achievements.rpy:39
     old "{b}Blood Donation{/b}\nGive Anna your blood."
-    new ""
+    new "{b}Пожертвование крови{/b}\nДать Анне свою кровь."
 
     # achievements.rpy:50
     old "{b}Bravery{/b}\nOrder the daily special."
-    new ""
+    new "{b}Храбрец{/b}\nЗаказать блюдо дня."
 
     # achievements.rpy:61
     old "{b}Bookworm{/b}\nRead a bunch of books."
-    new ""
+    new "{b}Книжный Червь{/b}\nПрочитать стопку книг."
 
     # achievements.rpy:72
     old "{b}Prescription{/b}\nTake a dragon dose of medication."
-    new ""
+    new "{b}Рецепт{/b}\nTake a dragon dose of medication."
 
     # achievements.rpy:83
     old "{b}Daredevil{/b}\nDrink a mysterious liquid."
-    new ""
+    new "{b}Безрассудный{/b}\nВыпить мистическую жидкость."
 
     # achievements.rpy:98
     old "{b}Ovicide{/b}\nWaste a perfectly good batch of eggs."
-    new ""
+    new "{b}Овицида{/b}\nИстратить прекрасную партию яиц."
 
     # achievements.rpy:109
     old "{b}Fruitarian{/b}\nLearn a lot about fruits."
-    new ""
+    new "{b}Фрукторианец{/b}\nУзнать больше о фруктах."
 
     # achievements.rpy:120
     old "{b}Nuisance{/b}\nRefuse to help Bryce 99 times."
-    new ""
+    new "{b}Nuisance{/b}\nОтказать в помощи Брайсу 99 раз."
 
     # achievements.rpy:131
     old "{b}Investigator 1{/b}\nDo well on the first investigation."
-    new ""
+    new "{b}Следователь 1{/b}\nПреуспеть на первом расследовании."
 
     # achievements.rpy:142
     old "{b}Librarian{/b}\nBring Remy's books into the correct order."
-    new ""
+    new "{b}Библиотекарь{/b}\nРасставить книги Реми в правильном порядке."
 
     # achievements.rpy:157
     old "{b}Patient{/b}\nWait for Remy until you get bored."
-    new ""
+    new "{b}Терпиливый{/b}\nЖдать Реми в скуке."
 
     # achievements.rpy:168
     old "{b}General Knowledgist{/b}\nAnswer Anna's questions correctly."
-    new ""
+    new "{b}General Knowledgist{/b}\nОтветить верно на вопросы Анны."
 
     # achievements.rpy:179
     old "{b}Teetotaler{/b}\nReject Bryce's invitation."
-    new ""
+    new "{b}Трезвенник{/b}\nОтклонить приглашение Брайса."
 
     # achievements.rpy:190
     old "{b}Disrobement{/b}\nGet Adine to remove her headgear."
@@ -68,7 +68,7 @@ translate russiantl strings:
 
     # achievements.rpy:201
     old "{b}You are a winner!{/b}\nBeat Sebastian at his own game."
-    new ""
+    new "{b}Вы - победитель!{/b}\nОбыграть Себастиана в его же игре."
 
     # achievements.rpy:226
     old "{b}Interrogator 1{/b}\nInterrogate Damion."
@@ -80,15 +80,15 @@ translate russiantl strings:
 
     # achievements.rpy:248
     old "{b}Archeologist{/b}\nFind a handful of dirt."
-    new ""
+    new "{b}Археолог{/b}\nНайти горсть грязи."
 
     # achievements.rpy:259
     old "{b}Landscaper{/b}\nAppreciate the landscape."
-    new ""
+    new "{b}Landscaper{/b}\nЦенить пейзаж."
 
     # achievements.rpy:270
     old "{b}Orb Finder{/b}\nFind a mysterious orb."
-    new ""
+    new "{b}Сфероискатель{/b}\nНайти мистическую сферу."
 
     # achievements.rpy:285
     old "{b}Window Shopper{/b}\nLook at everything the store has to offer."
@@ -100,19 +100,19 @@ translate russiantl strings:
 
     # achievements.rpy:307
     old "{b}Memories{/b}\nLook at Remy's pictures."
-    new ""
+    new "{b}Воспоминания{/b}\nПосмотрите на картины Реми."
 
     # achievements.rpy:318
-    old "{b}Snoop{/b}\nLook at Anna's envelope."
+    old "{b}Шпион{/b}\nLook at Anna's envelope."
     new ""
 
     # achievements.rpy:329
     old "{b}Leg Stretcher{/b}\nStretch your legs."
-    new ""
+    new "{b}Ногоразрыватель{/b}\nStretch your legs."
 
     # achievements.rpy:344
     old "{b}Eau de Dragon{/b}\nExamine Bryce's blanket."
-    new ""
+    new "{b}Eau de Dragon{/b}\nИзучите покрывало Брайса."
 
     # achievements.rpy:355
     old "{b}Research Material{/b}\nLook at Bryce's magazine."
@@ -265,4 +265,3 @@ translate russiantl strings:
     # achievements.rpy:819
     old "{b}Hope{/b}\nSee the true ending."
     new ""
-
