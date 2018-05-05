@@ -100,7 +100,7 @@ translate russiantl adine1choice1_be0b9602:
 translate russiantl adine1choice1_8c2647a6:
 
     # m "I was just about to close the door in her face again when she suddenly spoke up."
-    m "Я собирался закрыть дверь перед ней, когда она произнесла."
+    m "Я собирался закрыть дверь, как только она произнесла."
 
 # game/adine1.rpy:107
 translate russiantl adine1choice1_db4b5fa0:

@@ -82,25 +82,25 @@ translate russiantl detected_25c39bd4:
 translate russiantl detected_4f5f91c6:
 
     # s "That would be all.{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "Это должно быть всё.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter1.rpy:393
 translate russiantl colorend_84b78b40:
 
     # c "(Does this look right?)" nointeract
-    c "" nointeract
+    c "(Выглядит ожидаемо?)" nointeract
 
 # game/chapter1.rpy:401
 translate russiantl colorend_263f7f4c:
 
     # s "User profile confirmed."
-    s ""
+    s "Профиль пользователя подтверждён."
 
 # game/chapter1.rpy:405
 translate russiantl colorend_bd29307b:
 
     # s "Before we start, please review the following information:"
-    s ""
+    s "Перед тем, как мы начнём, пожалуйста, просмотрите следующую информацию:"
 
 # game/chapter1.rpy:406
 translate russiantl colorend_b55f0cf7:
@@ -124,7 +124,7 @@ translate russiantl colorend_25c39bd4:
 translate russiantl colorend_7c214f52:
 
     # s "That would be all."
-    s ""
+    s "Это должно быть всё."
 
 # game/chapter1.rpy:419
 translate russiantl begingame_76b2fe88:
@@ -136,31 +136,31 @@ translate russiantl begingame_76b2fe88:
 translate russiantl begingame_0420e91d:
 
     # n "The year is 20XX." this line is a reference to Deus Ex: Human Revolution. A line in its trailer is "The year is 2027."
-    n ""
+    n "Год 20XX."
 
 # game/chapter1.rpy:422
 translate russiantl begingame_02e25085:
 
     # n "Only recently has humanity discovered a portal that leads into a different world, populated with a race of intelligent, talking dragons. I was one of the few to travel to this world..."
-    n ""
+    n "Лишь недавно человечество открыло портал, ведущий в другой мир, населенный расой разумных, говорящих драконов. Я был одним из тех немногих, кто отправился в этот мир..."
 
 # game/chapter1.rpy:423
 translate russiantl begingame_ef5e9be2:
 
     # n "...but, maybe, I should start at the beginning..."
-    n ""
+    n "...но, может быть, я должен начать с начала..."
 
 # game/chapter1.rpy:424
 translate russiantl begingame_c9f110ae:
 
     # n "It all began when we discovered a strange device in the middle of nowhere during one of our expeditions... a portal."
-    n ""
+    n "Всё началось, когда мы нашли незнакомое устройство неизвестно где во время наших экспедиций... портал."
 
 # game/chapter1.rpy:431
 translate russiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n ""
+    n "Раньше я слышал о похожей технологии, хотя эта была скорее эксперементальной. Из того, что я знаю, другие порталы, созданные в прошлом, рассматривались для массового использования. Что насчёт этого портала - мы не знали ни кто его построил, ни когда - или почему мы нашли его здесь. Что стало для нас большим удивлением - он оказался... функционирующим."
 
 # game/chapter1.rpy:433
 translate russiantl begingame_337d015e:
@@ -168,7 +168,7 @@ translate russiantl begingame_337d015e:
     # nvl clear
     # n "After our first tests, we found there was someone else on the other side who was in possession of a similar portal, and our attempts at communication through letters were successful. But in the end, the machine's extraordinary demand for power meant we needed to act quickly as we wouldn’t be able to keep the portal open much longer. "
     nvl clear
-    n ""
+    n "После наших первых тестов, мы узнали, что на другой стороне был кто-то, обладающий похожим порталом, и наши попытки связаться через портал с помощью писем оказались успешными."
 
 # game/chapter1.rpy:436
 translate russiantl begingame_00947764:
