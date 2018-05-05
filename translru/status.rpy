@@ -4,15 +4,15 @@ translate russiantl strings:
 
     # status.rpy:20
     old "Status: {b}--{/b}\nScenes played: {b}[remyscenesfinished]{/b}"
-    new ""
+    new "Статус: {b}--{/b}\nСцен сыграно: {b}[remyscenesfinished]{/b}"
 
     # status.rpy:25
     old "Status: {b}Neutral{/b}\nScenes played: {b}[remyscenesfinished]{/b}"
-    new ""
+    new "Статус: {b}{/b}\nСцен сыграно: {b}[remyscenesfinished]{/b}"
 
     # status.rpy:30
     old "Status: {b}Good{/b}\nScenes played: {b}[remyscenesfinished]{/b}"
-    new ""
+    new "Статус: {b}{/b}\nСцен сыграно: {b}[remyscenesfinished]{/b}"
 
     # status.rpy:40
     old "Status: {b}Impressed{/b}\nScenes played: {b}[remyscenesfinished]{/b}"
@@ -121,4 +121,3 @@ translate russiantl strings:
     # status.rpy:216
     old "Status: {b}Abandoned{/b}\nScenes played: {b}[adinescenesfinished]{/b}"
     new ""
-
