@@ -4,235 +4,235 @@ translate russiantl strings:
 
     # 00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}Понедельник"
 
     # 00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}Вторник"
 
     # 00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}Среда"
 
     # 00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}Четверг"
 
     # 00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}Пятница"
 
     # 00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}Суббота"
 
     # 00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}Воскресенье"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weekday}Пнд"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday}Втр"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday}Срд"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday}Чтв"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday}Птн"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday}Сбб"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday}Вск"
 
     # 00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}Январь"
 
     # 00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}Февраль"
 
     # 00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}Март"
 
     # 00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}Апрель"
 
     # 00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}Май"
 
     # 00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}Июнь"
 
     # 00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}Июль"
 
     # 00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}Август"
 
     # 00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "{#month}Сентябрь"
 
     # 00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "{#month}Октябрь"
 
     # 00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "{#month}Ноябрь"
 
     # 00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "{#month}Декабрь"
 
     # 00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "{#month_short}Янв"
 
     # 00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "{#month_short}Фвр"
 
     # 00action_file.rpy:63
     old "{#month_short}Mar"
-    new ""
+    new "{#month_short}Мрт"
 
     # 00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "{#month_short}Апр"
 
     # 00action_file.rpy:63
     old "{#month_short}May"
-    new ""
+    new "{#month_short}Май"
 
     # 00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "{#month_short}Юнь"
 
     # 00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "{#month_short}Юль"
 
     # 00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "{#month_short}Авг"
 
     # 00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "{#month_short}Снт"
 
     # 00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "{#month_short}Окт"
 
     # 00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
+    new "{#month_short}Нбр"
 
     # 00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "{#month_short}Дкб"
 
     # 00action_file.rpy:235
     old "%b %d, %H:%M"
-    new ""
+    new "%b %d, %H:%M"
 
     # 00action_file.rpy:569
     old "Page {}"
-    new ""
+    new "Страница {}"
 
     # 00action_file.rpy:569
     old "Automatic saves"
-    new ""
+    new "Автоматические сохранения"
 
     # 00action_file.rpy:569
     old "Quick saves"
-    new ""
+    new "Быстрые сохранения"
 
     # 00action_file.rpy:820
     old "Quick save complete."
-    new ""
+    new "Быстрое сохранение завершено."
 
     # 00gui.rpy:227
     old "Are you sure?"
-    new ""
+    new "Вы уверены?"
 
     # 00gui.rpy:228
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Вы уверены, что хотите удалить данное сохранение?"
 
     # 00gui.rpy:229
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Вы уверены, что хотите перезаписать данное сохранение?"
 
     # 00gui.rpy:230
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Загружаясь, вы теряете весь несохраненный прогресс.\nВы уверены, что хотите сделать это?"
 
     # 00gui.rpy:231
     old "Are you sure you want to quit?"
-    new ""
+    new "Вы уверены, что хотите выйти?"
 
     # 00gui.rpy:232
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Вы уверены, что хотите вернуться в главное меню?\nВесь несохраненный прогресс будет утерян."
 
     # 00gui.rpy:233
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Вы уверены, что хотите закончить переигровку?"
 
     # 00gui.rpy:234
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Вы уверены, что хотите начать пропуск?"
 
     # 00gui.rpy:235
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Вы уверены, что хотите сделать пропуск до следующего выбора?"
 
     # 00gui.rpy:236
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Вы уверены, что хотите пропустить ранее невиданные диалоги до следующего выбора?"
 
     # 00keymap.rpy:252
     old "Saved screenshot as %s."
-    new ""
+    new "Снимок экрана сохранен как %s."
 
     # 00library.rpy:142
     old "Self-voicing disabled."
-    new ""
+    new "Само-озвучивание отключено."
 
     # 00library.rpy:143
     old "Clipboard voicing enabled. "
-    new ""
+    new "Озвучивание с помощью буфера обмена включено."
 
     # 00library.rpy:144
     old "Self-voicing enabled. "
-    new ""
+    new "Само-озвучивание включено."
 
     # 00library.rpy:179
     old "Skip Mode"
-    new ""
+    new "Режим Пропуска"
 
     # 00library.rpy:262
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -693,4 +693,3 @@ translate russiantl strings:
     # _errorhandling.rpym:620
     old "Copies the errors.txt file to the clipboard."
     new ""
-
