@@ -8,7 +8,7 @@
 **3.** Прочитайте гайд в группе переводчиков игры от M.B.Saunders'а, чтобы не допускать ошибок и понимать, как это делать. <br />
 **4.** Когда вы перевели, то сделайте, как описано на картинке ниже, соблюдая порядок. <br />
 
-![alt text](https://raw.githubusercontent.com/wolfniey/AwSW-ru/blob/master/explanation.PNG) <br />
+![alt text](https://github.com/wolfniey/AwSW-ru/blob/master/explanation.PNG) <br />
 
   Если вы закончили переводить файл, то отметьте его галочкой в readme, <br />
   взяв за пример уже выполненные (символ галочки скопируйте во время редактирования). <br />
