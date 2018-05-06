@@ -12,7 +12,7 @@ translate russiantl strings:
 
     # achievements.rpy:39
     old "{b}Blood Donation{/b}\nGive Anna your blood."
-    new "{b}Пожертвование крови{/b}\nДать Анне свою кровь."
+    new "{b}Пожертвование{/b}\nДать Анне свою кровь."
 
     # achievements.rpy:50
     old "{b}Bravery{/b}\nOrder the daily special."
@@ -24,7 +24,7 @@ translate russiantl strings:
 
     # achievements.rpy:72
     old "{b}Prescription{/b}\nTake a dragon dose of medication."
-    new "{b}Рецепт{/b}\nTake a dragon dose of medication."
+    new "{b}Рецепт{/b}\nВзять драконью дозу препаратов."
 
     # achievements.rpy:83
     old "{b}Daredevil{/b}\nDrink a mysterious liquid."
@@ -40,7 +40,7 @@ translate russiantl strings:
 
     # achievements.rpy:120
     old "{b}Nuisance{/b}\nRefuse to help Bryce 99 times."
-    new "{b}Nuisance{/b}\nОтказать в помощи Брайсу 99 раз."
+    new "{b}Помеха{/b}\nОтказать в помощи Брайсу 99 раз."
 
     # achievements.rpy:131
     old "{b}Investigator 1{/b}\nDo well on the first investigation."
@@ -52,7 +52,7 @@ translate russiantl strings:
 
     # achievements.rpy:157
     old "{b}Patient{/b}\nWait for Remy until you get bored."
-    new "{b}Терпиливый{/b}\nЖдать Реми в скуке."
+    new "{b}Терпиливый{/b}\nЖдать Реми до того, как станет скучно."
 
     # achievements.rpy:168
     old "{b}General Knowledgist{/b}\nAnswer Anna's questions correctly."
@@ -64,7 +64,7 @@ translate russiantl strings:
 
     # achievements.rpy:190
     old "{b}Disrobement{/b}\nGet Adine to remove her headgear."
-    new ""
+    new "{b}Снятие{/b}\nУговорить Адайн снять головной убор."
 
     # achievements.rpy:201
     old "{b}You are a winner!{/b}\nBeat Sebastian at his own game."
@@ -72,11 +72,11 @@ translate russiantl strings:
 
     # achievements.rpy:226
     old "{b}Interrogator 1{/b}\nInterrogate Damion."
-    new ""
+    new "{b}Допрашивающий 1{/b}\nОпросить Дамиона."
 
     # achievements.rpy:237
     old "{b}Finders, Keepers{/b}\nAcquire the bloody bandage."
-    new ""
+    new "{b}Нашёл - моё{/b}\nОвладеть окровавленной повязкой."
 
     # achievements.rpy:248
     old "{b}Archeologist{/b}\nFind a handful of dirt."
@@ -84,7 +84,7 @@ translate russiantl strings:
 
     # achievements.rpy:259
     old "{b}Landscaper{/b}\nAppreciate the landscape."
-    new "{b}Landscaper{/b}\nЦенить пейзаж."
+    new "{b}Пейзажист{/b}\nЦенить пейзаж."
 
     # achievements.rpy:270
     old "{b}Orb Finder{/b}\nFind a mysterious orb."
@@ -92,176 +92,176 @@ translate russiantl strings:
 
     # achievements.rpy:285
     old "{b}Window Shopper{/b}\nLook at everything the store has to offer."
-    new ""
+    new "{b}Любитель Глазеть на Витрины{/b}\nПросмотреть все, что магазин может предложить."
 
     # achievements.rpy:296
     old "{b}Investigator 2{/b}\nDo well on the second investigation."
-    new ""
+    new "{b}Следователь 2{/b}\nПреуспеть на втором расследовании."
 
     # achievements.rpy:307
     old "{b}Memories{/b}\nLook at Remy's pictures."
-    new "{b}Воспоминания{/b}\nПосмотрите на картины Реми."
+    new "{b}Воспоминания{/b}\nПосмотреть на картины Реми."
 
     # achievements.rpy:318
-    old "{b}Шпион{/b}\nLook at Anna's envelope."
-    new ""
+    old "{b}Snoop{/b}\nLook at Anna's envelope."
+    new "{b}Шпион{/b}\nПосмотреть конверт Анны."
 
     # achievements.rpy:329
     old "{b}Leg Stretcher{/b}\nStretch your legs."
-    new "{b}Ногоразрыватель{/b}\nStretch your legs."
+    new "{b}Растягиватель ног{/b}\nРастянуть ноги."
 
     # achievements.rpy:344
     old "{b}Eau de Dragon{/b}\nExamine Bryce's blanket."
-    new "{b}Eau de Dragon{/b}\nИзучите покрывало Брайса."
+    new "{b}Eau de Dragon{/b}\nИзучить покрывало Брайса."
 
     # achievements.rpy:355
     old "{b}Research Material{/b}\nLook at Bryce's magazine."
-    new ""
+    new "{b}Материал для исследований{/b}\nПросмотреть журнал Брайса."
 
     # achievements.rpy:366
     old "{b}Audiophile{/b}\nListen to a bunch of music."
-    new ""
+    new "{b}Aудиофил{/b}\nПрослушать стопку музыки."
 
     # achievements.rpy:377
     old "{b}The Politician{/b}\nMeet with Emera."
-    new ""
+    new "{b}Политик{/b}\nВстретиться с Эмерой."
 
     # achievements.rpy:388
     old "{b}Cartographer{/b}\nAcquire a map."
-    new ""
+    new "{b}Картограф{/b}\nОвладеть картой."
 
     # achievements.rpy:413
     old "{b}Base Finder{/b}\nFind a mysterious base."
-    new ""
+    new "{b}Искатель баз{/b}\nНайти мистическую базу."
 
     # achievements.rpy:424
     old "{b}Prankster{/b}\nPlay a prank on Bryce."
-    new ""
+    new "{b}Шутник{/b}\nРазыграть Брайса."
 
     # achievements.rpy:435
     old "{b}Altruist{/b}\nHelp Katsuharu."
-    new ""
+    new "{b}Альтруист{/b}\nПомочь Katsuharu."
 
     # achievements.rpy:446
     old "{b}Interrogator 2{/b}\nInterrogate Anna."
-    new ""
+    new "{b}Допрашивающий 2{/b}\nОпросить Анну."
 
     # achievements.rpy:457
     old "{b}Stalker{/b}\nFollow Vara."
-    new ""
+    new "{b}Сталкер{/b}\nПоследовать за Варой."
 
     # achievements.rpy:472
     old "{b}Reckless{/b}\nGo to the portal."
-    new ""
+    new "{b}Отчаянье{/b}\nПойти к порталу."
 
     # achievements.rpy:483
     old "{b}Investigator 3{/b}\nDo well on the third investigation."
-    new ""
+    new "{b}Следователь 3{/b}\nПреуспеть на третьем расследовании."
 
     # achievements.rpy:494
     old "{b}Flawless Run{/b}\nDo well in all investigations in a single playthrough."
-    new ""
+    new "{b}Безупречный Пробег{/b}\nПреуспеть на всех расследованиях за единое прохождение."
 
     # achievements.rpy:505
     old "{b}Souvenir{/b}\nKeep the seashells."
-    new ""
+    new "{b}Сувенир{/b}\nСохранить ракушки."
 
     # achievements.rpy:516
     old "{b}The Artisan{/b}\nMeet with Katsuharu."
-    new ""
+    new "{b}Ремесленник{/b}\nВстретиться с Katsuharu."
 
     # achievements.rpy:531
     old "{b}In Loco Parentis{/b}\nReturn the eggs to the hatchery."
-    new ""
+    new "{b}In Loco Parentis\nНа месте одного из родителей{/b}\nВернуть яйца в инкубаторий."
 
     # achievements.rpy:542
     old "{b}Sphere Builder{/b}\nAssemble the sphere."
-    new ""
+    new "{b}Конструктор Сфер{/b}\nСобрать сферу."
 
     # achievements.rpy:553
     old "{b}The Student{/b}\nMeet with Kevin."
-    new ""
+    new "{b}Студент{/b}\nВстретиться с Кевином."
 
     # achievements.rpy:564
     old "{b}Lazy{/b}\nDecide not to meet anyone or investigate 10 times."
-    new ""
+    new "{b}Лень{/b}\nНи с кем не встречаться или расследовать 10 раз."
 
     # achievements.rpy:575
     old "{b}Fast Forward{/b}\nSkip ahead 10 times."
-    new ""
+    new "{b}Быстрая Промотка{/b}\nПропустить вперёд 10 раз."
 
     # achievements.rpy:600
     old "{b}Popular{/b}\nHave two messages waiting for you at the same time."
-    new ""
+    new "{b}Популярный{/b}\nОдновременно получить 2 сообщения."
 
     # achievements.rpy:611
     old "{b}Utterly Pointless Achievement{/b}\nDo a thing."
-    new ""
+    new "{b}Вконец бесполезное достижение{/b}\nСделать вещь."
 
     # achievements.rpy:622
     old "{b}Unmasking{/b}\nSee what lies beneath the mask."
-    new ""
+    new "{b}разоблачительный{/b}\nУзнать что скрывается за маской."
 
     # achievements.rpy:629
     old "{b}It Begins{/b}\nSee your first ending."
-    new ""
+    new "{b}Лишь Начало{/b}\nУвидеть свою первую концовку."
 
     # achievements.rpy:634
     old "{b}Hidden Achievement{/b}"
-    new ""
+    new "{b}Спрятанное Достижение{/b}"
 
     # achievements.rpy:641
     old "{b}Detonation{/b}\nSee the neutral ending."
-    new ""
+    new "{b}Детонация{/b}\nУвидеть нейтральную концовку."
 
     # achievements.rpy:657
     old "{b}Alone{/b}\nSee Remy's bad ending."
-    new ""
+    new "{b}Одиночество{/b}\nУвидеть плохную концовку Реми."
 
     # achievements.rpy:669
     old "{b}Casualties of War{/b}\nSee Remy's good ending."
-    new ""
+    new "{b}Жертвы Войны{/b}\nУвидеть хорошую концовку Реми."
 
     # achievements.rpy:681
     old "{b}Sacrifice{/b}\nSee Anna's bad ending."
-    new ""
+    new "{b}Жертвоприношение{/b}\nУвидеть плохую концовку Анны."
 
     # achievements.rpy:693
     old "{b}Tragic Hero{/b}\nSee Anna's good ending."
-    new ""
+    new "{b}Трагический Герой{/b}\nУвидеть хорошую концовку Анны."
 
     # achievements.rpy:705
     old "{b}Remember{/b}\nSee Lorem's bad ending."
-    new ""
+    new "{b}Помнить{/b}\nУвидеть плохую концовку Лорема."
 
     # achievements.rpy:721
     old "{b}The Plan{/b}\nSee Lorem's good ending."
-    new ""
+    new "{b}План{/b}\nУвидеть хорошую концовку Лорема."
 
     # achievements.rpy:733
     old "{b}Catastrophy{/b}\nSee Bryce's bad ending."
-    new ""
+    new "{b}Катастрофа{/b}\nУвидеть плохую концовку Брайса."
 
     # achievements.rpy:745
     old "{b}Murderer{/b}\nSee Bryce's good ending."
-    new ""
+    new "{b}Убийца{/b}\nУвидеть хорошую концовку Брайса."
 
     # achievements.rpy:757
     old "{b}Getaway{/b}\nSee Adine's bad ending."
-    new ""
+    new "{b}Бегство{/b}\nУвидеть плохую концовку Адайн."
 
     # achievements.rpy:769
     old "{b}Decisions{/b}\nSee Adine's good ending."
-    new ""
+    new "{b}Решения{/b}\nУвидеть хорошую концовку Адайн."
 
     # achievements.rpy:795
     old "{b}Betrayal{/b}\nSee the evil ending."
-    new ""
+    new "{b}Предательство{/b}\nУвидеть злонамеренную концовку."
 
     # achievements.rpy:807
     old "{b}Optimist{/b}\nSee your first good ending."
-    new ""
+    new "{b}Оптимист{/b}\nУвидеть свою первую хорошую концовку."
 
     # achievements.rpy:819
     old "{b}Hope{/b}\nSee the true ending."
-    new ""
+    new "{b}Надежда{/b}\nУвидеть истинную концовку."
