@@ -1,52 +1,54 @@
-# AwSW-ru
-Russian translation for Angels with Scaly Wings.
+# AwSW-ru 
+Russian translation for Angels with Scaly Wings. <br />
+If you are willing to participate in translation, feel free to add me on Steam and message me. <br />
+Here's my Steam page: http://steamcommunity.com/id/wolfniey/ 
 
 Order of files to be translated (posted officially by M.B. Saunders):
-common\n
-dv
-screens
-status
-help
-images
-script
-chapter1
-chapter1ALT
-adine1
-anna1
-bryce1
-lorem1
-remy1
-xsebastian
-endings
-chapter2
-adine2
-anna2
-bryce2
-lorem2
-remy2
-xemera
-xzhong
-chapter3
-adine3
-anna3
-bryce3
-lorem3
-remy3
-xkatsu
-chapter4
-adine4
-anna4
-bryce4
-lorem4
-remy4
-xkevin
-chapter5
-chapter5evilending
-dine5
-anna5
-bryce5
-lorem5
-remy5
-chapter5trueending
-achievements
+common <br />
+dv <br />
+screens <br />
+status <br />
+help <br />
+images <br />
+script <br />
+chapter1 <br />
+chapter1ALT <br />
+adine1 <br />
+anna1 <br />
+bryce1 <br />
+lorem1 <br />
+remy1 <br />
+xsebastian <br />
+endings <br />
+chapter2 <br />
+adine2 <br />
+anna2 <br />
+bryce2 <br />
+lorem2 <br />
+remy2 <br />
+xemera <br />
+xzhong <br />
+chapter3 <br />
+adine3 <br />
+anna3 <br />
+bryce3 <br /> 
+lorem3 <br />
+remy3 <br />
+xkatsu <br /> 
+chapter4 <br /> 
+adine4 <br />
+anna4 <br />
+bryce4 <br />
+lorem4 <br />
+remy4 <br />
+xkevin <br />
+chapter5 <br />
+chapter5evilending <br />
+dine5 <br />
+anna5 <br />
+bryce5 <br />
+lorem5 <br />
+remy5 <br />
+chapter5trueending <br />
+achievements <br />
 sec
