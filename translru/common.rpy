@@ -244,452 +244,452 @@ translate russiantl strings:
 
     # 00preferences.rpy:424
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new ""
+    new "Озвучивается \"[renpy.display.tts.last]\". Нажмите 'alt+shift+V', чтобы отключить."
 
     # 00preferences.rpy:426
     old "Self-voicing enabled. Press 'v' to disable."
-    new ""
+    new "Озвучивание включено. Нажмите 'v', чтобы отключить."
 
     # _compat\gamemenu.rpym:355
     old "Previous"
-    new ""
+    new "Назад"
 
     # _compat\gamemenu.rpym:362
     old "Next"
-    new ""
+    new "Вперед"
 
     # _compat\preferences.rpym:428
     old "Joystick Mapping"
-    new ""
+    new "Настройки Геймпада"
 
     # _developer\developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "Меню Разработчика"
 
     # _developer\developer.rpym:43
     old "Reload Game (Shift+R)"
-    new ""
+    new "Перезагрузить игру (Shift+R)"
 
     # _developer\developer.rpym:45
     old "Console (Shift+O)"
-    new ""
+    new "Консоль (Shift+O)"
 
     # _developer\developer.rpym:47
     old "Variable Viewer"
-    new ""
+    new "Просмотр Переменных"
 
     # _developer\developer.rpym:49
     old "Theme Test"
-    new ""
+    new "Тест Темы"
 
     # _developer\developer.rpym:51
     old "Image Location Picker"
-    new ""
+    new "Выбор Локации Изображений"
 
     # _developer\developer.rpym:53
     old "Filename List"
-    new ""
+    new "Список Файлов"
 
     # _developer\developer.rpym:57
     old "Show Image Load Log"
-    new ""
+    new "Показать Лог Загрузки Изображений"
 
     # _developer\developer.rpym:60
     old "Hide Image Load Log"
-    new ""
+    new "Убрать Лог Загрузки Изображений"
 
     # _developer\developer.rpym:66
     old "Return"
-    new ""
+    new "Назад"
 
     # _developer\developer.rpym:95
     old "Nothing to inspect."
-    new ""
+    new "Нечего обследовать."
 
     # _developer\developer.rpym:217
     old "Return to the developer menu"
-    new ""
+    new "Вернуться к меню разработчика"
 
     # _developer\developer.rpym:373
     old "Rectangle: %r"
-    new ""
+    new "Прямоугольник: %r"
 
     # _developer\developer.rpym:378
     old "Mouse position: %r"
-    new ""
+    new "Позиция мыши: %r"
 
     # _developer\developer.rpym:383
     old "Right-click or escape to quit."
-    new ""
+    new "Нажмите левую кнопку мыши или ESC, чтобы выйти"
 
     # _developer\developer.rpym:412
     old "Rectangle copied to clipboard."
-    new ""
+    new "Прямоугольник скопирован в буфер обмена."
 
     # _developer\developer.rpym:415
     old "Position copied to clipboard."
-    new ""
+    new "Позиция скопирована в буфер обмена."
 
     # _developer\developer.rpym:524
     old "✔ "
-    new ""
+    new "✔ "
 
     # _developer\developer.rpym:527
     old "✘ "
-    new ""
+    new "✘ "
 
     # _developer\developer.rpym:532
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new ""
+    new "\n{color=#cfc}✔ угаданное изображение (хорошо){/color}\n{color=#fcc}✘ неугаданное изображение (bad){/color}\n{color=#fff}Перетащите, чтобы переместить.{/color}"
 
     # _developer\inspector.rpym:38
     old "Displayable Inspector"
-    new ""
+    new "Отображаемый Обнаружитель"
 
     # _developer\inspector.rpym:61
     old "Size"
-    new ""
+    new "Размер"
 
     # _developer\inspector.rpym:65
     old "Style"
-    new ""
+    new "Стиль"
 
     # _developer\inspector.rpym:71
     old "Location"
-    new ""
+    new "Местоположение"
 
     # _developer\inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new ""
+    new "Отображение Стилей [displayable_name!q]"
 
     # _developer\inspector.rpym:139
     old "displayable:"
-    new ""
+    new "отображаемое:"
 
     # _developer\inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new ""
+    new "        (нет настроек, затрагивающих отображаемое)"
 
     # _developer\inspector.rpym:147
     old "        (default properties omitted)"
-    new ""
+    new "        (оставлены настройки по умолчанию)"
 
     # _developer\inspector.rpym:185
     old "<repr() failed>"
-    new ""
+    new "<repr() failed>"
 
     # _layout\classic_load_save.rpym:170
     old "a"
-    new ""
+    new "a"
 
     # _layout\classic_load_save.rpym:179
     old "q"
-    new ""
+    new "q"
 
     # 00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
-    new ""
+    new "Подключение к App Store\nПожалуйста, подождите..."
 
     # 00updater.rpy:373
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "Ren'Py Updater не поддерживается на мобильных устройствах."
 
     # 00updater.rpy:492
     old "An error is being simulated."
-    new ""
+    new "Ошибка была симулирована."
 
     # 00updater.rpy:668
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Либо этот проект не поддерживает обновления, либо файл статуса обновления был удален."
 
     # 00updater.rpy:682
     old "This account does not have permission to perform an update."
-    new ""
+    new "Этот аккаунт не имеет доступа для совершения обновления."
 
     # 00updater.rpy:685
     old "This account does not have permission to write the update log."
-    new ""
+    new "Этот аккаунт не имеет разрешения писать в лог обновлений."
 
     # 00updater.rpy:710
     old "Could not verify update signature."
-    new ""
+    new "Не могу проверить подпись обновления."
 
     # 00updater.rpy:981
     old "The update file was not downloaded."
-    new ""
+    new "Файл обновления не был скачан."
 
     # 00updater.rpy:999
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "Файл обновления не имеет корректной структуры - он может быть поврежден."
 
     # 00updater.rpy:1055
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "Пока распаковывался {}, неизвестный тип {}."
 
     # 00updater.rpy:1399
     old "Updater"
-    new ""
+    new "Обновления"
 
     # 00updater.rpy:1406
     old "An error has occured:"
-    new ""
+    new "Возникла ошибка:"
 
     # 00updater.rpy:1408
     old "Checking for updates."
-    new ""
+    new "Проверяем наличие обновлений."
 
     # 00updater.rpy:1410
     old "This program is up to date."
-    new ""
+    new "Версия этой программы - последняя."
 
     # 00updater.rpy:1412
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] доступна. Хотите установить?"
 
     # 00updater.rpy:1414
     old "Preparing to download the updates."
-    new ""
+    new "Подготовка к установке обновлений."
 
     # 00updater.rpy:1416
     old "Downloading the updates."
-    new ""
+    new "Загрузка обновлений."
 
     # 00updater.rpy:1418
     old "Unpacking the updates."
-    new ""
+    new "Распаковка обновлений."
 
     # 00updater.rpy:1420
     old "Finishing up."
-    new ""
+    new "Завершение."
 
     # 00updater.rpy:1422
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Обновления были установлены. Программа перезагрузится."
 
     # 00updater.rpy:1424
     old "The updates have been installed."
-    new ""
+    new "Обновления были установлены."
 
     # 00updater.rpy:1426
     old "The updates were cancelled."
-    new ""
+    new "Обновления были отменены."
 
     # 00updater.rpy:1441
     old "Proceed"
-    new ""
+    new "Продолжить"
 
     # 00updater.rpy:1444
     old "Cancel"
-    new ""
+    new "Отменить"
 
     # 00gallery.rpy:563
     old "Image [index] of [count] locked."
-    new ""
+    new "Изображение [index] из [count] заблокировано."
 
     # 00gallery.rpy:583
     old "prev"
-    new ""
+    new "предыдущий"
 
     # 00gallery.rpy:584
     old "next"
-    new ""
+    new "следующий"
 
     # 00gallery.rpy:585
     old "slideshow"
-    new ""
+    new "слайд-шоу"
 
     # 00gallery.rpy:586
     old "return"
-    new ""
+    new "назад"
 
     # 00gltest.rpy:64
     old "Graphics Acceleration"
-    new ""
+    new "Ускорение Графики"
 
     # 00gltest.rpy:70
     old "Automatically Choose"
-    new ""
+    new "Автоматический Выбор"
 
     # 00gltest.rpy:75
     old "Force Angle/DirectX Renderer"
-    new ""
+    new "Использовать Angle/DirectX Renderer"
 
     # 00gltest.rpy:79
     old "Force OpenGL Renderer"
-    new ""
+    new "Использовать OpenGL Renderer"
 
     # 00gltest.rpy:83
     old "Force Software Renderer"
-    new ""
+    new "Использовать Программный Renderer"
 
     # 00gltest.rpy:89
     old "Gamepad"
-    new ""
+    new "Геймпад"
 
     # 00gltest.rpy:93
     old "Enable"
-    new ""
+    new "Включить"
 
     # 00gltest.rpy:97
     old "Disable"
-    new ""
+    new "Выключить"
 
     # 00gltest.rpy:103
     old "Calibrate"
-    new ""
+    new "Калибровать"
 
     # 00gltest.rpy:109
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Изменения вступят в силу после перезагрузки программы."
 
     # 00gltest.rpy:114
     old "Quit"
-    new ""
+    new "Выйти"
 
     # 00gltest.rpy:141
     old "Performance Warning"
-    new ""
+    new "Предупреждение Производительности"
 
     # 00gltest.rpy:146
     old "This computer is using software rendering."
-    new ""
+    new "Этот компьютер использует программный рендеринг."
 
     # 00gltest.rpy:148
     old "This computer is not using shaders."
-    new ""
+    new "Этот компьютер не использует шейдеры."
 
     # 00gltest.rpy:150
     old "This computer is displaying graphics slowly."
-    new ""
+    new "Этот компьютер отображает графику медленно."
 
     # 00gltest.rpy:152
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "Этот компьютер имеет проблему с отображением графики: [problem]."
 
     # 00gltest.rpy:157
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new ""
+    new "Его графические драйвера могут быть старыми или работают некорректно. Это может привести к медленному или некорректному отображению графики. Обновление DirectX может исправить эту проблему."
 
     # 00gltest.rpy:159
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Его графические драйвера могут быть старыми или работают некорректно. Это может привести к медленному или некорректному отображению графики."
 
     # 00gltest.rpy:164
     old "Update DirectX"
-    new ""
+    new "Обновить DirectX"
 
     # 00gltest.rpy:170
     old "Continue, Show this warning again"
-    new ""
+    new "Продолжить, Показывать это предупреждение снова"
 
     # 00gltest.rpy:174
     old "Continue, Don't show warning again"
-    new ""
+    new "Продолжить, Не показывать предупреждения снова"
 
     # 00gltest.rpy:192
     old "Updating DirectX."
-    new ""
+    new "DirectX Обновляется"
 
     # 00gltest.rpy:196
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new ""
+    new "DirectX web-установщик был запущен. Он может работать, скрытым в taskbar'е. Пожалуйста, следуйте коммандам, чтобы установить DirectX. "
 
     # 00gltest.rpy:200
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new ""
+    new "{b}Note:{/b} Microsoft's DirectX web-установщик установит по умолчанию Bing toolbar. Если вы этого не хотите, то не отмечайте соответствующую галочку."
 
     # 00gltest.rpy:204
     old "When setup finishes, please click below to restart this program."
-    new ""
+    new "Когда процесс завершится, пожалуйста нажмите ниже, чтобы перезапустить программу."
 
     # 00gltest.rpy:206
     old "Restart"
-    new ""
+    new "Перезапустить"
 
     # 00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Выбирете Геймпад для Калибровки"
 
     # 00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "Геймпадов Не Найдено"
 
     # 00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Калибровка [name] ([i]/[total])"
 
     # 00gamepad.rpy:58
     old "Press or move the [control!r] [kind]."
-    new ""
+    new "Нажмите или подвигайте [control!r] [kind]."
 
     # 00gamepad.rpy:66
     old "Skip (A)"
-    new ""
+    new "Пропустить (A)"
 
     # 00gamepad.rpy:69
     old "Back (B)"
-    new ""
+    new "Назад (B)"
 
     # _errorhandling.rpym:503
     old "Open Traceback"
-    new ""
+    new "Откройте Traceback"
 
     # _errorhandling.rpym:505
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Открываю traceback.txt в текстовом редакторе."
 
     # _errorhandling.rpym:507
     old "Copy to Clipboard"
-    new ""
+    new "Скопировать в Буфер Обмена"
 
     # _errorhandling.rpym:509
     old "Copies the traceback.txt file to the clipboard."
-    new ""
+    new "Копирую traceback.txt в буфер обмена."
 
     # _errorhandling.rpym:527
     old "An exception has occurred."
-    new ""
+    new "Возникла ошибка."
 
     # _errorhandling.rpym:546
     old "Rollback"
-    new ""
+    new "Откатить"
 
     # _errorhandling.rpym:548
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Откатываюсь до предыдущего времени, позволяя вам сохранить или выбрать другую опцию."
 
     # _errorhandling.rpym:551
     old "Ignore"
-    new ""
+    new "Игнорировать"
 
     # _errorhandling.rpym:553
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Игнорирую ошибку, позволяя тебе продолжить. Это часто приводит к дополнительным ошибкам."
 
     # _errorhandling.rpym:556
     old "Reload"
-    new ""
+    new "Перезагрузить"
 
     # _errorhandling.rpym:558
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Перезагружаю игру с диска, сохраняя и востанавливая состояние игры при возможности."
 
     # _errorhandling.rpym:568
     old "Quits the game."
-    new ""
+    new "Выхожу из игры."
 
     # _errorhandling.rpym:590
     old "Parsing the script failed."
-    new ""
+    new "Парсинг скрипта прошел неудачно."
 
     # _errorhandling.rpym:614
     old "Open Parse Errors"
-    new ""
+    new "Открыть Ошибки Парсера"
 
     # _errorhandling.rpym:616
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "Открываю errors.txt в текстовом редакторе."
 
     # _errorhandling.rpym:620
     old "Copies the errors.txt file to the clipboard."
-    new ""
+    new "Копирую errors.txt в буфер обмена."
