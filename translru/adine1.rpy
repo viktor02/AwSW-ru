@@ -298,7 +298,7 @@ translate russiantl _call_skipcheck_10_9fafc86f:
 translate russiantl _call_skipcheck_10_24fbdd31:
 
     # Ad "I thought you just did."
-    Ad "I thought you just did."
+    Ad "Я думала, именно ты в этом заинтересован."
 
 # game/adine1.rpy:302
 translate russiantl _call_skipcheck_10_a0052a82:
@@ -310,13 +310,13 @@ translate russiantl _call_skipcheck_10_a0052a82:
 translate russiantl _call_skipcheck_10_558a112a:
 
     # Ad "Well, most of the time I take care of my kids."
-    Ad "Ну, большее время я забочусь о моих детях."
+    Ad "Ну, большее время я забочусь о своих детях."
 
 # game/adine1.rpy:304
 translate russiantl _call_skipcheck_10_77d64a46:
 
     # c "Oh, nice. How many children do you have?"
-    c "О, прекрасно. Сколько у тебя детей?"
+    c "Ох, мило. Сколько у тебя детей?"
 
 # game/adine1.rpy:305
 translate russiantl _call_skipcheck_10_2463bcdc:
@@ -328,7 +328,7 @@ translate russiantl _call_skipcheck_10_2463bcdc:
 translate russiantl _call_skipcheck_10_6ab075ea:
 
     # c "You are more of a foster parent, then?"
-    c "Ты по большей части приёмный родитель, тогда?"
+    c "Тогда, ты преимущественно приёмный родитель?"
 
 # game/adine1.rpy:307
 translate russiantl _call_skipcheck_10_4252207b:
@@ -352,13 +352,13 @@ translate russiantl _call_skipcheck_10_6dae616b:
 translate russiantl _call_skipcheck_10_8a56387f:
 
     # c "That's very nice of you."
-    c "Это очень вежливо с твоей стороны."
+    c "Это очень мило с твоей стороны."
 
 # game/adine1.rpy:313
 translate russiantl _call_skipcheck_10_03b324fd:
 
     # Ad "Thanks. These kids already didn't get a very good hand in life. I just thought that if I can make even a small difference for them it'd be worth it."
-    Ad "Спасибо. Эти дети уже оказались не в лучшем положении. Я просто подумала, что если смогу оказать даже самую малую помощь для них, то это стоит того."
+    Ad "Спасибо. Этим детям и так пришлось не очень хорошо. Я просто подумала, что если смогу оказать даже самую малую помощь для них, то это стоит того."
 
 # game/adine1.rpy:314
 translate russiantl _call_skipcheck_10_d29d4197:
@@ -388,13 +388,13 @@ translate russiantl _call_skipcheck_10_ac95ba08:
 translate russiantl _call_skipcheck_10_cdd3e6f5:
 
     # Ad "You're silly. I like that."
-    Ad "You're silly. Мне это нравится."
+    Ad "Ты дурашка. Мне это нравится."
 
 # game/adine1.rpy:338
 translate russiantl _call_skipcheck_10_75906cf7:
 
     # Ad "Well, I don't really know much about you. Actually, I'm not sure if there is anyone here who does."
-    Ad "Ну, я мало что знаю о тебе. На самом деле, я не уверена есть ли здесь кто-то, кто знает."
+    Ad "Ну, я мало знаю о тебе. На самом деле, я не уверена есть ли здесь кто-то, кто знает."
 
 # game/adine1.rpy:339
 translate russiantl _call_skipcheck_10_41444a40:
@@ -424,19 +424,19 @@ translate russiantl _call_skipcheck_10_4b7f20ab:
 translate russiantl _call_skipcheck_10_02e1a99e:
 
     # c "Nun."
-    c "*сложно переводимая шутка*"
+    c "НТД."
 
 # game/adine1.rpy:354
 translate russiantl _call_skipcheck_10_31f04825:
 
     # Ad "Nun? What do you mean?"
-    Ad "xxx? Что ты имеешь ввиду?"
+    Ad "НТД? Что ты имеешь ввиду?"
 
 # game/adine1.rpy:355
 translate russiantl _call_skipcheck_10_939a58e1:
 
     # c "I mean that it's {i}nun{/i} of your business."
-    c "Я имею ввиду, что это не твоё дело."
+    c "Я имею ввиду, что это {i}Не Твоё Дело.{/i}"
 
 # game/adine1.rpy:357
 translate russiantl _call_skipcheck_10_91cd4cae:
@@ -454,7 +454,7 @@ translate russiantl _call_skipcheck_10_d049fb42:
 translate russiantl _call_skipcheck_10_0cc7643e:
 
     # c "I suppose it's my turn again, so tell me about your hobbies."
-    c "Я думаю теперь мой ход. И-так, расскажи о своих хобби."
+    c "Я думаю, теперь мой ход. И-так, расскажи о своих хобби."
 
 # game/adine1.rpy:367
 translate russiantl _call_skipcheck_10_cc546db3:
@@ -478,13 +478,13 @@ translate russiantl _call_skipcheck_10_4b4db401:
 translate russiantl _call_skipcheck_10_43ec0d7d:
 
     # Ad "I do Aerobatics, or stunt flying. I've been doing that on and off for a couple of years now."
-    Ad "Я занимаюсь Аэробикой. *** I've been doing that on and off for a couple of years now. ***"
+    Ad "Я занимаюсь Аэробикой уже пару лет."
 
 # game/adine1.rpy:379
 translate russiantl _call_skipcheck_10_f106bf6f:
 
     # Ad "Actually, that might not be so far from the truth."
-    Ad "Фактически, правда может быть довольно близко."
+    Ad "На самом деле, правда может быть недалеко."
 
 # game/adine1.rpy:386
 translate russiantl _call_skipcheck_10_a846bbc7:
@@ -496,7 +496,7 @@ translate russiantl _call_skipcheck_10_a846bbc7:
 translate russiantl _call_skipcheck_10_abbb67c9:
 
     # Ad "It's the practice of doing flying maneuvers like rolls, spins or loops."
-    Ad "Это практика таких манёвров в полёте, как бочка, кружение или петля."
+    Ad "Это практика таких манёвров в полёте, как бочки, кружение или петли."
 
 # game/adine1.rpy:392
 translate russiantl _call_skipcheck_10_3a20ab9d:
@@ -514,13 +514,13 @@ translate russiantl _call_skipcheck_10_e2d25ad9:
 translate russiantl _call_skipcheck_10_a6751830:
 
     # Ad "That's what I'm trying to find out."
-    Ad "Это как раз то, что я пытаюсь выяснить."
+    Ad "Именно это я и пытаюсь выяснить."
 
 # game/adine1.rpy:406
 translate russiantl _call_skipcheck_10_3a15203a:
 
     # Ad "I suppose that depends on whether you will still be here when it takes place. It's part of a festival we hold in this town every year."
-    Ad "Я так думаю, это зависит от того будешь ли ты здесь, когда всё начнётся. Это часть фестиваля, который мы проводим в этом городе каждый год."
+    Ad "Предполагаю, это зависит от того, будешь ли ты с нами, когда всё начнётся. Это часть фестиваля, который мы проводим в этом городе каждый год."
 
 # game/adine1.rpy:409
 translate russiantl _call_skipcheck_10_410ee6b4:
@@ -532,7 +532,7 @@ translate russiantl _call_skipcheck_10_410ee6b4:
 translate russiantl _call_skipcheck_10_02d2db07:
 
     # Ad "This might be an unusual question, so... When they said it was a human that would be coming here, I kinda expected something a little different."
-    Ad "Это может быть чуточку необычный вопрос, но... Когда они сказали, что вскоре сюда прибудет человек, я как бы ожидала чего-то иного."
+    Ad "Вопрос может быть чуточку необычным, но... Когда они сказали, что вскоре сюда прибудет человек, я ожидала чего-то иного."
 
 # game/adine1.rpy:418
 translate russiantl _call_skipcheck_10_9beac2da:
@@ -544,7 +544,7 @@ translate russiantl _call_skipcheck_10_9beac2da:
 translate russiantl _call_skipcheck_10_2f44ec25:
 
     # Ad "I'm not sure exactly, but they do say it was humans that made us who we are today. You don't seem so different from us, though."
-    Ad "Я не совсем уверена, но они сказали, что люди сделали нас теми, кем мы являемся сегодня. Хотя, ты не сильно отличаешься от нас."
+    Ad "Я не совсем уверена, но они говорят, что люди сделали нас теми, кем мы являемся сегодня. Хотя, ты не сильно отличаешься от нас."
 
 # game/adine1.rpy:427
 translate russiantl _call_skipcheck_10_53f42aeb:
@@ -556,7 +556,7 @@ translate russiantl _call_skipcheck_10_53f42aeb:
 translate russiantl _call_skipcheck_10_ac2a2159:
 
     # Ad "I mean, yeah, you do look different from us, but you're not really anything like some of the things that have been said about your kind."
-    Ad "Я имею ввиду, да, ты выглядишь отлично от нас, но на самом деле ты совсем не тот, о чьём виде говорят самые различные вещи."
+    Ad "Я имею ввиду, да, ты выглядишь отлично от нас, но на самом деле ты совсем не тот, о ком говорят самые различные вещи."
 
 # game/adine1.rpy:431
 translate russiantl _call_skipcheck_10_91928a3d:
@@ -586,13 +586,13 @@ translate russiantl _call_skipcheck_10_8b9da41f:
 translate russiantl _call_skipcheck_10_c21eb134:
 
     # c "There are just too many to list. Some of them good, some not so much."
-    c "Их слишком много, чтобы перечислять. Некоторые из них хорошие, другие не совсем."
+    c "Их слишком много, чтобы перечислять. Некоторые из них хорошие, другие не очень."
 
 # game/adine1.rpy:444
 translate russiantl _call_skipcheck_10_8abc6d5e:
 
     # Ad "Sounds like what we have on you, actually. Now that I see one of you right in front of me, it's almost silly what some of the myths say."
-    Ad "Звучит подобно нашим, по-правде. Теперь видя тебя прямо напротив, некоторые из мифов являются неразумными и глупыми."
+    Ad "Звучит подобно нашим, по-правде. Теперь видя тебя прямо напротив, некоторые из мифов являются просто глупыми."
 
 # game/adine1.rpy:452
 translate russiantl _call_skipcheck_10_54e6a0c5:
@@ -604,19 +604,19 @@ translate russiantl _call_skipcheck_10_54e6a0c5:
 translate russiantl _call_skipcheck_10_b7bc313e:
 
     # Ad "Well, that's not very nice."
-    Ad "Что ж, они не очень хороши."
+    Ad "Что ж, они не очень приятны."
 
 # game/adine1.rpy:456
 translate russiantl _call_skipcheck_10_fbe98f30:
 
     # Ad "Though to be fair, some of what we have about you isn't very nice, either."
-    Ad "Хотя если признаться, некоторые из тех, что существуют у нас, тоже не очень хороши."
+    Ad "Хотя если быть честной, некоторые из существующих здесь тоже не очень хороши."
 
 # game/adine1.rpy:458
 translate russiantl _call_skipcheck_10_db56dd45:
 
     # c "Phew, good to know you aren't vicious monsters, then."
-    c "Фух, теперь хорошо знать, что вы не злобные монстры."
+    c "Фух, хорошо теперь знать, что вы не злобные монстры."
 
 # game/adine1.rpy:459
 translate russiantl _call_skipcheck_10_e5322ba8:
@@ -640,7 +640,7 @@ translate russiantl _call_skipcheck_10_d7e7b442:
 translate russiantl _call_skipcheck_10_9fd77ad2:
 
     # Ad "To be honest, I don't know if it's such a good idea to generalize like that - even if it's good things you're saying about us. We're all different, you know, and not all of us are nice."
-    Ad "Если быть честной, то я не знаю является ли хорошей идеей обобщать всё это - даже если это те хорошие вещи, которые вы говорите о нас. Мы все разные и, ты знаешь, не все из нас добрые."
+    Ad "Если честно, то я не знаю является ли хорошей идеей обобщать всё - даже такие хорошие вещи, которые вы говорите о нас. Мы все разные и, знаешь, не все из нас добрые."
 
 # game/adine1.rpy:470
 translate russiantl _call_skipcheck_10_89aefe22:
@@ -652,13 +652,13 @@ translate russiantl _call_skipcheck_10_89aefe22:
 translate russiantl _call_skipcheck_10_c249e3f8:
 
     # Ad "But then, we have said many good things about your kind, too."
-    Ad "Но тогда, мы сказали много хороших вещей и о твоём виде."
+    Ad "Но потом, мы говорили много хороших вещей и о вас."
 
 # game/adine1.rpy:476
 translate russiantl _call_skipcheck_10_0eb9375b:
 
     # c "Well, no matter what you might think about humans, I can assure you that I am in no way special or supernatural."
-    c "Ну, не важно что ты можешь думать о людях, я могу заверить тебя в том, что я не являюсь кем-то особенным или сверхъестественным."
+    c "Ну, не важно что ты можешь думать о людях, я могу заверить тебя в том, что не являюсь кем-то особенным или сверхъестественным."
 
 # game/adine1.rpy:478
 translate russiantl _call_skipcheck_10_a498f8f9:
@@ -682,7 +682,7 @@ translate russiantl _call_skipcheck_10_dc481bac:
 translate russiantl _call_skipcheck_10_488948a9:
 
     # c "You know, you have a good point."
-    c "А знаешь, это хороший довод."
+    c "Знаешь, это хороший довод."
 
 # game/adine1.rpy:483
 translate russiantl _call_skipcheck_10_161c79f2:
@@ -700,85 +700,85 @@ translate russiantl _call_skipcheck_10_22fb7d86:
 translate russiantl _call_skipcheck_10_27b32db1:
 
     # Ad "See, having something you've only heard about in stories turn out to be real is quite special."
-    Ad "Видишь, имея то, о чём ты только слышал лишь в историях, обернулось в реальность - уже довольно особенно."
+    Ad "Видишь, то, о чём ты слышал лишь в историях, оказалось правдой - и это уже достаточно особенно."
 
 # game/adine1.rpy:496
 translate russiantl _call_skipcheck_10_aaa0f5f8:
 
     # c "I wasn't sure what to think about it. That is, until I got here and was standing in front of one of you. And after that, I was just rendered speechless."
-    c ""
+    c "Я не был уверен о чём думать. Затем я попал сюда и находился прямо перед одним из вас. И после, я просто потерял дар речи."
 
 # game/adine1.rpy:498
 translate russiantl _call_skipcheck_10_c9851cf8:
 
     # Ad "Told you so. It was special for you, too!"
-    Ad ""
+    Ad "Я говорила. Для тебя это тоже что-то особенное!"
 
 # game/adine1.rpy:506
 translate russiantl _call_skipcheck_10_9cf84c2e:
 
     # c "I thought making a discovery like this was just awesome. Many people would love to have the opportunity I had by coming here."
-    c ""
+    c "Я думал сделать такое открытие просто прекрасно. Многие люди отдали бы всё, чтобы иметь возможность попасть сюда."
 
 # game/adine1.rpy:508
 translate russiantl _call_skipcheck_10_821be8f1:
 
     # Ad "See, it's not so one-sided after all, so don't be surprised if some of us feel the same way."
-    Ad ""
+    Ad "Видишь, на такие вещи нельзя смотреть с одной стороны. Поэтому не удивляйся, если кто-то из нас думает так же."
 
 # game/adine1.rpy:514
 translate russiantl _call_skipcheck_10_827a62d3:
 
     # c "And it's not just the discovery of you dragons. We found a portal to an entirely different world. We still haven't figured that one out."
-    c ""
+    c "Открытием является не только для вас, драконов. Мы нашли портал в полностью иной мир. Мы по-прежнему не выяснили, что он из себя представляет."
 
 # game/adine1.rpy:515
 translate russiantl _call_skipcheck_10_684b625c:
 
     # Ad "Neither have we."
-    Ad ""
+    Ad "Как и мы."
 
 # game/adine1.rpy:516
 translate russiantl _call_skipcheck_10_5479d226:
 
     # c "I'm sure we'll find out soon enough."
-    c ""
+    c "Но я уверен, вскоре мы найдем правду."
 
 # game/adine1.rpy:520
 translate russiantl _call_skipcheck_10_ef4c12fa:
 
     # Ad "By the way, interesting selection of books you have there. \"Draconic Desire\", \"Ixomen Sphere\" - are these yours?"
-    Ad ""
+    Ad "Кстати, у тебя интересный выбор книг. \"Драконическое Желание\", \"Сфера Иксомен\" - они твои?"
 
 # game/adine1.rpy:521
 translate russiantl _call_skipcheck_10_304794b1:
 
     # c "No, they were already here when I moved in."
-    c ""
+    c "Нет, они уже были здесь, когда я прибыл."
 
 # game/adine1.rpy:525
 translate russiantl _call_skipcheck_10_173c151b:
 
     # Ad "Have you read any of them?"
-    Ad ""
+    Ad "Ты уже что-то читал?"
 
 # game/adine1.rpy:526
 translate russiantl _call_skipcheck_10_2ad87d8f:
 
     # c "I did read \"Sheridan and the Scepter of Sovereignty\"."
-    c ""
+    c "Я прочитал \"Шеридан и Скипетер Суверенности\"."
 
 # game/adine1.rpy:527
 translate russiantl _call_skipcheck_10_8752fb4f:
 
     # Ad "How did you like it?"
-    Ad ""
+    Ad "Она тебе понравилась?"
 
 # game/adine1.rpy:533
 translate russiantl _call_skipcheck_10_26e8f868:
 
     # Ad "\"Nothing special\" is a good way to describe the entire series, actually."
-    Ad ""
+    Ad "На самом деле, целую серию можно описать, как \"Ничего особенного\""
 
 # game/adine1.rpy:543
 translate russiantl _call_skipcheck_10_43ebd9ef:
@@ -1940,7 +1940,7 @@ translate russiantl strings:
 
     # adine1.rpy:485
     old "I thought it was a joke."
-    new "Я думал, это была шутка."
+    new "Было похоже на шутку."
 
     # adine1.rpy:485
     old "I was unsure."
@@ -1948,7 +1948,7 @@ translate russiantl strings:
 
     # adine1.rpy:485
     old "I thought it was awesome."
-    new "Я думал, это было классно."
+    new "Я думал, что будет здорово."
 
     # adine1.rpy:529
     old "It was entertaining, but nothing special."
