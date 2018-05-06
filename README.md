@@ -8,7 +8,7 @@ Order of files to be translated (posted officially by M.B. Saunders): <br />
 common ✔<br />
 dv ✘<br />
 screens ✘<br />
-status ✘<br />
+status ✔<br />
 help ✘<br />
 images ✘<br />
 script ✘<br />
