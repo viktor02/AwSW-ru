@@ -1144,7 +1144,7 @@ translate russiantl nextsc_8a18e93a:
 translate russiantl nextsc_f0510f43:
 
     # Ad "There was this one time when I was still a teenager. I was messing around and wanted to try out a new flying maneuver: a barrel roll. Needless to say, it ended badly."
-    Ad ""
+    Ad "Был один случай, когда я была подростком. Я возилась в округе и хотела опробовать новый лётный манёвр: бочка. Разумеется, всё окончилось плохо."
 
 # game/adine1.rpy:776
 translate russiantl nextsc_b917eced:
