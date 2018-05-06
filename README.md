@@ -1,5 +1,5 @@
 # AwSW-ru
-Russian translation for Angels with Scaly Wings
+Russian translation for Angels with Scaly Wings.
 
 Order of files to be translated (posted officially by M.B. Saunders):
 common
