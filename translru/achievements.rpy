@@ -56,7 +56,7 @@ translate russiantl strings:
 
     # achievements.rpy:168
     old "{b}General Knowledgist{/b}\nAnswer Anna's questions correctly."
-    new "{b}General Knowledgist{/b}\nОтветить верно на вопросы Анны."
+    new "{b}Всезнающий{/b}\nОтветить верно на вопросы Анны."
 
     # achievements.rpy:179
     old "{b}Teetotaler{/b}\nReject Bryce's invitation."
