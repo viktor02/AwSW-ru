@@ -64,19 +64,19 @@ translate russiantl detected_bd29307b:
 translate russiantl detected_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    ""
+    "Управление\nИспользуйте [[Left Click] или [[Enter] чтобы листнуть текст и выбрать меню настроек.\nНажмите [[Space] чтобы просто листнуть текст. Это полезно, чтобы не совершить неправильный выбор по ошибке."
 
 # game/chapter1.rpy:384
 translate russiantl detected_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    ""
+    "[[ESC] или [[Right Click] открывает меню.\n[[F] переключает полноэкранный режим.\nИспользуйте [[Mousewheel], или [[Page Up] и [[Page Down] чтобы посмотреть прошлые сообщения и перемотать."
 
 # game/chapter1.rpy:385
 translate russiantl detected_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    ""
+    "Зажмите [[Ctrl] или нажмите [[Tab] чтобы промотать просмотренные сообщения.\n[[S] снимает скриншот.\n[[Middle Click] или [[H] прячет текстовое окно.\nЕсли захотите увидеть эту информацию снова, вы всегда можете сделать это из главного меню."
 
 # game/chapter1.rpy:386
 translate russiantl detected_4f5f91c6:
@@ -106,19 +106,19 @@ translate russiantl colorend_bd29307b:
 translate russiantl colorend_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    ""
+    "Управление\nИспользуйте [[Left Click] или [[Enter] чтобы листнуть текст и выбрать меню настроек.\nНажмите [[Space] чтобы просто листнуть текст. Это полезно, чтобы не совершить неправильный выбор по ошибке."
 
 # game/chapter1.rpy:407
 translate russiantl colorend_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    ""
+    "[[ESC] или [[Right Click] открывает меню.\n[[F] переключает полноэкранный режим.\nИспользуйте [[Mousewheel], или [[Page Up] и [[Page Down] чтобы посмотреть прошлые сообщения и перемотать."
 
 # game/chapter1.rpy:408
 translate russiantl colorend_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    ""
+    "Зажмите [[Ctrl] или нажмите [[Tab] чтобы промотать просмотренные сообщения.\n[[S] снимает скриншот.\n[[Middle Click] или [[H] прячет текстовое окно.\nЕсли захотите увидеть эту информацию снова, вы всегда можете сделать это из главного меню."
 
 # game/chapter1.rpy:409
 translate russiantl colorend_7c214f52:
@@ -174,13 +174,13 @@ translate russiantl begingame_337d015e:
 translate russiantl begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n ""
+    n "Когда мы дали об этом знать другой стороне, мы получили очень неожиданный ответ: Письмо с приглашением. После небольших размышлений, было решено принять их гостеприимство и отправить человека по ту сторону."
 
 # game/chapter1.rpy:437
 translate russiantl begingame_3dadd8d0:
 
     # n "There was an individual who took the job almost immediately."
-    n ""
+    n "Был там один, кто принялся за работу почти срзу же."
 
 # game/chapter1.rpy:443
 translate russiantl begingame_76b2fe88_1:
@@ -192,25 +192,25 @@ translate russiantl begingame_76b2fe88_1:
 translate russiantl begingame_f40eb8ae:
 
     # n "Reza Izquierdo."
-    n ""
+    n "Риза Искуэрдо"
 
 # game/chapter1.rpy:447
 translate russiantl begingame_f4966cae:
 
     # n "I knew him. Or rather, had known him. We attended the same school back then, and even had a few classes together. We never really were very close friends, but we talked to each other occasionally and hung around with the same crowd sometimes. However, we still went our separate ways in the end."
-    n ""
+    n "Я знал его. Скорее даже раньше знал. Мы поступили в одну и ту же школу и даже проучились несколько классов вместе. Мы никогда не были очень близкими друзьями, но мы говорили друг с другом время от времени и были иногда в одних и тех же компаниях. Тем не менее, мы по-прежнему шли разными путями под конец."
 
 # game/chapter1.rpy:448
 translate russiantl begingame_d966c5be:
 
     # n "I wasn't sure what to think about the whole thing, but he had to have known what he was doing. He certainly was brave."
-    n ""
+    n "Я не был уверен, что думать об этом всём, но он, должно быть, знал, что он делал. Он определенно был смелым."
 
 # game/chapter1.rpy:449
 translate russiantl begingame_0be71cd9:
 
     # n "Either that, or just very, very foolish."
-    n ""
+    n "Или так, или же просто очень, очень глупым."
 
 # game/chapter1.rpy:450
 translate russiantl begingame_71b0a869:
