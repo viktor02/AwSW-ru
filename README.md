@@ -1,12 +1,12 @@
-# AwSW-ru 
+# AwSW-ru
 Russian translation for Angels with Scaly Wings. <br />
 If you are willing to participate in translation, feel free to add me on Steam and message me. <br />
-Here's my Steam page: http://steamcommunity.com/id/wolfniey/ 
+Here's my Steam page: http://steamcommunity.com/id/wolfniey/
 
 
 Order of files to be translated (posted officially by M.B. Saunders): <br />
 common ✔<br />
-dv ✘<br />
+dv ✔<br />
 screens ✘<br />
 status ✔<br />
 help ✘<br />
@@ -32,11 +32,11 @@ xzhong ✘<br />
 chapter3 ✘<br />
 adine3 ✘<br />
 anna3 ✘<br />
-bryce3 ✘<br /> 
+bryce3 ✘<br />
 lorem3 ✘<br />
 remy3 ✘<br />
-xkatsu ✘<br /> 
-chapter4 ✘<br /> 
+xkatsu ✘<br />
+chapter4 ✘<br />
 adine4 ✘<br />
 anna4 ✘<br />
 bryce4 ✘<br />
