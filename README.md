@@ -3,16 +3,16 @@ Russian translation for Angels with Scaly Wings. <br />
 If you are willing to participate in translation, feel free to add me on Steam and message me. <br />
 Here's my Steam page: http://steamcommunity.com/id/wolfniey/
 
-Progress: 5 files out of 48
+Progress: 8 files out of 48
 
 Order of files to be translated (posted officially by M.B. Saunders): <br />
 common ✔<br />
 dv ✔<br />
 screens ✔<br />
 status ✔<br />
-help ✘<br />
-images ✘<br />
-script ✘<br />
+help ✔<br />
+images ✔<br />
+script ✔<br />
 chapter1 ✘<br />
 chapter1ALT ✘<br />
 adine1 ✘<br />
