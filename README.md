@@ -7,7 +7,7 @@ Here's my Steam page: http://steamcommunity.com/id/wolfniey/
 Order of files to be translated (posted officially by M.B. Saunders): <br />
 common ✔<br />
 dv ✔<br />
-screens ✘<br />
+screens ✔<br />
 status ✔<br />
 help ✘<br />
 images ✘<br />
