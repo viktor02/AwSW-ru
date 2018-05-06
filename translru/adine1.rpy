@@ -490,217 +490,217 @@ translate russiantl _call_skipcheck_10_f106bf6f:
 translate russiantl _call_skipcheck_10_a846bbc7:
 
     # Ad "That's what hobbies are for, though, right? It's just something I enjoy doing."
-    Ad ""
+    Ad "Хобби и созданы для этого, верно? Это то, что мне нравится делать."
 
 # game/adine1.rpy:390
 translate russiantl _call_skipcheck_10_abbb67c9:
 
     # Ad "It's the practice of doing flying maneuvers like rolls, spins or loops."
-    Ad ""
+    Ad "Это практика таких манёвров в полёте, как бочка, кружение или петля."
 
 # game/adine1.rpy:392
 translate russiantl _call_skipcheck_10_3a20ab9d:
 
     # Ad "I'm actually hoping to be part of a competition in some time."
-    Ad ""
+    Ad "Я действительно надеюсь однажды принять участие в соревновании."
 
 # game/adine1.rpy:399
 translate russiantl _call_skipcheck_10_e2d25ad9:
 
     # Ad "Just because I can fly in the rain doesn't mean that I want to."
-    Ad ""
+    Ad "Только то, что я могу летать в дождь, ещё не значит то, что я хочу этого."
 
 # game/adine1.rpy:402
 translate russiantl _call_skipcheck_10_a6751830:
 
     # Ad "That's what I'm trying to find out."
-    Ad ""
+    Ad "Это как раз то, что я пытаюсь выяснить."
 
 # game/adine1.rpy:406
 translate russiantl _call_skipcheck_10_3a15203a:
 
     # Ad "I suppose that depends on whether you will still be here when it takes place. It's part of a festival we hold in this town every year."
-    Ad ""
+    Ad "Я так думаю, это зависит от того будешь ли ты здесь, когда всё начнётся. Это часть фестиваля, который мы проводим в этом городе каждый год."
 
 # game/adine1.rpy:409
 translate russiantl _call_skipcheck_10_410ee6b4:
 
     # Ad "Okay, since it is my turn again, well..."
-    Ad ""
+    Ad "Хорошо, раз это снова мой ход, то..."
 
 # game/adine1.rpy:411
 translate russiantl _call_skipcheck_10_02d2db07:
 
     # Ad "This might be an unusual question, so... When they said it was a human that would be coming here, I kinda expected something a little different."
-    Ad ""
+    Ad "Это может быть чуточку необычный вопрос, но... Когда они сказали, что вскоре сюда прибудет человек, я как бы ожидала чего-то иного."
 
 # game/adine1.rpy:418
 translate russiantl _call_skipcheck_10_9beac2da:
 
     # Ad "You know what I mean..."
-    Ad ""
+    Ad "Ты понимаешь о чём я..."
 
 # game/adine1.rpy:424
 translate russiantl _call_skipcheck_10_2f44ec25:
 
     # Ad "I'm not sure exactly, but they do say it was humans that made us who we are today. You don't seem so different from us, though."
-    Ad ""
+    Ad "Я не совсем уверена, но они сказали, что люди сделали нас теми, кем мы являемся сегодня. Хотя, ты не сильно отличаешься от нас."
 
 # game/adine1.rpy:427
 translate russiantl _call_skipcheck_10_53f42aeb:
 
     # c "I know. Remy told me about some of the commonly held beliefs here."
-    c ""
+    c "Я знаю. Реми рассказал мне некоторые из местных распространённых предубеждений."
 
 # game/adine1.rpy:430
 translate russiantl _call_skipcheck_10_ac2a2159:
 
     # Ad "I mean, yeah, you do look different from us, but you're not really anything like some of the things that have been said about your kind."
-    Ad ""
+    Ad "Я имею ввиду, да, ты выглядишь отлично от нас, но на самом деле ты совсем не тот, о чьём виде говорят самые различные вещи."
 
 # game/adine1.rpy:431
 translate russiantl _call_skipcheck_10_91928a3d:
 
     # c "I could say the same thing about you."
-    c ""
+    c "Я могу сказать то же и о вас."
 
 # game/adine1.rpy:433
 translate russiantl _call_skipcheck_10_c097ab55:
 
     # Ad "Really?"
-    Ad ""
+    Ad "Правда?"
 
 # game/adine1.rpy:434
 translate russiantl _call_skipcheck_10_93f88486:
 
     # c "Yeah, we have plenty of myths about dragons."
-    c ""
+    c "Да, у нас существует обилие мифов о драконах."
 
 # game/adine1.rpy:438
 translate russiantl _call_skipcheck_10_8b9da41f:
 
     # Ad "Like what?"
-    Ad ""
+    Ad "К примеру?"
 
 # game/adine1.rpy:442
 translate russiantl _call_skipcheck_10_c21eb134:
 
     # c "There are just too many to list. Some of them good, some not so much."
-    c ""
+    c "Их слишком много, чтобы перечислять. Некоторые из них хорошие, другие не совсем."
 
 # game/adine1.rpy:444
 translate russiantl _call_skipcheck_10_8abc6d5e:
 
     # Ad "Sounds like what we have on you, actually. Now that I see one of you right in front of me, it's almost silly what some of the myths say."
-    Ad ""
+    Ad "Звучит подобно нашим, по-правде. Теперь видя тебя прямо напротив, некоторые из мифов являются неразумными и глупыми."
 
 # game/adine1.rpy:452
 translate russiantl _call_skipcheck_10_54e6a0c5:
 
     # c "Well, according to some, you are greedy, man-eating monsters, and also sometimes associated with evil and the apocalypse."
-    c ""
+    c "Ну, в соответствии с некоторыми, вы - ненасытные монстры, пожирающие людей, и также иногда ассоциируемые со злом и апокалипсисом."
 
 # game/adine1.rpy:454
 translate russiantl _call_skipcheck_10_b7bc313e:
 
     # Ad "Well, that's not very nice."
-    Ad ""
+    Ad "Что ж, они не очень хороши."
 
 # game/adine1.rpy:456
 translate russiantl _call_skipcheck_10_fbe98f30:
 
     # Ad "Though to be fair, some of what we have about you isn't very nice, either."
-    Ad ""
+    Ad "Хотя если признаться, некоторые из тех, что существуют у нас, тоже не очень хороши."
 
 # game/adine1.rpy:458
 translate russiantl _call_skipcheck_10_db56dd45:
 
     # c "Phew, good to know you aren't vicious monsters, then."
-    c ""
+    c "Фух, теперь хорошо знать, что вы не злобные монстры."
 
 # game/adine1.rpy:459
 translate russiantl _call_skipcheck_10_e5322ba8:
 
     # Ad "Oh, we can be vicious if we want to be. We just usually know better."
-    Ad ""
+    Ad "Ох, мы можем быть злобными, если захотим этого. Просто обычно мы знаем как лучше."
 
 # game/adine1.rpy:465
 translate russiantl _call_skipcheck_10_377987b8:
 
     # c "They are often cited as a symbol of power and strength, but also one of wisdom, possessing an intellect that has no equal. They are noble creatures, and their depictions enjoy an almost universal appeal."
-    c ""
+    c "Они часто цитируются как символ мощи и силы, но также и мудрости, обладающие интеллектом, которому нет равных. Они - благородные существа, и их изображение используется почти как универсальное обращение."
 
 # game/adine1.rpy:466
 translate russiantl _call_skipcheck_10_d7e7b442:
 
     # Ad "I could get used to that, though it would be even nicer if it were all true."
-    Ad ""
+    Ad "Я могла бы привыкнуть к этому, хотя было бы лучше, если это всё было правдой."
 
 # game/adine1.rpy:468
 translate russiantl _call_skipcheck_10_9fd77ad2:
 
     # Ad "To be honest, I don't know if it's such a good idea to generalize like that - even if it's good things you're saying about us. We're all different, you know, and not all of us are nice."
-    Ad ""
+    Ad "Если быть честной, то я не знаю является ли хорошей идеей обобщать всё это - даже если это те хорошие вещи, которые вы говорите о нас. Мы все разные и, ты знаешь, не все из нас добрые."
 
 # game/adine1.rpy:470
 translate russiantl _call_skipcheck_10_89aefe22:
 
     # c "I see."
-    c ""
+    c "Я понимаю."
 
 # game/adine1.rpy:471
 translate russiantl _call_skipcheck_10_c249e3f8:
 
     # Ad "But then, we have said many good things about your kind, too."
-    Ad ""
+    Ad "Но тогда, мы сказали много хороших вещей и о твоём виде."
 
 # game/adine1.rpy:476
 translate russiantl _call_skipcheck_10_0eb9375b:
 
     # c "Well, no matter what you might think about humans, I can assure you that I am in no way special or supernatural."
-    c ""
+    c "Ну, не важно что ты можешь думать о людях, я могу заверить тебя в том, что я не являюсь кем-то особенным или сверхъестественным."
 
 # game/adine1.rpy:478
 translate russiantl _call_skipcheck_10_a498f8f9:
 
     # Ad "I disagree with that."
-    Ad ""
+    Ad "Я не соглашусь с этим."
 
 # game/adine1.rpy:479
 translate russiantl _call_skipcheck_10_4e5a4202:
 
     # c "Why?"
-    c ""
+    c "Почему?"
 
 # game/adine1.rpy:481
 translate russiantl _call_skipcheck_10_dc481bac:
 
     # Ad "You say that you aren't special, but just the fact that you're here with us right now is quite special to me and many others. Just try to see it the other way around."
-    Ad ""
+    Ad "Ты говоришь, что ты не особенный, но лишь только тот факт, что ты сейчас именно здесь и сейчас, является особенным для меня и многих других. Просто попробуй посмотреть на это с другой стороны."
 
 # game/adine1.rpy:482
 translate russiantl _call_skipcheck_10_488948a9:
 
     # c "You know, you have a good point."
-    c ""
+    c "А знаешь, это хороший довод."
 
 # game/adine1.rpy:483
 translate russiantl _call_skipcheck_10_161c79f2:
 
     # Ad "What were you thinking when you first heard about us?"
-    Ad ""
+    Ad "О чём ты думал, когда впервые услышал о нас?"
 
 # game/adine1.rpy:487
 translate russiantl _call_skipcheck_10_22fb7d86:
 
     # c "I thought it was a joke. Of course, all of that changed once I came through the portal."
-    c ""
+    c "Я думал это была шутка. Конечно, всё изменилось, как только я перешёл через портал."
 
 # game/adine1.rpy:489
 translate russiantl _call_skipcheck_10_27b32db1:
 
     # Ad "See, having something you've only heard about in stories turn out to be real is quite special."
-    Ad ""
+    Ad "Видишь, имея то, о чём ты только слышал лишь в историях, обернулось в реальность - уже довольно особенно."
 
 # game/adine1.rpy:496
 translate russiantl _call_skipcheck_10_aaa0f5f8:
@@ -1904,51 +1904,51 @@ translate russiantl strings:
 
     # adine1.rpy:394
     old "So you can do all that, but a little rain is too much?"
-    new ""
+    new "И ты можешь делать всё это, но небольшой дождик - слишком многое?"
 
     # adine1.rpy:394
     old "Are you that good?"
-    new ""
+    new "Ты и вправду настолько хороша в этом деле?"
 
     # adine1.rpy:394
     old "Awesome, where can I watch that?"
-    new ""
+    new "Здорово, где я могу посмотреть на это?"
 
     # adine1.rpy:413
     old "That's not really a question."
-    new ""
+    new "На самом деле это не совсем вопрос."
 
     # adine1.rpy:413
     old "Well, what did you expect?"
-    new ""
+    new "И чего ты ожидала?"
 
     # adine1.rpy:413
     old "I know."
-    new ""
+    new "Я знаю."
 
     # adine1.rpy:440
     old "There are too many to list."
-    new ""
+    new "Их слишком много, чтобы перечислять."
 
     # adine1.rpy:440
     old "Dragons are greedy, man-eating monsters."
-    new ""
+    new "Драконы - ненасытные монстры, пожирающие людей."
 
     # adine1.rpy:440
     old "Dragons are noble creatures."
-    new ""
+    new "Драконы - благородные существа."
 
     # adine1.rpy:485
     old "I thought it was a joke."
-    new ""
+    new "Я думал, это была шутка."
 
     # adine1.rpy:485
     old "I was unsure."
-    new ""
+    new "Я не был уверен."
 
     # adine1.rpy:485
     old "I thought it was awesome."
-    new ""
+    new "Я думал, это было классно."
 
     # adine1.rpy:529
     old "It was entertaining, but nothing special."
