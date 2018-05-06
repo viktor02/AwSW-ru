@@ -268,13 +268,13 @@ translate russiantl _call_skipcheck_10_e241a15e:
 translate russiantl _call_skipcheck_10_629d7ddb:
 
     # Ad "That is true."
-    Ad "Это верно."
+    Ad "Это так."
 
 # game/adine1.rpy:286
 translate russiantl _call_skipcheck_10_45ce6c6a:
 
     # c "Let me ask you this: Where do you think the portal you found came from? Who built it?"
-    c "Повзоль мне спросить: Откуда появился портал в твоём мире? Кто его построил?"
+    c "Повзоль мне спросить: Откуда появился портал в вашем мире? Кто его построил?"
 
 # game/adine1.rpy:288
 translate russiantl _call_skipcheck_10_ef636fcf:
@@ -352,19 +352,19 @@ translate russiantl _call_skipcheck_10_6dae616b:
 translate russiantl _call_skipcheck_10_8a56387f:
 
     # c "That's very nice of you."
-    c "Это очень приятно с твоей стороны."
+    c "Это очень вежливо с твоей стороны."
 
 # game/adine1.rpy:313
 translate russiantl _call_skipcheck_10_03b324fd:
 
     # Ad "Thanks. These kids already didn't get a very good hand in life. I just thought that if I can make even a small difference for them it'd be worth it."
-    Ad "Спасибо. Эти дети уже оказались не в лучшем положении. Я просто подумала, что если смогу сделать даже самую малую помощь для них, то это стоит того."
+    Ad "Спасибо. Эти дети уже оказались не в лучшем положении. Я просто подумала, что если смогу оказать даже самую малую помощь для них, то это стоит того."
 
 # game/adine1.rpy:314
 translate russiantl _call_skipcheck_10_d29d4197:
 
     # c "I see. What about hobbies? Do you have any?"
-    c "Понятно. Что насчёт хобби? Что тебе нравится делать?"
+    c "Понимаю. Что насчёт хобби? Что тебе нравится делать?"
 
 # game/adine1.rpy:318
 translate russiantl _call_skipcheck_10_ebf1fe4b:
@@ -388,7 +388,7 @@ translate russiantl _call_skipcheck_10_ac95ba08:
 translate russiantl _call_skipcheck_10_cdd3e6f5:
 
     # Ad "You're silly. I like that."
-    Ad "Ты глупыш. Мне это нравится."
+    Ad "You're silly. Мне это нравится."
 
 # game/adine1.rpy:338
 translate russiantl _call_skipcheck_10_75906cf7:
@@ -454,7 +454,7 @@ translate russiantl _call_skipcheck_10_d049fb42:
 translate russiantl _call_skipcheck_10_0cc7643e:
 
     # c "I suppose it's my turn again, so tell me about your hobbies."
-    c "Я думаю, теперь мой ход. И-так, какие твои хобби?"
+    c "Я думаю теперь мой ход. И-так, расскажи о своих хобби."
 
 # game/adine1.rpy:367
 translate russiantl _call_skipcheck_10_cc546db3:
@@ -478,13 +478,13 @@ translate russiantl _call_skipcheck_10_4b4db401:
 translate russiantl _call_skipcheck_10_43ec0d7d:
 
     # Ad "I do Aerobatics, or stunt flying. I've been doing that on and off for a couple of years now."
-    Ad "Я занимаюсь Аэробикой, "
+    Ad "Я занимаюсь Аэробикой. *** I've been doing that on and off for a couple of years now. ***"
 
 # game/adine1.rpy:379
 translate russiantl _call_skipcheck_10_f106bf6f:
 
     # Ad "Actually, that might not be so far from the truth."
-    Ad ""
+    Ad "Фактически, правда может быть довольно близко."
 
 # game/adine1.rpy:386
 translate russiantl _call_skipcheck_10_a846bbc7:
@@ -1864,7 +1864,7 @@ translate russiantl strings:
 
     # adine1.rpy:274
     old "Maybe I don't care."
-    new "Может. Мне без разницы."
+    new "Может. Мне всё равно."
 
     # adine1.rpy:320
     old "Sure, go ahead."
@@ -1880,7 +1880,7 @@ translate russiantl strings:
 
     # adine1.rpy:343
     old "Nothing special."
-    new "Ничего особенного."
+    new "Ничем особенным."
 
     # adine1.rpy:343
     old "[[Avoid the question by making a bad pun.]"
@@ -1888,19 +1888,19 @@ translate russiantl strings:
 
     # adine1.rpy:343
     old "That's classified."
-    new ""
+    new "Это секретно."
 
     # adine1.rpy:374
     old "You must be the most overqualified delivery flyer in history, then."
-    new ""
+    new "Ты, должно быть, самый сверхквалифицированный летающий доставщик в истории."
 
     # adine1.rpy:374
     old "That's a cool, but also pretty useless hobby."
-    new ""
+    new "Это крутое, но и довольно бесполезное хобби."
 
     # adine1.rpy:374
     old "What's that?"
-    new ""
+    new "Что это?"
 
     # adine1.rpy:394
     old "So you can do all that, but a little rain is too much?"
