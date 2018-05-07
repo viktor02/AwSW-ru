@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 
 # game/adine1.rpy:27
 translate russiantl adine1_b66a50f0:
@@ -1150,181 +1150,181 @@ translate russiantl nextsc_f0510f43:
 translate russiantl nextsc_b917eced:
 
     # c "I guess you didn't succeed, then?"
-    c ""
+    c "Я догадываюсь, у тебч не получилось?"
 
 # game/adine1.rpy:777
 translate russiantl nextsc_895e7591:
 
     # Ad "No, the roll itself went fine, but I lost control after that and plunged right to the ground."
-    Ad ""
+    Ad "Нет, сам по себе манёвр проходил хорошо, но я сразу потеряла контроль и вляпалась прямо в землю."
 
 # game/adine1.rpy:778
 translate russiantl nextsc_b2517d74:
 
     # c "Oh, were you hurt?"
-    c ""
+    c "Ох, тебе было больно?"
 
 # game/adine1.rpy:780
 translate russiantl nextsc_54608f68:
 
     # Ad "No, luckily I wasn't too high when I did it, and there was a great puddle of mud on the ground right where I landed. Of course all my friends were there to see it."
-    Ad ""
+    Ad "Нет, к счастью, я была не слишком высоко и угодила в прекрасную лужу грязи. Конечно, все мои друзья увидели это."
 
 # game/adine1.rpy:781
 translate russiantl nextsc_57d8dcd9:
 
     # c "That wasn't enough to stop you from ever trying again?"
-    c ""
+    c "Но этого не было достаточно, чтобы остановить тебя?"
 
 # game/adine1.rpy:783
 translate russiantl nextsc_818b4ba1:
 
     # Ad "No. If anything, it only made me want to try harder."
-    Ad ""
+    Ad "Нет. Такие вещи только заставляют меня стараться усерднее."
 
 # game/adine1.rpy:785
 translate russiantl nextsc_1b02c93b:
 
     # Ad "Since it is my turn now: What is your greatest wish?"
-    Ad ""
+    Ad "Раз сейчас мой ход: Какое твоё самое большое желание?"
 
 # game/adine1.rpy:790
 translate russiantl nextsc_c00b79d5:
 
     # c "More than anything, I'd want there to be peace on Earth."
-    c ""
+    c "Больше всего, я бы желал мир во всём мире."
 
 # game/adine1.rpy:791
 translate russiantl nextsc_24edf6f0:
 
     # Ad "That is an honorable wish, [player_name]."
-    Ad ""
+    Ad "Это благородное желание, [player_name]."
 
 # game/adine1.rpy:797
 translate russiantl nextsc_646ac1a5:
 
     # Ad "That seems to be a very personal wish, [player_name]."
-    Ad ""
+    Ad "Я бы сказала, что это очень субъективное желание, [player_name]."
 
 # game/adine1.rpy:804
 translate russiantl nextsc_de415d5c:
 
     # c "Be rich and have the freedom to do what I want to, whenever I want to."
-    c ""
+    c "Быть богатым и выбирать самому то, что я бы ни пожелал."
 
 # game/adine1.rpy:806
 translate russiantl nextsc_43ebd9ef:
 
     # Ad "I see."
-    Ad ""
+    Ad "Понятно."
 
 # game/adine1.rpy:812
 translate russiantl nextsc_416efc12:
 
     # c "Okay, my turn."
-    c ""
+    c "Хорошо, мой ход."
 
 # game/adine1.rpy:819
 translate russiantl nextsc_2ebf59c9:
 
     # Ad "Invisible, huh?"
-    Ad ""
+    Ad "Невидимость, хм?"
 
 # game/adine1.rpy:820
 translate russiantl nextsc_bc0926e9:
 
     # Ad "That's a hard one. I mean, no one would see my flying then, and I do want people to see that."
-    Ad ""
+    Ad "Довольно сложный вопрос. Мне бы хотелось, чтобы люди могли видеть, как я летаю."
 
 # game/adine1.rpy:821
 translate russiantl nextsc_5b659cad:
 
     # c "Well, with this question it's more about what you would do if you had the opportunity to do something without getting caught, like something mischievous or criminal."
-    c ""
+    c "Ну, этот вопрос скорее о том, что бы ты сделала, имея возможность не быть пойманной за что-то вредное мли криминальное."
 
 # game/adine1.rpy:823
 translate russiantl nextsc_d89cde73:
 
     # Ad "Oh, I know what I would do. I'd check out the building they found along with the portal."
-    Ad ""
+    Ad "О, я знаю что бы я сделала. Я бы осмотрела здание, которое они нашли вместе с порталом."
 
 # game/adine1.rpy:824
 translate russiantl nextsc_1531db24:
 
     # c "What building?"
-    c ""
+    c "Какое здание?"
 
 # game/adine1.rpy:825
 translate russiantl nextsc_a70918ca:
 
     # Ad "Didn't you hear about that? They found a whole building along with the portal."
-    Ad ""
+    Ad "Разве ты не слышал о нём? Они нашли целое строение вместе с порталом."
 
 # game/adine1.rpy:826
 translate russiantl nextsc_e950f342:
 
     # Ad "It's actually underground, and they have it heavily guarded while a team of archaeologists works on it. I think it might contain many secrets and answers about the portal and where it came from."
-    Ad ""
+    Ad "На самом деле, оно под землёй, и они усердно охраняют его, пока команда археологов изучает его. Думаю, там находится много секретов и ответов о портале, и то, откуда он появился."
 
 # game/adine1.rpy:827
 translate russiantl nextsc_81939529:
 
     # c "Interesting. I think I'd like to check that out as well."
-    c ""
+    c "Интересно. Я, думаю, тоже хотел бы узнать об этом по-больше."
 
 # game/adine1.rpy:830
 translate russiantl nextsc_e306f303:
 
     # Ad "No, absolutely not."
-    Ad ""
+    Ad "Нет, совсем ни чуть."
 
 # game/adine1.rpy:831
 translate russiantl nextsc_73c2fcc2:
 
     # c "Why not?"
-    c ""
+    c "Почему нет?"
 
 # game/adine1.rpy:832
 translate russiantl nextsc_6507f194:
 
     # Ad "Well, I do have some ideas of what might happen afterwards, but even if what I think isn't true, I'm not afraid of the unknown."
-    Ad ""
+    Ad "Ну, у меня есть несколько предположений о том, что следует после смерти. Но даже если я ошибаюсь, то я не бсюсь неизвестности."
 
 # game/adine1.rpy:834
 translate russiantl nextsc_c1901d4d:
 
     # Ad "In some sort of twisted way, I'm actually kinda curious to find out what it'll be like when it's all over."
-    Ad ""
+    Ad "В каком-то роде, мне даже интересно узнать что произойдёт, когда всё окончится."
 
 # game/adine1.rpy:840
 translate russiantl nextsc_dace38e7:
 
     # Ad "Aren't you curious as well?"
-    Ad ""
+    Ad "Разве тебе не интересно тоже?"
 
 # game/adine1.rpy:841
 translate russiantl nextsc_11a66161:
 
     # c "Not this curious."
-    c ""
+    c "Не таким образом."
 
 # game/adine1.rpy:842
 translate russiantl nextsc_43ebd9ef_1:
 
     # Ad "I see."
-    Ad ""
+    Ad "Я вижу."
 
 # game/adine1.rpy:848
 translate russiantl nextsc_43ebd9ef_2:
 
     # Ad "I see."
-    Ad ""
+    Ad "Понимаю."
 
 # game/adine1.rpy:854
 translate russiantl nextsc_da6029a2:
 
     # Ad "That's not funny, [player_name]."
-    Ad ""
+    Ad "Это не смешно, [player_name]."
 
 # game/adine1.rpy:860
 translate russiantl nextsc_ff57023e:
@@ -2044,68 +2044,68 @@ translate russiantl strings:
 
     # adine1.rpy:814
     old "What do you think is your biggest physical flaw?"
-    new ""
+    new "Какой по твоему мнению самый большой физический изъян?"
 
     # adine1.rpy:836
     old "That's... interesting."
-    new ""
+    new "Это... интересно."
 
     # adine1.rpy:836
     old "To be honest, I feel the same way."
-    new ""
+    new "Честно говоря, я считаю так же.*"
 
     # adine1.rpy:836
     old "You know, if you're so eager to find out, I could help you with that."
-    new ""
+    new "Если тебе так не терпится узнать это, то я могу помочь тебе."
 
     # adine1.rpy:863
     old "I think they're cute."
-    new ""
+    new "Я считаю, что они милые."
 
     # adine1.rpy:863
     old "I agree with you there."
-    new ""
+    new "С этим сложно не согласиться."
 
     # adine1.rpy:863
     old "I'm not sure I'd agree with that."
-    new ""
+    new "Я не думаю так."
 
     # adine1.rpy:880
     old "Enjoy life to the fullest until the last moment."
-    new ""
+    new "Буду наслаждаться полной жизнью до последнего момента."
 
     # adine1.rpy:880
     old "Say my last goodbyes and hope for the best."
-    new ""
+    new "Скажу прощальные слова и буду надеяться на лучшее."
 
     # adine1.rpy:880
     old "Stay outside and watch it all unfold before my eyes."
-    new ""
+    new "Останусь снаружи и буду наблюдать, как всё исчезает перед моими глазами."
 
     # adine1.rpy:880
     old "Hide in a bunker deep underground."
-    new ""
+    new "Спрячусь в бункере глубоко под землёй."
 
     # adine1.rpy:923
     old "If you could come back with me to my world right now, would you do it?"
-    new ""
+    new "Если бы ты могла вернуться со мной в мой мир прчмо сейчас, ты бы сделала это?"
 
     # adine1.rpy:923
     old "What's your biggest regret?"
-    new ""
+    new "Какой твой самый большой изъян?"
 
     # adine1.rpy:923
     old "If I asked you to kiss me, would you do it?"
-    new ""
+    new "Если бы я попросил тебя поцеловать меня, ты бы сделала это?"
 
     # adine1.rpy:937
     old "Remove your headgear."
-    new ""
+    new "Сними свой головной убор."
 
     # adine1.rpy:937
     old "Kiss me."
-    new ""
+    new "Поцелуй меня."
 
     # adine1.rpy:937
     old "Bite into a lemon."
-    new ""
+    new "Укуси лемон."
