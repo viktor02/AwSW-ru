@@ -180,7 +180,7 @@ translate russiantl begingame_00947764:
 translate russiantl begingame_3dadd8d0:
 
     # n "There was an individual who took the job almost immediately."
-    n "Был там один, кто принялся за работу почти срзу же."
+    n "Один из нас принялся за работу почти сразу же."
 
 # game/chapter1.rpy:443
 translate russiantl begingame_76b2fe88_1:
