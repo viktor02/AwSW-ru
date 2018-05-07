@@ -1240,7 +1240,7 @@ translate russiantl nextsc_bc0926e9:
 translate russiantl nextsc_5b659cad:
 
     # c "Well, with this question it's more about what you would do if you had the opportunity to do something without getting caught, like something mischievous or criminal."
-    c "Ну, этот вопрос скорее о том, что бы ты сделала, имея возможность не быть пойманной за что-то вредное мли криминальное."
+    c "Ну, этот вопрос скорее о том, что бы ты сделала, имея возможность не быть пойманной за что-то вредное или криминальное."
 
 # game/adine1.rpy:823
 translate russiantl nextsc_d89cde73:
@@ -1276,7 +1276,7 @@ translate russiantl nextsc_81939529:
 translate russiantl nextsc_e306f303:
 
     # Ad "No, absolutely not."
-    Ad "Нет, совсем ни чуть."
+    Ad "Нет, ни чуть."
 
 # game/adine1.rpy:831
 translate russiantl nextsc_73c2fcc2:
@@ -1288,7 +1288,7 @@ translate russiantl nextsc_73c2fcc2:
 translate russiantl nextsc_6507f194:
 
     # Ad "Well, I do have some ideas of what might happen afterwards, but even if what I think isn't true, I'm not afraid of the unknown."
-    Ad "Ну, у меня есть несколько предположений о том, что следует после смерти. Но даже если я ошибаюсь, то я не бсюсь неизвестности."
+    Ad "Ну, у меня есть несколько предположений о том, что следует после смерти. Но даже если я ошибаюсь, то я не боюсь неизвестности."
 
 # game/adine1.rpy:834
 translate russiantl nextsc_c1901d4d:
@@ -1330,397 +1330,397 @@ translate russiantl nextsc_da6029a2:
 translate russiantl nextsc_ff57023e:
 
     # Ad "Well, I wouldn't really call it a flaw, but if I could change one thing, it would probably be these stripes on my muzzle."
-    Ad ""
+    Ad "Ну, я бы не назвала это недостатком, но если бы я была способна, то, возможно, я бы убрала эти зелёные полосы."
 
 # game/adine1.rpy:862
 translate russiantl nextsc_7bbf2eae:
 
     # Ad "I don't like them very much."
-    Ad ""
+    Ad "Мне они не особо нравятся."
 
 # game/adine1.rpy:865
 translate russiantl nextsc_08e5ce63:
 
     # Ad "No matter if people like them or not, they always stand out. That's what I don't like."
-    Ad ""
+    Ad "Неважно, что люди думают о них. Они всегда выделяются, и мне это не нравится."
 
 # game/adine1.rpy:871
 translate russiantl nextsc_7b61b183:
 
     # Ad "I know they aren't pretty. You don't have to repeat what I just said."
-    Ad ""
+    Ad "Я знаю, что они не особо приятные. Тебе не надо повторять то, что я сказала только что."
 
 # game/adine1.rpy:877
 translate russiantl nextsc_27e1283c:
 
     # Ad "But then you aren't the one who's supposed to answer the question."
-    Ad ""
+    Ad "Но ты же не тот, кто обязан ответить на вопрос."
 
 # game/adine1.rpy:879
 translate russiantl nextsc_3d75357b:
 
     # Ad "If you knew the world was about to end, what would you do?"
-    Ad ""
+    Ad "Если бы ты знал, что мир скоро исчезнет, что бы ты сделал?"
 
 # game/adine1.rpy:884
 translate russiantl nextsc_0b95e538:
 
     # Ad "Going out with a bang, huh?"
-    Ad ""
+    Ad "Уйти с удовольствием, да?"
 
 # game/adine1.rpy:895
 translate russiantl nextsc_375c54ad:
 
     # Ad "An optimist until the very end. I like that."
-    Ad ""
+    Ad "Оставаться оптимистом до последнего момента? Хорошая мысль."
 
 # game/adine1.rpy:905
 translate russiantl nextsc_c11e0ee0:
 
     # Ad "That would be quite a show, huh?"
-    Ad ""
+    Ad "Это было бы неплохое шоу, да?"
 
 # game/adine1.rpy:915
 translate russiantl nextsc_aa2237bc:
 
     # Ad "I'm not sure if I could do that. I don't like tight, enclosed spaces."
-    Ad ""
+    Ad "Я бы не сделала этого. Я не терплю тесные, закрытые помещения."
 
 # game/adine1.rpy:927
 translate russiantl nextsc_e3afd84b:
 
     # Ad "That's a very difficult question, you know."
-    Ad ""
+    Ad "Знаешь, это очень сложный вопрос."
 
 # game/adine1.rpy:929
 translate russiantl nextsc_d022c5bd:
 
     # Ad "Of course I'd love to visit - maybe as some sort of vacation. But if you're talking about permanently, I'm not sure if I could just pack up and leave everything behind just like that."
-    Ad ""
+    Ad "Конечно, мне бы хотелось - как небольшой отдых. Но, если ты говоришь о том, чтобы уйти навсегда, я не уверена, что смогла бы так просто покинуть свой мир и оставить всё позади."
 
 # game/adine1.rpy:932
 translate russiantl nextsc_b8fb304d:
 
     # Ad "Oh my..."
-    Ad ""
+    Ad "Ох..."
 
 # game/adine1.rpy:934
 translate russiantl nextsc_2355e57c:
 
     # Ad "..."
-    Ad ""
+    Ad "..."
 
 # game/adine1.rpy:935
 translate russiantl nextsc_a77509ab:
 
     # Ad "I think it might be time for a dare now."
-    Ad ""
+    Ad "Я думаю, самое время для действия."
 
 # game/adine1.rpy:936
 translate russiantl nextsc_86148265:
 
     # c "Alright."
-    c ""
+    c "Хорошо."
 
 # game/adine1.rpy:942
 translate russiantl nextsc_0268ca80:
 
     # Ad "Just that? That's not very hard."
-    Ad ""
+    Ad "И всё? Это не очень-то сложно."
 
 # game/adine1.rpy:943
 translate russiantl nextsc_dc9a1cef:
 
     # c "I thought I'd go easy on you, since it is your first time and all."
-    c ""
+    c "Думаю, этого достаточно на первый раз, ведь ты играешь впервые."
 
 # game/adine1.rpy:944
 translate russiantl nextsc_43ebd9ef_3:
 
     # Ad "I see."
-    Ad ""
+    Ad "Хорошо."
 
 # game/adine1.rpy:953
 translate russiantl nextsc_bfaeb6df:
 
     # Ad "There. Satisfied?"
-    Ad ""
+    Ad "Вот. Доволен?"
 
 # game/adine1.rpy:955
 translate russiantl nextsc_5ce0ffef:
 
     # c "Definitely."
-    c ""
+    c "Определённо."
 
 # game/adine1.rpy:974
 translate russiantl _call_syscheck_48_b8834e95:
 
     # s "You got Adine to remove her headgear!"
-    s ""
+    s "Вы заставили Адайн снять её головной убор!"
 
 # game/adine1.rpy:978
 translate russiantl _call_syscheck_48_5c7f4389:
 
     # s "You got Adine to remove her headgear. Wow."
-    s ""
+    s "Вы заставили Адайн снять её головной убор. Вау."
 
 # game/adine1.rpy:982
 translate russiantl _call_syscheck_48_890abada:
 
     # s "You got Adine to remove her headgear. Don't let it go to your head."
-    s ""
+    s "Вы заставили Адайн снять её головной убор. Не заставляйте её проделать то же самое с вашей головой."
 
 # game/adine1.rpy:987
 translate russiantl _call_syscheck_48_93f9d835:
 
     # Ad "That's your dare?"
-    Ad ""
+    Ad "Это твоё действие?"
 
 # game/adine1.rpy:988
 translate russiantl _call_syscheck_48_c0334108:
 
     # c "Yep."
-    c ""
+    c "Ага."
 
 # game/adine1.rpy:989
 translate russiantl _call_syscheck_48_2355e57c:
 
     # Ad "..."
-    Ad ""
+    Ad "..."
 
 # game/adine1.rpy:991
 translate russiantl _call_syscheck_48_9e2d907e:
 
     # Ad "Alright, whatever. I'll do it."
-    Ad ""
+    Ad "Ах, не важно. Я сделаю это."
 
 # game/adine1.rpy:1000
 translate russiantl _call_syscheck_48_7b0e0bd9:
 
     # Ad "There, I did it. Satisfied?"
-    Ad ""
+    Ad "Вот, я сделала. Доволен?"
 
 # game/adine1.rpy:1002
 translate russiantl _call_syscheck_48_5ce0ffef:
 
     # c "Definitely."
-    c ""
+    c "Определённо."
 
 # game/adine1.rpy:1007
 translate russiantl _call_syscheck_48_989cc9bb:
 
     # Ad "Is that all?"
-    Ad ""
+    Ad "И это всё?"
 
 # game/adine1.rpy:1008
 translate russiantl _call_syscheck_48_38babdee:
 
     # c "You can find one in the pantry."
-    c ""
+    c "Ты можешь найти его в кладовке."
 
 # game/adine1.rpy:1010
 translate russiantl _call_syscheck_48_58abfc7c:
 
     # Ad "Alright."
-    Ad ""
+    Ad "Хорошо."
 
 # game/adine1.rpy:1015
 translate russiantl _call_syscheck_48_e78a619c:
 
     # Ad "So, should I just take a bite out of this one?"
-    Ad ""
+    Ad "И, я просто должна укусить его?"
 
 # game/adine1.rpy:1016
 translate russiantl _call_syscheck_48_d88b5013:
 
     # c "That's your dare."
-    c ""
+    c "Это твоё действие."
 
 # game/adine1.rpy:1017
 translate russiantl _call_syscheck_48_14ef9c1b:
 
     # Ad "If you say so..."
-    Ad ""
+    Ad "Если ты так говоришь..."
 
 # game/adine1.rpy:1022
 translate russiantl _call_syscheck_48_7711fd6d:
 
     # c "(She didn't even peel it or anything...)"
-    c ""
+    c "(Она даже не очистила его...)"
 
 # game/adine1.rpy:1027
 translate russiantl _call_syscheck_48_0950e22e:
 
     # Ad "I'm not sure what's so special about that."
-    Ad ""
+    Ad "Я не понимаю, что в этом особенного."
 
 # game/adine1.rpy:1028
 translate russiantl _call_syscheck_48_e8bc5fde:
 
     # c "You didn't mind at all?"
-    c ""
+    c "Ты совсем не против?"
 
 # game/adine1.rpy:1030
 translate russiantl _call_syscheck_48_9270e653:
 
     # Ad "Not a bit."
-    Ad ""
+    Ad "Ни капельки."
 
 # game/adine1.rpy:1032
 translate russiantl _call_syscheck_48_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/adine1.rpy:1033
 translate russiantl _call_syscheck_48_89aefe22:
 
     # c "I see."
-    c ""
+    c "Понятно."
 
 # game/adine1.rpy:1038
 translate russiantl _call_syscheck_48_ef602e3b:
 
     # Ad "Is that your question, or is that already a dare?"
-    Ad ""
+    Ad "Это такой вопрос, или уже действие?"
 
 # game/adine1.rpy:1039
 translate russiantl _call_syscheck_48_8bc84341:
 
     # c "A question. I just couldn't think of anything better."
-    c ""
+    c "Вопрос. Я просто не мог придумать ничего лучше."
 
 # game/adine1.rpy:1041
 translate russiantl _call_syscheck_48_30f9f005:
 
     # Ad "Well, then my answer would be no. I don't kiss just anyone, you know."
-    Ad ""
+    Ad "Ну, тогда мой ответ нет. Знаешь, я не целую всех подряд."
 
 # game/adine1.rpy:1043
 translate russiantl _call_syscheck_48_5eb2273d:
 
     # Ad "However, if it was a dare, my answer might be different."
-    Ad ""
+    Ad "Хотя, если это было бы действие, ответ мог стать другим."
 
 # game/adine1.rpy:1046
 translate russiantl _call_syscheck_48_b1f9f1ed:
 
     # Ad "Alright, so from those you have met here so far, who is the one you fancy most?"
-    Ad ""
+    Ad "Хорошо, так, кто из тех, кого ты встретил здесь, тебе больше всех понравился?"
 
 # game/adine1.rpy:1196
 translate russiantl _call_syscheck_48_ad7dc334:
 
     # c "I think I'll take a dare for this one."
-    c ""
+    c "Думаю, я лучше выполню действие."
 
 # game/adine1.rpy:1203
 translate russiantl _call_syscheck_48_ff5b729b:
 
     # Ad "Oh, finally."
-    Ad ""
+    Ad "Ой, ну наконец."
 
 # game/adine1.rpy:1210
 translate russiantl _call_syscheck_48_f69997a6:
 
     # Ad "Hmm, what am I going to have you do?"
-    Ad ""
+    Ad "Хмм, что заставить тебя делать?"
 
 # game/adine1.rpy:1211
 translate russiantl _call_syscheck_48_eeef949d:
 
     # c "Whatever you like."
-    c ""
+    c "Что пожелаешь."
 
 # game/adine1.rpy:1218
 translate russiantl _call_syscheck_48_bd0be8be:
 
     # Ad "No, I honestly have no idea."
-    Ad ""
+    Ad "Нет, я честно не знаю."
 
 # game/adine1.rpy:1220
 translate russiantl _call_syscheck_48_f918b61d:
 
     # c "Take your time."
-    c ""
+    c "У тебя есть время, чтобы подумать."
 
 # game/adine1.rpy:1227
 translate russiantl _call_syscheck_48_7215760e:
 
     # Ad "Alright, let me think for a minute."
-    Ad ""
+    Ad "Хорошо, дай мне минутку."
 
 # game/adine1.rpy:1241
 translate russiantl _call_syscheck_48_8b45fabd:
 
     # c "Oh, looks like it's getting late."
-    c ""
+    c "Ой, похоже, на улице уже темнеет."
 
 # game/adine1.rpy:1248
 translate russiantl _call_syscheck_48_1f70b032:
 
     # Ad "Wait, what time is it?"
-    Ad ""
+    Ad "Подожди, какое время сейчас?"
 
 # game/adine1.rpy:1255
 translate russiantl _call_syscheck_48_dc9e044d:
 
     # Ad "Whoops, seems like I've been here longer than I thought."
-    Ad ""
+    Ad "Упс, я задержалась здесь чуть дольше, чем предполагала."
 
 # game/adine1.rpy:1262
 translate russiantl _call_syscheck_48_5eb06388:
 
     # Ad "I probably should be going now."
-    Ad ""
+    Ad "Возможно, сейчас мне стоит идти."
 
 # game/adine1.rpy:1263
 translate russiantl _call_syscheck_48_24049db2:
 
     # c "Seems like the rain has stopped, too."
-    c ""
+    c "И, судя по всему, ливень уже закончился."
 
 # game/adine1.rpy:1264
 translate russiantl _call_syscheck_48_334f9430:
 
     # Ad "Yeah, that's great."
-    Ad ""
+    Ad "Ага, здорово."
 
 # game/adine1.rpy:1268
 translate russiantl _call_syscheck_48_3d8af9e3:
 
     # Ad "Anyways, if you want to invite me over again, why don't I give you my personal number and we just skip the part where you order food to make me come by?"
-    Ad ""
+    Ad "В любом случае, если ты захочешь снова мне пригласить, почему бы мне не дать свой личный номер, и тебе не придётся заказывать еду каждый раз, чтобы пригласить меня?"
 
 # game/adine1.rpy:1269
 translate russiantl _call_syscheck_48_244ffce1:
 
     # c "But I like the food."
-    c ""
+    c "Но я люблю еду."
 
 # game/adine1.rpy:1276
 translate russiantl _call_syscheck_48_a475c68f:
 
     # Ad "Or maybe I'll get your number instead. Since you ordered from us, I already have it anyway."
-    Ad ""
+    Ad "Или, может, мне лучше взять твой номер. Поскольку ты уже делал заказ, он должен быть у меня."
 
 # game/adine1.rpy:1277
 translate russiantl _call_syscheck_48_405efdd0:
 
     # c "I'm not sure what to say to that."
-    c ""
+    c "Я не уверен, что могу ответить на это."
 
 # game/adine1.rpy:1284
 translate russiantl _call_syscheck_48_69937dff:
 
     # Ad "Take it as a compliment."
-    Ad ""
+    Ad "Считай это за комплимент."
 
 # game/adine1.rpy:1291
 translate russiantl _call_syscheck_48_a27ee51f:
 
     # Ad "Bye!"
-    Ad ""
+    Ad "Пока!"
 
 # game/adine1.rpy:1299
 translate russiantl _call_syscheck_48_76b2fe88:
@@ -1732,61 +1732,61 @@ translate russiantl _call_syscheck_48_76b2fe88:
 translate russiantl _call_syscheck_48_9b53a99d:
 
     # n "She was gone as quickly as she had appeared, but given her enthusiasm, I doubted that was the last time I would hear from her."
-    n ""
+    n "Она исчезла так же быстро, как и появилась, но учитывая её восторг, я сомневался, что это была наша последняя встреча."
 
 # game/adine1.rpy:1342
 translate russiantl adine1skip_57b8b63d:
 
     # Ad "You know, if you want me to come over again, you don't have to order anything to do it."
-    Ad ""
+    Ad "Знаешь, если ты захочешь меня снова пригласить, тебе не надо ничего заказывать."
 
 # game/adine1.rpy:1351
 translate russiantl adine1skip_1f4d0787:
 
     # Ad "Here's my private number."
-    Ad ""
+    Ad "Вот мой личный номер."
 
 # game/adine1.rpy:1352
 translate russiantl adine1skip_1f5067bf:
 
     # c "I'll keep that in mind, thanks."
-    c ""
+    c "Я сохраню его, спасибо."
 
 # game/adine1.rpy:1353
 translate russiantl adine1skip_a27ee51f:
 
     # Ad "Bye!"
-    Ad ""
+    Ad "Пока!"
 
 # game/adine1.rpy:1382
 translate russiantl adine1skip_c0cb69d1:
 
     # c "Will I see you again?"
-    c ""
+    c "Я увижу тебя снова?"
 
 # game/adine1.rpy:1383
 translate russiantl adine1skip_a544d69c:
 
     # Ad "Well, you're always welcome to order food if you're hungry."
-    Ad ""
+    Ad "Ну, ты всегда можешь заказать у нас еду, когда будешь голоден."
 
 # game/adine1.rpy:1384
 translate russiantl adine1skip_e0210aa9:
 
     # c "That wasn't what I was talking about."
-    c ""
+    c "Я говорю не об этом."
 
 # game/adine1.rpy:1391
 translate russiantl adine1skip_a9ea478e:
 
     # Ad "Oh, I know."
-    Ad ""
+    Ad "Ох, ясно."
 
 # game/adine1.rpy:1398
 translate russiantl adine1skip_ce4f72ae:
 
     # Ad "Look, I don't want to be rude or anything, but I think it's better if we go our separate ways from now on. Sorry!"
-    Ad ""
+    Ad "Послушай, я не хочу показаться грубой, но я думаю нам лучше не встречаться больше. Извини!"
 
 translate russiantl strings:
 
@@ -2004,7 +2004,7 @@ translate russiantl strings:
 
     # adine1.rpy:703
     old "Just having fun."
-    new "Просто веселюсь."
+    new "Просто веселимся."
 
     # adine1.rpy:703
     old "Sorry, you gotta play by the rules."
@@ -2044,7 +2044,7 @@ translate russiantl strings:
 
     # adine1.rpy:814
     old "What do you think is your biggest physical flaw?"
-    new "Какой по твоему мнению самый большой физический изъян?"
+    new "Какой по твоему мнению твой самый большой физический изъян?"
 
     # adine1.rpy:836
     old "That's... interesting."
@@ -2052,11 +2052,11 @@ translate russiantl strings:
 
     # adine1.rpy:836
     old "To be honest, I feel the same way."
-    new "Честно говоря, я считаю так же.*"
+    new "Честно говоря, я считаю так же."
 
     # adine1.rpy:836
     old "You know, if you're so eager to find out, I could help you with that."
-    new "Если тебе так не терпится узнать это, то я могу помочь тебе."
+    new "Если тебе так не терпится узнать, то я могу помочь тебе."
 
     # adine1.rpy:863
     old "I think they're cute."
@@ -2068,7 +2068,7 @@ translate russiantl strings:
 
     # adine1.rpy:863
     old "I'm not sure I'd agree with that."
-    new "Я не думаю так."
+    new "Я не уверен, что смог бы согласиться с этим."
 
     # adine1.rpy:880
     old "Enjoy life to the fullest until the last moment."
@@ -2088,11 +2088,11 @@ translate russiantl strings:
 
     # adine1.rpy:923
     old "If you could come back with me to my world right now, would you do it?"
-    new "Если бы ты могла вернуться со мной в мой мир прчмо сейчас, ты бы сделала это?"
+    new "Если бы ты могла вернуться со мной в мой мир прямо сейчас, ты бы сделала это?"
 
     # adine1.rpy:923
     old "What's your biggest regret?"
-    new "Какой твой самый большой изъян?"
+    new "О чём ты больше всего сожалеешь?"
 
     # adine1.rpy:923
     old "If I asked you to kiss me, would you do it?"
