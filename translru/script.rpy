@@ -12,4 +12,4 @@ translate russiantl strings:
 
     # script.rpy:36
     old "Click to Begin"
-    new ""
+    new "Нажмите, чтобы Начать"

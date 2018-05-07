@@ -60,31 +60,31 @@ translate russiantl strings:
 
     # images.rpy:1153
     old "Heinz"
-    new ""
+    new "Хайнц"
 
     # images.rpy:1154
     old "Francois"
-    new ""
+    new "Франкойс"
 
     # images.rpy:1155
     old "Sybil"
-    new ""
+    new "Сибил"
 
     # images.rpy:1157
     old "Food Vendor"
-    new ""
+    new "Продавец Еды"
 
     # images.rpy:1158
     old "Waiter"
-    new ""
+    new "Официант"
 
     # images.rpy:1159
     old "Store Clerk"
-    new ""
+    new "Кассир"
 
     # images.rpy:1161
     old "Katsuharu"
-    new ""
+    new "Кацухару"
 
     # images.rpy:1162
     old "Kevin"
@@ -92,43 +92,43 @@ translate russiantl strings:
 
     # images.rpy:1164
     old "Dramavian"
-    new ""
+    new "Драмавиан"
 
     # images.rpy:1165
     old "Xith"
-    new ""
+    new "Ксит"
 
     # images.rpy:1166
     old "Lucius"
-    new ""
+    new "Люциус"
 
     # images.rpy:1167
     old "Ophinia"
-    new ""
+    new "Офиния"
 
     # images.rpy:1168
     old "Kalinth"
-    new ""
+    new "Калинс"
 
     # images.rpy:1169
     old "Grey"
-    new ""
+    new "Грэй"
 
     # images.rpy:1170
     old "Leymas"
-    new ""
+    new "Лэймас"
 
     # images.rpy:1171
     old "Quas"
-    new ""
+    new "Квас"
 
     # images.rpy:1173
     old "Huang Fu"
-    new ""
+    new "Хуан Фу"
 
     # images.rpy:1174
     old "Xiuying"
-    new ""
+    new "Ксинь"
 
     # images.rpy:1176
     old "Lorem"
@@ -136,4 +136,4 @@ translate russiantl strings:
 
     # images.rpy:1177
     old "Ipsum"
-    new ""
+    new "Ипсум"
