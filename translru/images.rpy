@@ -12,7 +12,7 @@ translate russiantl strings:
 
     # images.rpy:1139
     old "Reza"
-    new "Реза"
+    new "Риза"
 
     # images.rpy:1140
     old "Maverick"
@@ -68,7 +68,7 @@ translate russiantl strings:
 
     # images.rpy:1155
     old "Sybil"
-    new "Сибил"
+    new "Сивилла"
 
     # images.rpy:1157
     old "Food Vendor"
@@ -80,7 +80,7 @@ translate russiantl strings:
 
     # images.rpy:1159
     old "Store Clerk"
-    new "Кассир"
+    new "Клерк Магазина"
 
     # images.rpy:1161
     old "Katsuharu"
@@ -112,7 +112,7 @@ translate russiantl strings:
 
     # images.rpy:1169
     old "Grey"
-    new "Грэй"
+    new "Грей"
 
     # images.rpy:1170
     old "Leymas"
@@ -120,7 +120,7 @@ translate russiantl strings:
 
     # images.rpy:1171
     old "Quas"
-    new "Квас"
+    new "Каз"
 
     # images.rpy:1173
     old "Huang Fu"
@@ -128,7 +128,7 @@ translate russiantl strings:
 
     # images.rpy:1174
     old "Xiuying"
-    new "Ксинь"
+    new "Кайсини"
 
     # images.rpy:1176
     old "Lorem"
