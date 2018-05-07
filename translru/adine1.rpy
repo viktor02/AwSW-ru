@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 
 # game/adine1.rpy:27
 translate russiantl adine1_b66a50f0:
@@ -2108,4 +2108,4 @@ translate russiantl strings:
 
     # adine1.rpy:937
     old "Bite into a lemon."
-    new ""
+    new "Укуси лемон."
