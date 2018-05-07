@@ -52,7 +52,7 @@ translate russiantl strings:
 
     # screens.rpy:628
     old "Netbook"
-    new "Нэтбук"
+    new "Нетбук"
 
     # screens.rpy:668
     old "Music"

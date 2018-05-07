@@ -76,7 +76,7 @@ translate russiantl strings:
 
     # images.rpy:1158
     old "Waiter"
-    new "Оффициант"
+    new "Официант"
 
     # images.rpy:1159
     old "Store Clerk"
