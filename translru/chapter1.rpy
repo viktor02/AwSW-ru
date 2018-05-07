@@ -5228,4 +5228,4 @@ translate russiantl strings:
 
     # chapter1.rpy:4141
     old "Get some well deserved rest."
-    new "Хорошо отдохнуть."
+    new "Получить заслуженный отдых."
