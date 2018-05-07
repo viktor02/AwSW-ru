@@ -154,13 +154,13 @@ translate russiantl begingame_ef5e9be2:
 translate russiantl begingame_c9f110ae:
 
     # n "It all began when we discovered a strange device in the middle of nowhere during one of our expeditions... a portal."
-    n "Всё началось, когда мы нашли незнакомое устройство неизвестно где во время наших экспедиций... портал."
+    n "Всё началось, когда мы нашли незнакомое устройство неизвестно где во время наших экспедиций... это был портал."
 
 # game/chapter1.rpy:431
 translate russiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Раньше я слышал о похожей технологии, хотя эта была скорее эксперементальной. Из того, что я знаю, другие порталы, созданные в прошлом, рассматривались для массового использования. Что насчёт этого портала - мы не знали ни кто его построил, ни когда - или почему мы нашли его здесь. Что стало для нас большим удивлением - он оказался... функционирующим."
+    n "Раньше я слышал о похожей технологии, хотя эта была более эксперементальной. Из того, что я знаю, другие порталы из прошлого, рассчитывались для массового использования. Что насчёт этого портала - мы не знали ни кто его построил, ни когда - или почему мы нашли его здесь. Что стало для нас большим удивлением - он оказался... функционирующим."
 
 # game/chapter1.rpy:433
 translate russiantl begingame_337d015e:
@@ -168,13 +168,13 @@ translate russiantl begingame_337d015e:
     # nvl clear
     # n "After our first tests, we found there was someone else on the other side who was in possession of a similar portal, and our attempts at communication through letters were successful. But in the end, the machine's extraordinary demand for power meant we needed to act quickly as we wouldn’t be able to keep the portal open much longer. "
     nvl clear
-    n "После наших первых тестов, мы узнали, что на другой стороне был кто-то, обладающий похожим порталом, и наши попытки связаться через портал с помощью писем оказались успешными."
+    n "После наших первых тестов, мы узнали, что на другой стороне был кто-то, обладающий похожим порталом, и наши попытки связаться через портал с помощью писем оказались успешными. Но затем оказалось, что мы были неспособны поддерживать питание машины слишком долго, и нам было необходимо действовать быстро."
 
 # game/chapter1.rpy:436
 translate russiantl begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n "Когда мы дали об этом знать другой стороне, мы получили очень неожиданный ответ: Письмо с приглашением. После небольших размышлений, было решено принять их гостеприимство и отправить человека по ту сторону."
+    n "Когда мы дали об этом знать другой стороне, мы получили очень неожиданный ответ: письмо с приглашением. После некоторых дискуссий, мы решили довериться их гостеприимству и отправить человека на ту сторону."
 
 # game/chapter1.rpy:437
 translate russiantl begingame_3dadd8d0:
@@ -192,37 +192,37 @@ translate russiantl begingame_76b2fe88_1:
 translate russiantl begingame_f40eb8ae:
 
     # n "Reza Izquierdo."
-    n "Риза Искуэрдо"
+    n "Риза Искуэрдо."
 
 # game/chapter1.rpy:447
 translate russiantl begingame_f4966cae:
 
     # n "I knew him. Or rather, had known him. We attended the same school back then, and even had a few classes together. We never really were very close friends, but we talked to each other occasionally and hung around with the same crowd sometimes. However, we still went our separate ways in the end."
-    n "Я знал его. Скорее даже раньше знал. Мы поступили в одну и ту же школу и даже проучились несколько классов вместе. Мы никогда не были очень близкими друзьями, но мы говорили друг с другом время от времени и были иногда в одних и тех же компаниях. Тем не менее, мы по-прежнему шли разными путями под конец."
+    n "Я знал его. Или скорее, знал его раньше. Мы посещали одну и ту же школу, и даже учились несколько классов вместе. Мы никогда не были очень близкими друзьями, но мы говорили друг с другом время от времени и были иногда в одних и тех же компаниях. Тем не менее, наши пути в конце концов разошлись."
 
 # game/chapter1.rpy:448
 translate russiantl begingame_d966c5be:
 
     # n "I wasn't sure what to think about the whole thing, but he had to have known what he was doing. He certainly was brave."
-    n "Я не был уверен, что думать об этом всём, но он, должно быть, знал, что он делал. Он определенно был смелым."
+    n "Я не был уверен, что думать обо всём этом, но он, судя по всему, знал, что делал. Он определенно был смелым."
 
 # game/chapter1.rpy:449
 translate russiantl begingame_0be71cd9:
 
     # n "Either that, or just very, very foolish."
-    n "Или так, или же просто очень, очень глупым."
+    n "Или так, или просто же очень, очень глупым."
 
 # game/chapter1.rpy:450
 translate russiantl begingame_71b0a869:
 
     # n "While I wasn't sure which, his courage was applauded by others. After all, he couldn't possibly have known who or what would await him at the other end of the portal, and if he did meet someone there, who knew what kinds of intentions they might have?"
-    n ""
+    n "Пока я не был уверен в этом, его мужеству аплодировали. В конце концов, он не мог точно знать, кто или что поджидает его на той стороне портала, и даже если бы он встретил кого-то там, кто знает какие намерения у них могли быть?"
 
 # game/chapter1.rpy:451
 translate russiantl begingame_11930bc6:
 
     # n "Not that any speculation on our part would've made a difference."
-    n ""
+    n "Не то, чтобы какие-либо спекуляции с нашей стороны могли сделать небольшую разницу."
 
 # game/chapter1.rpy:452
 translate russiantl begingame_82f1d7da:
@@ -230,7 +230,7 @@ translate russiantl begingame_82f1d7da:
     # nvl clear
     # n "When the day finally came, through he went, with applause echoing across the area - equipped only with the clothes he wore, his multi-tool, a gun and a device on his wrist that acted as a PDA."
     nvl clear
-    n ""
+    n "Когда этот день в итоге наступил, он прошёл через портал с громкими аплодисментами и лишь имел при себе свою одежду, мульти инструмент, пистолет и наручное устройство, замещающее КПК."
 
 # game/chapter1.rpy:458
 translate russiantl begingame_76b2fe88_2:
@@ -242,19 +242,19 @@ translate russiantl begingame_76b2fe88_2:
 translate russiantl begingame_02377e2f:
 
     # n "Then we waited..."
-    n ""
+    n "Затем, мы ждали..."
 
 # game/chapter1.rpy:462
 translate russiantl begingame_a929e4ad:
 
     # n "The crowd that was applauding him slowly dispersed when the enthusiasm died down, as there was nothing for us to do but wait and speculate."
-    n ""
+    n "Толпа аплодирующих начала рассеиваться, и энтузиазм со временем спал. Нам оставалось лишь ждать и спекулировать."
 
 # game/chapter1.rpy:463
 translate russiantl begingame_4e5d991b:
 
     # n "Approximately 8 hours later, we received our first message from him."
-    n ""
+    n "Приблизительно через 8 часов мы получили наше первое сообщение от Ризы."
 
 # game/chapter1.rpy:464
 translate russiantl begingame_282e06e8:
@@ -5204,28 +5204,28 @@ translate russiantl strings:
 
     # chapter1.rpy:4093
     old "Meet with Remy."
-    new ""
+    new "Встретиться с Реми."
 
     # chapter1.rpy:4093
     old "Meet with Anna."
-    new ""
+    new "Встретиться с Анной."
 
     # chapter1.rpy:4093
     old "Meet with Lorem."
-    new ""
+    new "Встретиться с Лоремом."
 
     # chapter1.rpy:4093
     old "Meet with Bryce."
-    new ""
+    new "Встретиться с Брайсом."
 
     # chapter1.rpy:4093
     old "Order some lunch."
-    new ""
+    new "Заказать ланч."
 
     # chapter1.rpy:4093
     old "Meet with Sebastian."
-    new ""
+    new "Встретиться с Себастианом."
 
     # chapter1.rpy:4141
     old "Get some well deserved rest."
-    new ""
+    new "Хорошо отдохнуть."
