@@ -16,7 +16,7 @@ translate russiantl adine2_3d308349:
 translate russiantl adine2_ca608868:
 
     # Ad "Oh, it's you. I was expecting someone else. You're a little early."
-    Ad "Ой, Это ты. Я ожидала кого-то другого. Ты пришёл немного рановато."
+    Ad "Ой, Это ты. Я ожидала кое-кого другого. Ты пришёл немного рановато."
 
 # game/adine2.rpy:47
 translate russiantl adine2_7ccf0895:
