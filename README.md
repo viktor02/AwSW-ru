@@ -15,7 +15,7 @@ images ✔<br />
 script ✔<br />
 chapter1 ✘<br />
 chapter1ALT ✘<br />
-adine1 ✘<br />
+adine1 ✔<br />
 anna1 ✘<br />
 bryce1 ✘<br />
 lorem1 ✘<br />
