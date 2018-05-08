@@ -1,5 +1,9 @@
 ﻿# TODO: Translation updated at 2017-05-02 20:02
 
+# Для разнообразия речи, я использовал различные синонимы слова "дети" и разделял их между kids и children:
+# Children - дети, ребята
+# Kids - ребятишки, малыши, детишки
+
 # game/adine2.rpy:31
 translate russiantl adine2_f2a6a6f3:
 
@@ -46,7 +50,7 @@ translate russiantl adine2_395ada7a:
 translate russiantl adine2_4e31e593:
 
     # Ad "This is Amely. She's one of the kids I work with."
-    Ad "Эмели. Она одна из тех детей, о которых я говорила."
+    Ad "Эмели. Она одна из тех детишек, о которых я говорила."
 
 # game/adine2.rpy:83
 translate russiantl adine2_8ca98933:
@@ -58,7 +62,7 @@ translate russiantl adine2_8ca98933:
 translate russiantl adine2_563b937f:
 
     # Ad "Say hi, Amely."
-    Ad "Скажи приве-е-ет, Эмели."
+    Ad "Скажи привет, Эмели."
 
 # game/adine2.rpy:87
 translate russiantl adine2_880895e8:
@@ -136,7 +140,7 @@ translate russiantl _call_skipcheck_23_4bab5848:
 translate russiantl _call_skipcheck_23_8d6aa6f3:
 
     # Ad giggle b "Being able to fly does have its perks, you know."
-    Ad giggle b "Знаешь, способность летать имеет свои *плюсы."
+    Ad giggle b "Знаешь, способность летать имеет свои преимущества."
 
 # game/adine2.rpy:203
 translate russiantl _call_skipcheck_23_8c00b781:
@@ -154,13 +158,13 @@ translate russiantl _call_skipcheck_23_f3e453e6:
 translate russiantl _call_skipcheck_23_1caf3f1f:
 
     # c "She doesn't get scared or anything?"
-    c "Ей не было страшно или?.."
+    c "Ей не становится страшно или?.."
 
 # game/adine2.rpy:209
 translate russiantl _call_skipcheck_23_4d017343:
 
     # Ad "Not at all. She's such a brave little girl."
-    Ad "Совсем нет. Она такая храбренькая маленькая девочка."
+    Ad "Совсем нет. Она такая храбрая маленькая девочка."
 
 # game/adine2.rpy:211
 translate russiantl _call_skipcheck_23_1e03cd34:
@@ -178,7 +182,7 @@ translate russiantl _call_skipcheck_23_a459ddc5:
 translate russiantl _call_skipcheck_23_48373b94:
 
     # Ad "They only have so many social workers. The ratio is about one social worker for every ten children, so it's good for the kids to spend some time one-on-one with someone they know."
-    Ad ""
+    Ad "У них так много социальных работников. В соотношении, примерно один социальный работник на каждые десять детей, поэтому ребятишкам полезно проводить время один-на-один с кем-то, кого они знают."
 
 # game/adine2.rpy:217
 translate russiantl _call_skipcheck_23_fccb16e7:
