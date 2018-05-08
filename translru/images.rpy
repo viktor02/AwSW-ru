@@ -96,7 +96,7 @@ translate russiantl strings:
 
     # images.rpy:1165
     old "Xith"
-    new "Ксит"
+    new "Ксиф"
 
     # images.rpy:1166
     old "Lucius"
