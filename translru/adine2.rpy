@@ -16,13 +16,13 @@ translate russiantl adine2_3d308349:
 translate russiantl adine2_ca608868:
 
     # Ad "Oh, it's you. I was expecting someone else. You're a little early."
-    Ad "Ой, Это ты. Я ожидала кое-кого другого. Ты пришёл немного рановато."
+    Ad "Ой, это Ты. Я ожидала кое-кого другого. Ты пришёл немного рановато."
 
 # game/adine2.rpy:47
 translate russiantl adine2_7ccf0895:
 
     # c "Yeah, I didn't know how long it would take me to get here. Better early than late, right?"
-    c "Да, я не знал сколько времени мне придётся добираться до сюда. Лучше раньше, чем поздно, ведь так?"
+    c "Да, я не знал сколько времени мне придётся добираться до тебя. Лучше раньше, чем поздно, ведь так?"
 
 # game/adine2.rpy:53
 translate russiantl adine2_92e83d0b:
@@ -46,7 +46,7 @@ translate russiantl adine2_395ada7a:
 translate russiantl adine2_4e31e593:
 
     # Ad "This is Amely. She's one of the kids I work with."
-    Ad "Эмели. Она одна из тех детей."
+    Ad "Эмели. Она одна из тех детей, о которых я говорила."
 
 # game/adine2.rpy:83
 translate russiantl adine2_8ca98933:
@@ -70,7 +70,7 @@ translate russiantl adine2_880895e8:
 translate russiantl adine2_ad960bf9:
 
     # Ad "I just have to bring her back to the orphanage real quick. Feel free to make yourself at home in the meantime, okay?"
-    Ad "Я должна отнести её назад в приют как можно быстрее. Чувствуй себя как дома между тем, хорошо?"
+    Ad "Я должна отнести её назад в приют как можно быстрее. Между тем, чувствуй себя как дома, хорошо?"
 
 # game/adine2.rpy:97
 translate russiantl adine2_c48dc32f:
@@ -118,7 +118,7 @@ translate russiantl _call_skipcheck_23_0054b77b:
 translate russiantl _call_skipcheck_23_3f15710f:
 
     # c "(So this is where you live, Adine. Small, but cozy.)"
-    c "(Вот где ты живешь, Адайн. Скромно, но уютно.)"
+    c "(Вот, где ты живешь, Эдин. Скромно, но уютно.)"
 
 # game/adine2.rpy:197
 translate russiantl _call_skipcheck_23_70ef8dbe:
@@ -130,7 +130,7 @@ translate russiantl _call_skipcheck_23_70ef8dbe:
 translate russiantl _call_skipcheck_23_4bab5848:
 
     # c "That was quick."
-    c "Это было быстро."
+    c "Так быстро?"
 
 # game/adine2.rpy:201
 translate russiantl _call_skipcheck_23_8d6aa6f3:
@@ -142,25 +142,25 @@ translate russiantl _call_skipcheck_23_8d6aa6f3:
 translate russiantl _call_skipcheck_23_8c00b781:
 
     # c "Wait, you flew her back?"
-    c "Погоди, ты летела с ней?"
+    c "Погоди, ты улетела с ней?"
 
 # game/adine2.rpy:205
 translate russiantl _call_skipcheck_23_f3e453e6:
 
     # Ad normal b "Well, I am a delivery flyer."
-    Ad normal b "Ну, я летающий доставщик."
+    Ad normal b "Ну, я же летающий доставщик."
 
 # game/adine2.rpy:207
 translate russiantl _call_skipcheck_23_1caf3f1f:
 
     # c "She doesn't get scared or anything?"
-    c "Ей не страшно или?.."
+    c "Ей не было страшно или?.."
 
 # game/adine2.rpy:209
 translate russiantl _call_skipcheck_23_4d017343:
 
     # Ad "Not at all. She's such a brave little girl."
-    Ad "Совсем нет. Она такая храбрая маленькая девочка."
+    Ad "Совсем нет. Она такая храбренькая маленькая девочка."
 
 # game/adine2.rpy:211
 translate russiantl _call_skipcheck_23_1e03cd34:
@@ -172,7 +172,7 @@ translate russiantl _call_skipcheck_23_1e03cd34:
 translate russiantl _call_skipcheck_23_a459ddc5:
 
     # Ad "I'm a volunteer. I help them out with whatever they need, and sometimes take care of the kids."
-    Ad "Я волонтёр. Я помогаю им всем, чем могу, и иногда присматриваю за детьми."
+    Ad "Я волонтёр. Я помогаю всем, чем могу, и иногда присматриваю за детьми."
 
 # game/adine2.rpy:215
 translate russiantl _call_skipcheck_23_48373b94:

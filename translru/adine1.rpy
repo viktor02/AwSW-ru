@@ -4,7 +4,7 @@
 translate russiantl adine1_b66a50f0:
 
     # m "I remembered that Adine had told me that the café did deliveries as well, and not having anything else better to do, I figured I should try it out. I made my order with a quick phone call, and it wasn't long before the doorbell rang."
-    m "Вспомнив слова Адайн о том, что кафе также занимается доставкой еды, я не придумал ничего лучше, чем опробовать сервис. Я сделал заказ непродолжительным телефонным звонком, и результат не заставил долго ждать."
+    m "Вспомнив слова Эдин о том, что кафе также занимается доставкой еды, я не придумал ничего лучше, чем опробовать сервис. Я сделал заказ непродолжительным телефонным звонком, и результат не заставил долго ждать."
 
 # game/adine1.rpy:32
 translate russiantl adine1_d60c0822:
@@ -16,7 +16,7 @@ translate russiantl adine1_d60c0822:
 translate russiantl adine1_245dbdc1:
 
     # m "It just so happened that Adine herself stood in the doorway, dripping wet and with damp containers in her grip."
-    m "Адайн стояла в дверном проёме, промокшая насквозь, и держала мокрый контейнер."
+    m "Эдин стояла в дверном проёме, промокшая насквозь, и держала мокрый контейнер."
 
 # game/adine1.rpy:61
 translate russiantl adine1_c084e644:
@@ -154,7 +154,7 @@ translate russiantl menadine_07803e25:
 translate russiantl menadine_54475cd1:
 
     # n "Adine was already gone."
-    n "Адайн уже ушла."
+    n "Эдин уже ушла."
 
 # game/adine1.rpy:156
 translate russiantl menadine_b01b710e:
@@ -208,7 +208,7 @@ translate russiantl _call_skipcheck_10_e53dbbb3:
 translate russiantl _call_skipcheck_10_f212dc62:
 
     # m "I sat down at the table and started eating my food while Adine decided to take a seat opposite of myself."
-    m "Я сел за стол и принялся за трапезу. Адайн решила сесть напротив меня."
+    m "Я сел за стол и принялся за трапезу. Эдин решила сесть напротив меня."
 
 # game/adine1.rpy:260
 translate russiantl _call_skipcheck_10_58b7831b:
@@ -1456,19 +1456,19 @@ translate russiantl nextsc_5ce0ffef:
 translate russiantl _call_syscheck_48_b8834e95:
 
     # s "You got Adine to remove her headgear!"
-    s "Вы заставили Адайн снять её головной убор!"
+    s "Вы заставили Эдин снять её головной убор!"
 
 # game/adine1.rpy:978
 translate russiantl _call_syscheck_48_5c7f4389:
 
     # s "You got Adine to remove her headgear. Wow."
-    s "Вы заставили Адайн снять её головной убор. Вау."
+    s "Вы заставили Эдин снять её головной убор. Вау."
 
 # game/adine1.rpy:982
 translate russiantl _call_syscheck_48_890abada:
 
     # s "You got Adine to remove her headgear. Don't let it go to your head."
-    s "Вы заставили Адайн снять её головной убор. Не заставляйте её проделать то же самое с вашей головой."
+    s "Вы заставили Эдин снять её головной убор. Не заставляйте её проделать то же самое с вашей головой."
 
 # game/adine1.rpy:987
 translate russiantl _call_syscheck_48_93f9d835:
@@ -1792,19 +1792,19 @@ translate russiantl strings:
 
     # adine1.rpy:10
     old "Chapter 4 - Adine 1"
-    new "Глава 4 - Адайн 1"
+    new "Глава 4 - Эдин 1"
 
     # adine1.rpy:14
     old "Chapter 3 - Adine 1"
-    new "Глава 3 - Адайн 1"
+    new "Глава 3 - Эдин 1"
 
     # adine1.rpy:18
     old "Chapter 2 - Adine 1"
-    new "Глава 2 - Адайн 1"
+    new "Глава 2 - Эдин 1"
 
     # adine1.rpy:22
     old "Chapter 1 - Adine 1"
-    new "Глава 1 - Адайн 1"
+    new "Глава 1 - Эдин 1"
 
     # adine1.rpy:75
     old "I thought we were over this, but at least you don't reduce me to my species anymore."
