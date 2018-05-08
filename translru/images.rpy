@@ -24,7 +24,7 @@ translate russiantl strings:
 
     # images.rpy:1142
     old "Adine"
-    new "Адайн"
+    new "Эдин"
 
     # images.rpy:1143
     old "Bryce"
