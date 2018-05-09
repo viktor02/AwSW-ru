@@ -158,7 +158,7 @@ translate russiantl _call_skipcheck_23_f3e453e6:
 translate russiantl _call_skipcheck_23_1caf3f1f:
 
     # c "She doesn't get scared or anything?"
-    c "Ей не становится страшно или?.."
+    c "Ей не бывает страшно или?.."
 
 # game/adine2.rpy:209
 translate russiantl _call_skipcheck_23_4d017343:
@@ -176,343 +176,343 @@ translate russiantl _call_skipcheck_23_1e03cd34:
 translate russiantl _call_skipcheck_23_a459ddc5:
 
     # Ad "I'm a volunteer. I help them out with whatever they need, and sometimes take care of the kids."
-    Ad "Я волонтёр. Я помогаю всем, чем могу, и иногда присматриваю за детьми."
+    Ad "Я волонтёр. Я помогаю всем, чем могу, и иногда присматриваю за детишками."
 
 # game/adine2.rpy:215
 translate russiantl _call_skipcheck_23_48373b94:
 
     # Ad "They only have so many social workers. The ratio is about one social worker for every ten children, so it's good for the kids to spend some time one-on-one with someone they know."
-    Ad "У них так много социальных работников. В соотношении, примерно один социальный работник на каждые десять детей, поэтому ребятишкам полезно проводить время один-на-один с кем-то, кого они знают."
+    Ad "У них так много социальных работников. В соотношении, примерно один социальный работник на каждые десять детей, поэтому ребятишкам полезно проводить время один на один с кем-то, кого они знают."
 
 # game/adine2.rpy:217
 translate russiantl _call_skipcheck_23_fccb16e7:
 
     # Ad think b "I guess you could almost call it babysitting, but for the kids, we basically become foster parents."
-    Ad think b ""
+    Ad think b "Думаю, ты бы мог назвать меня няней, но для детей мы скорее становимся приёмными родителями."
 
 # game/adine2.rpy:219
 translate russiantl _call_skipcheck_23_9c327c5e:
 
     # Ad disappoint b "The older they get, the less likely they are to be adopted. She might be too old to be considered soon..."
-    Ad disappoint b ""
+    Ad disappoint b "Чем старше они становятся, тем меньше их шансы найти настоящую семью. Скоро она тоже станет слишком взрослой..."
 
 # game/adine2.rpy:225
 translate russiantl _call_skipcheck_23_08610c21:
 
     # Ad "Yeah, I know."
-    Ad ""
+    Ad "Да, я знаю."
 
 # game/adine2.rpy:232
 translate russiantl _call_skipcheck_23_635be7ee:
 
     # Ad think b "What do you mean?"
-    Ad think b ""
+    Ad think b "О чём ты?"
 
 # game/adine2.rpy:234
 translate russiantl _call_skipcheck_23_10c192ff:
 
     # c "She seems like an annoying little brat. I certainly wouldn't let one of those into my home."
-    c ""
+    c "Она похожа на маленькое надоедливое отродье. Я бы точно не впустил одну из них в мой дом."
 
 # game/adine2.rpy:236
 translate russiantl _call_skipcheck_23_d7e70092:
 
     # Ad disappoint b "How can you say that?"
-    Ad disappoint b ""
+    Ad disappoint b "Как ты можешь такое говорить?"
 
 # game/adine2.rpy:238
 translate russiantl _call_skipcheck_23_2b09d0f0:
 
     # c "I'm just being honest."
-    c ""
+    c "Я просто пытаюсь быть честным."
 
 # game/adine2.rpy:240
 translate russiantl _call_skipcheck_23_81fedecd:
 
     # Ad annoyed b "You know, sometimes, honesty is not the best policy."
-    Ad annoyed b ""
+    Ad annoyed b "Знаешь, иногда честность - не лучший выход."
 
 # game/adine2.rpy:242
 translate russiantl _call_skipcheck_23_a1107f7d:
 
     # Ad disappoint b "Someone has to look out for her."
-    Ad disappoint b ""
+    Ad disappoint b "Кто-то обязан присматривать за ней."
 
 # game/adine2.rpy:248
 translate russiantl _call_skipcheck_23_a41c499d:
 
     # Ad "I'm afraid it's just not that easy, and the actual numbers of adoptions aren't very promising, either."
-    Ad ""
+    Ad "Боюсь, всё не так просто. Настоящее число усыновлений не очень многообещающее."
 
 # game/adine2.rpy:251
 translate russiantl _call_skipcheck_23_5743cfb2:
 
     # Ad "I'm worried about what will happen to her if she doesn't find a family."
-    Ad ""
+    Ad "Я волнуюсь о том, что произойдёт с ней, если она не найдёт семью."
 
 # game/adine2.rpy:253
 translate russiantl _call_skipcheck_23_8416514a:
 
     # Ad "We will still take care of her, of course, but it's not quite the same as having parents."
-    Ad ""
+    Ad "Мы, конечно, всё еще будем заботиться о ней. Но это не совсем то же самое, что иметь родителей."
 
 # game/adine2.rpy:255
 translate russiantl _call_skipcheck_23_5ec1c392:
 
     # Ad "I'd adopt her myself, but I don't think I could care for her properly. Not as a single parent with my packed work schedule."
-    Ad ""
+    Ad "Я бы удочерила её сама, но не думаю, что смогла бы правильно заботиться о ней. Не в случае родителя-одиночки с моим режимом работы."
 
 # game/adine2.rpy:257
 translate russiantl _call_skipcheck_23_434e0470:
 
     # Ad "I still volunteer as often as I can, because if I don't, who will? Someone needs to be there for those kids."
-    Ad ""
+    Ad "Я по-прежнему занимаюсь волонтёрством как можно чаще, ведь если не я, то кто? Кому-то необходимо быть рядом с этими детьми."
 
 # game/adine2.rpy:265
 translate russiantl _call_skipcheck_23_8793cbdb:
 
     # Ad annoyed b "It's called empathy. Maybe you should try it sometime."
-    Ad annoyed b ""
+    Ad annoyed b "Называй это сопереживанием. Может, однажды тебе стоит попробовать."
 
 # game/adine2.rpy:275
 translate russiantl _call_skipcheck_23_5fd0cd43:
 
     # Ad normal b "Thanks, but for me, it's not about being nice. I almost feel obligated to help, you know?"
-    Ad normal b ""
+    Ad normal b "Спасибо, но присматривать за детьми не значит просто быть милой. Я чувствую свою обязанность, понимаешь?"
 
 # game/adine2.rpy:283
 translate russiantl _call_skipcheck_23_8b2336e5:
 
     # Ad "Maybe, maybe not. The only thing I know for certain is that they could use all the help they can get."
-    Ad ""
+    Ad "Может да, а может и нет. Единственная вещь, в которой я уверена, что они нуждаются в помощи."
 
 # game/adine2.rpy:285
 translate russiantl _call_skipcheck_23_d975be1b:
 
     # Ad "Anyway, let's talk about something less depressing."
-    Ad ""
+    Ad "В любом случае, давай поговорим о чём-то менее удручающем."
 
 # game/adine2.rpy:287
 translate russiantl _call_skipcheck_23_efe0e8c3:
 
     # c "Like what?"
-    c ""
+    c "К примеру?"
 
 # game/adine2.rpy:289
 translate russiantl _call_skipcheck_23_dc391fd9:
 
     # Ad think b "Let me think."
-    Ad think b ""
+    Ad think b "Позволь мне подумать."
 
 # game/adine2.rpy:291
 translate russiantl _call_skipcheck_23_8dd99f8a:
 
     # Ad disappoint b "Oh, I just remembered that someone died here recently."
-    Ad disappoint b ""
+    Ad disappoint b "О, я вспомнила, что недавно тут кто-то умер."
 
 # game/adine2.rpy:293
 translate russiantl _call_skipcheck_23_4c037c2d:
 
     # c "Here, in your apartment?"
-    c ""
+    c "Здесь, в твоей квартире?"
 
 # game/adine2.rpy:295
 translate russiantl _call_skipcheck_23_d2f5052a:
 
     # Ad normal b "No, not here, silly. It was close, though. Barely a block from here."
-    Ad normal b ""
+    Ad normal b "Нет, не здесь, глупышка. Хотя, довольно близко. Едва квартал отсюда."
 
 # game/adine2.rpy:297
 translate russiantl _call_skipcheck_23_6645a410:
 
     # c "Right, the murder of the maintenance guy. I remember that."
-    c ""
+    c "Ах да, убийство рабочего. Я помню этот случай."
 
 # game/adine2.rpy:299
 translate russiantl _call_skipcheck_23_a87e7e48:
 
     # Ad disappoint b "Wait, it was murder? I didn't know that; I thought it was an accident or something. That's terrible."
-    Ad disappoint b ""
+    Ad disappoint b "Подожди, его убили? Я не знала; я думала, это был несчастный случай или что-то в этом роде. Это просто ужасно."
 
 # game/adine2.rpy:301
 translate russiantl _call_skipcheck_23_deaa0d16:
 
     # c "Sorry for mentioning it."
-    c ""
+    c "Прости, что упомянул."
 
 # game/adine2.rpy:303
 translate russiantl _call_skipcheck_23_8b977e7b:
 
     # Ad "Finding the first victim was already bad enough for me, and now I have to hear there was another murder in town... I wish I could get some good news for once."
-    Ad ""
+    Ad "Мне было уже не по себе, узнав о первой жертве, и теперь я слышу о ещё одном убийстве в городе... Мне бы хотелось услышать однажды новости по-лучше."
 
 # game/adine2.rpy:311
 translate russiantl _call_skipcheck_23_0b322fb0:
 
     # Ad think b "That's a strange way of looking at it, but you have a point."
-    Ad think b ""
+    Ad think b "Странный подход, но ты прав."
 
 # game/adine2.rpy:319
 translate russiantl _call_skipcheck_23_2d65d668:
 
     # Ad annoyed b "You're not really a people person, are you?"
-    Ad annoyed b ""
+    Ad annoyed b "Ты не очень общительный человек, не так ли?"
 
 # game/adine2.rpy:327
 translate russiantl _call_skipcheck_23_89403437:
 
     # c "Don't just focus on the bad things. It's no use lamenting something you can't change."
-    c ""
+    c "Не сосредотачивайся на плохих вещах. Нет смысла сожалеть о том, чего ты не можешь изменить."
 
 # game/adine2.rpy:329
 translate russiantl _call_skipcheck_23_fa4cb7ce:
 
     # Ad "Sorry, [player_name]. I guess I should be more positive."
-    Ad ""
+    Ad "Прости, [player_name]. Я должна быть более позитивной."
 
 # game/adine2.rpy:331
 translate russiantl _call_skipcheck_23_dbdb04e5:
 
     # Ad "It's just not always easy, you know."
-    Ad ""
+    Ad "Знаешь, оставаться такой не всегда просто."
 
 # game/adine2.rpy:333
 translate russiantl _call_skipcheck_23_f05d13d2:
 
     # c "Maybe you'll get some good news soon."
-    c ""
+    c "Может, скоро у тебя появятся хорошие новости."
 
 # game/adine2.rpy:335
 translate russiantl _call_skipcheck_23_baf080e5:
 
     # Ad normal b "I hope so."
-    Ad normal b ""
+    Ad normal b "Надеюсь."
 
 # game/adine2.rpy:342
 translate russiantl _call_skipcheck_23_6caae3ba:
 
     # Ad "That reminds me, I've got something I wanted to try on you."
-    Ad ""
+    Ad "Это напомнило мне о кое-чём. У меня есть то, что я хочу опробовать на тебе."
 
 # game/adine2.rpy:344
 translate russiantl _call_skipcheck_23_b86d6667:
 
     # c "Try on me?"
-    c ""
+    c "Опробовать на мне?"
 
 # game/adine2.rpy:346
 translate russiantl _call_skipcheck_23_72a69e39:
 
     # Ad "It's nothing too dramatic. I read this magazine the other day and found a few interesting articles ."
-    Ad ""
+    Ad "Ничего слишком *драматического*. Я прочитала этот журнал на днях и нашла несколько интересных статей."
 
 # game/adine2.rpy:348
 translate russiantl _call_skipcheck_23_1d8e34de:
 
     # m "Using her partial hands, she held up a magazine to show me its cover. A rather bold-looking female was presented on the front, adorned with trinkets like rings and jewels. Various headlines gave me an idea of the content within. It reminded me a lot of the typical gossip magazines back home."
-    m ""
+    m "Она подняла журнал и показал мне его обложку. На лицевой стороне находилась женщина, украшенная такими побрякушками, как кольца и ожерелья. Различные заголовки позволили мне понять, какая информация находилась внутри журнала. Он был похож на большинство самых обычных журналов со сплетнями из моего мира."
 
 # game/adine2.rpy:350
 translate russiantl _call_skipcheck_23_782e5967:
 
     # c "{i}LIFESTYLE: The Magazine for Modern People{/i}?"
-    c ""
+    c "{i}ЖИЗНЕННЫЙ СТИЛЬ: Журнал для Современных Людей{/i}?"
 
 # game/adine2.rpy:352
 translate russiantl _call_skipcheck_23_661a9853:
 
     # Ad giggle b "This issue even came with a set of fortune cards!"
-    Ad giggle b ""
+    Ad giggle b "Этот выпуск даже продаётся с набором карт для гадания!"
 
 # game/adine2.rpy:358
 translate russiantl _call_skipcheck_23_13ba6e80:
 
     # Ad "Isn't that the whole fun of it?"
-    Ad ""
+    Ad "Разве это не весело?"
 
 # game/adine2.rpy:369
 translate russiantl _call_skipcheck_23_e2c3a930:
 
     # Ad annoyed b "Come on, don't knock it before you try it."
-    Ad annoyed b ""
+    Ad annoyed b "Ну же, не критикуй его ещё до того, как попробовал."
 
 # game/adine2.rpy:378
 translate russiantl _call_skipcheck_23_3d537ac6:
 
     # c "With articles like {i}5 Steps to Get the Partner of Your Dreams{/i}, I'm sure they're qualified to determine my fate."
-    c ""
+    c "Я уверен, что журнал с такими статьями, как {i}5 Шагов для Получения Партнёра Вашей Мечты{/i}, определённо подойдёт для предсказания моей судьбы."
 
 # game/adine2.rpy:380
 translate russiantl _call_skipcheck_23_840cdea4:
 
     # Ad normal b "Come on, it'll be fun."
-    Ad normal b ""
+    Ad normal b "Ну же, будет весело."
 
 # game/adine2.rpy:382
 translate russiantl _call_skipcheck_23_8fc66374:
 
     # c "If you say so."
-    c ""
+    c "Если ты так говоришь."
 
 # game/adine2.rpy:384
 translate russiantl _call_skipcheck_23_fc66ae05:
 
     # Ad "What should we look at first?"
-    Ad ""
+    Ad "С чего мы начнём?"
 
 # game/adine2.rpy:392
 translate russiantl _call_skipcheck_23_27216165:
 
     # Ad think b "Alright, let's see."
-    Ad think b ""
+    Ad think b "Хорошо, давай посмотрим."
 
 # game/adine2.rpy:399
 translate russiantl _call_skipcheck_23_27216165_1:
 
     # Ad think b "Alright, let's see."
-    Ad think b ""
+    Ad think b "Хорошо, давай посмотрим."
 
 # game/adine2.rpy:408
 translate russiantl _call_skipcheck_23_99b68283:
 
     # Ad annoyed b "That's very funny, [player_name]."
-    Ad annoyed b ""
+    Ad annoyed b "Очень смешно, [player_name]."
 
 # game/adine2.rpy:415
 translate russiantl _call_skipcheck_23_387b6fd4:
 
     # Ad normal b "Here, this article talks about dreams and what they mean."
-    Ad normal b ""
+    Ad normal b "Вот, эта статья объясняет сны и их значения."
 
 # game/adine2.rpy:417
 translate russiantl _call_skipcheck_23_19f1eadc:
 
     # Ad think b "Have you had any strange or recurring dreams lately?"
-    Ad think b ""
+    Ad think b "В последнее время у тебя были странные или повторяющиеся сны?"
 
 # game/adine2.rpy:425
 translate russiantl _call_skipcheck_23_c029577a:
 
     # Ad normal b "Well, according to this article, that means you're a really creative person."
-    Ad normal b ""
+    Ad normal b "Что ж, судя по этой статье, ты являешься очень творческой личностью."
 
 # game/adine2.rpy:427
 translate russiantl _call_skipcheck_23_4e50fccb:
 
     # c "Good to know."
-    c ""
+    c "Приятно знать."
 
 # game/adine2.rpy:432
 translate russiantl _call_skipcheck_23_e2c5f113:
 
     # Ad "Fire? That's interesting."
-    Ad ""
+    Ad "Огонь? Интересно."
 
 # game/adine2.rpy:434
 translate russiantl _call_skipcheck_23_8c4bca97:
 
     # Ad normal b "Apparently, it's a rather common symbol that can mean a variety of things."
-    Ad normal b ""
+    Ad normal b "По всей видимости, такие сны довольно распространённые и могут значить множество вещей."
 
 # game/adine2.rpy:436
 translate russiantl _call_skipcheck_23_6a5cd9f5:
@@ -1928,91 +1928,91 @@ translate russiantl strings:
 
     # adine2.rpy:11
     old "Chapter 4 - Adine 2"
-    new ""
+    new "Глава 4 - Эдин 2"
 
     # adine2.rpy:15
     old "Chapter 3 - Adine 2"
-    new ""
+    new "Глава 3 - Эдин 2"
 
     # adine2.rpy:19
     old "Chapter 2 - Adine 2"
-    new ""
+    new "Глава 2 = Эдин 2"
 
     # adine2.rpy:23
     old "Chapter 1 - Adine 2"
-    new ""
+    new "Глава 1 = Эдин 2"
 
     # adine2.rpy:221
     old "What a shame."
-    new ""
+    new "Как жаль."
 
     # adine2.rpy:221
     old "I can see why."
-    new ""
+    new "Я могу понять почему."
 
     # adine2.rpy:221
     old "I'd adopt her if I could."
-    new ""
+    new "Я бы удочерил её, если мог."
 
     # adine2.rpy:259
     old "You're wasting your time."
-    new ""
+    new "Ты тратишь своё время попусту."
 
     # adine2.rpy:259
     old "That's very nice of you."
-    new ""
+    new "Очень мило с твоей стороны."
 
     # adine2.rpy:259
     old "Someone else would probably volunteer, even if you didn't."
-    new ""
+    new "Даже если не ты, то кто-то ещё будет волонтёром."
 
     # adine2.rpy:305
     old "At least it wasn't you who was murdered."
-    new ""
+    new "По крайней мере, убили не тебя."
 
     # adine2.rpy:305
     old "Don't be so sensitive."
-    new ""
+    new "Не будь такой чувствительной."
 
     # adine2.rpy:305
     old "Don't just focus on the bad things."
-    new ""
+    new "Не сосредотачивайся на плохих вещах."
 
     # adine2.rpy:354
     old "I'm not sure what to expect."
-    new ""
+    new "Я не уверен, чего ожидать."
 
     # adine2.rpy:354
     old "Those types of magazines are usually trash."
-    new ""
+    new "Обычно такие виды журналов не более, чем мусор."
 
     # adine2.rpy:354
     old "I'm sure they're qualified to determine my fate."
-    new ""
+    new "Я уверен, что они подойдут для предсказания моей судьбы."
 
     # adine2.rpy:386
     old "I don't care."
-    new ""
+    new "Без разницы."
 
     # adine2.rpy:386
     old "You decide."
-    new ""
+    new "Решаешь ты."
 
     # adine2.rpy:386
     old "Throw the stupid magazine in the trash."
-    new ""
+    new "Выкинь этот глупый журнал в мусорное ведро."
 
     # adine2.rpy:419
     old "My dreams are usually nonsense."
-    new ""
+    new "Мои сны - это, как правило, бред."
 
     # adine2.rpy:419
     old "I've been dreaming of fire."
-    new ""
+    new "Мне снился огонь."
 
     # adine2.rpy:419
     old "I don't dream at all."
-    new ""
+    new "Я не вижу снов совсем."
 
     # adine2.rpy:419
     old "My dreams are often about people I know."
