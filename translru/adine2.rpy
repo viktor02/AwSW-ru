@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 
 # Для разнообразия речи, я использовал различные синонимы слова "дети" и разделял их между kids и children:
 # Children - дети, ребята
@@ -518,7 +518,7 @@ translate russiantl _call_skipcheck_23_8c4bca97:
 translate russiantl _call_skipcheck_23_6a5cd9f5:
 
     # Ad think b "Another thing to consider is the significance of the symbol to the dreamer. So, what does fire mean to you?"
-    Ad think b ""
+    Ad think b "Ещё стоит учитывать значение этого знака для тебя. Так, что огонь значит для тебя?"
 
 # game/adine2.rpy:438
 translate russiantl _call_skipcheck_23_a4aa9181:
