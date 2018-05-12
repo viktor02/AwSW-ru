@@ -260,19 +260,19 @@ translate russiantl begingame_4e5d991b:
 translate russiantl begingame_282e06e8:
 
     # n "While we had assumed the portal led to another in a different country, or maybe on a different continent, the reality turned out to be much more... foreign."
-    n "Пока мы предполагали, что портал ведёт в другую страну, или, может быть, на другой континент, правда оказалась гораздо более... чуждой."
+    n "Пока мы гадали ведёт ли портал в другую страну или, может, даже на другой континент, реальность оказалась намного более... чужеродной."
 
 # game/chapter1.rpy:465
 translate russiantl begingame_2a8e54d7:
 
     # n "The situation he described to us was so outlandish that we initially took it as a joke."
-    n "Ситуация, описанная им, была для нас настолько необычной, что мы приняли её сначала за шутку."
+    n "Ситуация, которая была нам описана, была такой чужестранной, что мы приняли её за шутку."
 
 # game/chapter1.rpy:466
 translate russiantl begingame_bb325a0f:
 
     # n "A very bad joke, maybe, with even worse timing and no punchline at all."
-    n "Очень плохую шутку, для который нельзя было подобрать наиболее неподходящего момента."
+    n "За очень плохую шутку, для которой было совсем не самое лучшее время."
 
 # game/chapter1.rpy:467
 translate russiantl begingame_ac587ebf:
@@ -280,31 +280,31 @@ translate russiantl begingame_ac587ebf:
     # nvl clear
     # n "It soon became clear to us, though, that we may just have made one of the most important discoveries since the dawn of mankind."
     nvl clear
-    n "Но вскоре для нас стало ясно, что мы могли сделать одно из самых важных открытий с момента рассвета человечества."
+    n "Однако скоро стало ясно, что мы могли сделать одно из самых важных открытий с времён рассвета человечества."
 
 # game/chapter1.rpy:469
 translate russiantl begingame_273be6cf:
 
     # n "Finding the portal had been remarkable in itself, but this took it to a completely different level."
-    n "Нахождение портала уже являлось удивительным самим по себе, но оно преобрело совершенно другой уровень."
+    n "Найти портал уже было достаточно удивительно, но ситуация преобрела совершенно новый уровень."
 
 # game/chapter1.rpy:471
 translate russiantl begingame_942d3fc8:
 
     # n "From what he described about the place - or, more accurately, its inhabitants - we surmised it could not be part of Earth at all."
-    n "Из того, что он рассказал об этом месте - или, более точно, о жителях - мы догадались, что это вовсе не может быть частью Земли."
+    n "Из того, что он описывал об этом месте - или, более верно, его жителях - мы догадались, что оно вовсе не было частью Земли."
 
 # game/chapter1.rpy:472
 translate russiantl begingame_b4430af1:
 
     # n "We called them {i}dragons{/i}, because according to Reza, that's what they were, or at least what they resembled most."
-    n "Мы назвали их {i}драконами{/i}. В соответствии с описаниями Ризы, они были ими или, по крайней мере, походили именно на них."
+    n "Мы назвали их {i}драконами{/i}, кем они были из описания Ризы, или, по крайней мере, на кого они больше всего походили."
 
 # game/chapter1.rpy:473
 translate russiantl begingame_73af8ba0:
 
     # n "Even though we found it hard to believe, it had been these dragons who sent us all the letters. And what Reza found on the other side of the portal was a whole civilization of them. They could talk, write books, had buildings and electricity. In many ways, their society was actually very similar to our own."
-    n "Даже хотя мы слабо верили его словам, именно драконы отправляли нам все эти письма. Риза выяснил, что на другой стороне портала находилась целая разумная циливизация. Они могли говорить, писать книги, строить и работать с электричеством. Во многом, их сообщество было очень похоже на наше."
+    n "Даже хотя нам было сложно поверить во всё это, именно драконы были теми, кто отправлял нам послания. Риза нашёл на другой стороне портала целую циливизацию. Они могли говорить, писать книги, умели строить и обращаться с электричеством. Во многом их сообщество было очень похоже на человеческое."
 
 # game/chapter1.rpy:474
 translate russiantl begingame_6abe8d77:
@@ -312,19 +312,19 @@ translate russiantl begingame_6abe8d77:
     # nvl clear
     # n "So, who were they? And where was this place? Could they be aliens?"
     nvl clear
-    n "Но, кто же они? И что за место это было? Могли ли они быть инопланетянами?"
+    n "Так, кто же они? И где находилось это место? Могли ли они быть пришельцами?"
 
 # game/chapter1.rpy:476
 translate russiantl begingame_1020ae93:
 
     # n "Our speculations led us to conclude otherwise. After all, we knew about the existence of thousands of planets, millions of light-years away that may have been theoretically habitable, yet even then we had never found conclusive proof in regards to actual alien life-forms."
-    n "Наши догадки позволили нам сделать другой вывод. Несмотря на это, мы знали о существовании тысяч планет, расположенных в миллионах световых лет от Земли, подходящие под теорию, хоть мы и никогда не владели неопровержимыми доказательствами в пользу настоящих инопланетных форм жизни."
+    n "Наши доводы вели к обратному. После всего, мы знали о существовании тысяч планет, находящихся в миллионах световых годах от Земли и теоретически населённых живыми существами, но даже тогда у нас не было убедительных подтверждений в пользу существования инородных форм жизни."
 
 # game/chapter1.rpy:478
 translate russiantl begingame_3ff6841f:
 
     # n "Some people brought up quantum mechanics and parallel universes, but in the end all of this was just conjecture and an ultimately fruitless endeavor, since we neither had the means nor the resources to explore these possibilities in greater detail."
-    n "Некоторые люди задействовали квантовую механику и параллельные вселенные в попытках описать существование другого мир, но в конце концов это всё были лишь гипотезы и бесплодные старания, поскольку у нас не было ни средств, ни ресурсов, чтобы детально исследовать их."
+    n "Некоторые люди связывали открытие с квантовой механикой и параллельными вселенными, но в конце концов всё это являлось лишь догадками и абсолютно бесплодными стараниями, ведь у нас не было ни средств, ни ресурсов для более подробного изучения этих возможностей."
 
 # game/chapter1.rpy:479
 translate russiantl begingame_94c45763:
@@ -332,19 +332,19 @@ translate russiantl begingame_94c45763:
     # nvl clear
     # n "I think there's just one more thing worth mentioning before I move on:"
     nvl clear
-    n "Я думаю, стоит упоминуть ещё одну вещь перед тем, как я продолжу:"
+    n "Перед тем, как продолжить, считаю, стоит упомянуть следующее:"
 
 # game/chapter1.rpy:481
 translate russiantl begingame_fe72b4b9:
 
     # n "The previous isolation had been mutual."
-    n "Предшествующая оторванность двух миров была взаимной."
+    n "Предшествующая изоляция наших миров была взаимной."
 
 # game/chapter1.rpy:482
 translate russiantl begingame_dc6c4ac0:
 
     # n "They hadn't known about any other intelligent life-form beyond their own, their portal had only recently been discovered and was a technology previously unknown to them, and just as we had myths about dragons, they had myths about us."
-    n "Они не знали о любых других формах жизни, их портал был найден лишь недавно, и его технология ранее не была известна для них. И так же, как у нас были мифы о драконах, у них были мифы о нас."
+    n "Они не знали о каких-либо других разумных формах жизни, их портал был найден лишь недавно, и технология была ранее им неизвестна. Так же, как у нас существовали мифы о драконах, у них были мифы о нас."
 
 # game/chapter1.rpy:484
 translate russiantl begingame_32508c0c:
@@ -1374,7 +1374,7 @@ translate russiantl _call_skipcheck_3_600f3c23:
 translate russiantl _call_skipcheck_3_68833c8b:
 
     # "???" "Oh, it's the humans!"
-    "???" "Ой, это люди!"
+    "???" ""
 
 # game/chapter1.rpy:1662
 translate russiantl _call_skipcheck_3_3bf4c97d_1:
@@ -1392,13 +1392,13 @@ translate russiantl _call_skipcheck_3_3bf4c97d_2:
 translate russiantl _call_skipcheck_3_e063487c:
 
     # "???" "That's a good one."
-    "???" "Это хороший человек."
+    "???" ""
 
 # game/chapter1.rpy:1673
 translate russiantl _call_skipcheck_3_beab5379:
 
     # Ad "Welcome to our establishment. My name's Adine, and I'll be your waitress today. What can I bring you two?"
-    Ad "Добро пожаловать в наше заведение. Меня зовут Адайн, и я буду вашим официантом сегодня. Что я могу вам принести?"
+    Ad ""
 
 # game/chapter1.rpy:1680
 translate russiantl _call_skipcheck_3_323bd82c:
@@ -1410,7 +1410,7 @@ translate russiantl _call_skipcheck_3_323bd82c:
 translate russiantl _call_skipcheck_3_bffc45b9:
 
     # Ad "Sure thing. Two coffees coming right up."
-    Ad "Конечно. Два кофе уже на подходе."
+    Ad ""
 
 # game/chapter1.rpy:1685
 translate russiantl _call_skipcheck_3_323bd82c_1:
@@ -1422,7 +1422,7 @@ translate russiantl _call_skipcheck_3_323bd82c_1:
 translate russiantl _call_skipcheck_3_5ea7a991:
 
     # Ad "Sure thing. Two scrambled eggs with bacon coming right up."
-    Ad "Конечно. Две яичницы с беконом уже на подходе. "
+    Ad ""
 
 # game/chapter1.rpy:1690
 translate russiantl _call_skipcheck_3_323bd82c_2:
@@ -1434,7 +1434,7 @@ translate russiantl _call_skipcheck_3_323bd82c_2:
 translate russiantl _call_skipcheck_3_d29fed27:
 
     # Ad "Sure thing. Two specials coming right up."
-    Ad "Конечно. Два особых блюда уже на подходе."
+    Ad ""
 
 # game/chapter1.rpy:1702
 translate russiantl _call_skipcheck_3_cf34577b:
@@ -1512,25 +1512,25 @@ translate russiantl _call_skipcheck_3_bfc7dc06:
 translate russiantl _call_skipcheck_3_67f50da2:
 
     # Ad "There you go. Watch out, it's hot."
-    Ad "Вот так. Осторожно, он горячий."
+    Ad ""
 
 # game/chapter1.rpy:1751
 translate russiantl _call_skipcheck_3_2f7cd978:
 
     # Ad "There you go. Enjoy!"
-    Ad "Вот так. Наслаждайтесь!"
+    Ad ""
 
 # game/chapter1.rpy:1755
 translate russiantl _call_skipcheck_3_236e1242:
 
     # Ad "You're welcome."
-    Ad "Пожалуйста."
+    Ad ""
 
 # game/chapter1.rpy:1760
 translate russiantl _call_skipcheck_3_2355e57c:
 
     # Ad "..."
-    Ad "..."
+    Ad ""
 
 # game/chapter1.rpy:1774
 translate russiantl _call_skipcheck_3_f73d296c:
@@ -4768,15 +4768,15 @@ translate russiantl strings:
 
     # chapter1.rpy:1653
     old "Wait, where?"
-    new "Постой, где?"
+    new ""
 
     # chapter1.rpy:1653
     old "Oh, it's a dragon!"
-    new "Ой, это дракон!"
+    new ""
 
     # chapter1.rpy:1677
     old "Just a coffee for me."
-    new "Мне просто кофе."
+    new ""
 
     # chapter1.rpy:1677
     old "How about some scrambled eggs with bacon?"
