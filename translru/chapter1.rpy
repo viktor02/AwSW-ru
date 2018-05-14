@@ -500,7 +500,7 @@ translate russiantl begingame_d079f0e6:
 translate russiantl begingame_9ea6cf05:
 
     # n "I could only see a patch of lighter color contrasting with its dark surroundings as my vision started to clear. Its edges got sharper as the patch of light slowly took shape, giving me the distinguished outline of a reptilian head, and an array of horns spouting from it."
-    n "Я мог разглядеть только пятно более светлого цвета, сопоставленное с окружающим цветом. Моё зрение начало проясняться, и пятно света медленно стало преобретать форму, создавая образ головы рептилии и множество рогов вокруг неё."
+    n "Я мог разглядеть только пятно более светлого цвета на фоне окружающего цвета. Моё зрение начало проясняться, и пятно света медленно стало преобретать форму, похожую на голову рептилии со множеством рогов."
 
 # game/chapter1.rpy:639
 translate russiantl holetravel_6a175cfd:
@@ -524,7 +524,7 @@ translate russiantl holetravel_7941b5bd:
 translate russiantl holetravel_b40dd6f0:
 
     # m "The dragon spoke! It was one thing to have heard and read about this, but something else entirely to have one standing in front of me, in flesh and blood... and tongue. It was good that all my mental preparedness had disappeared when I was teleported, because nothing could have prepared me for this."
-    m ""
+    m "Дракон говорил! Я читал и слышал об этом, но это что-то совсем другое - он стоял прямо передо мной, во плоти и крови... и говорил. Хорошо, что вся моя психическая подготовленность исчезла, когда я переместился. Ничто не могло приготовить меня к этому. "
 
 # game/chapter1.rpy:665
 translate russiantl holetravel_5c6fb2e0:
@@ -536,13 +536,13 @@ translate russiantl holetravel_5c6fb2e0:
 translate russiantl holetravel_b43650b7:
 
     # m "Rendered speechless, I had totally forgotten that I was shouldering the burden of representing my people to them as well. So much for being professional, but at least he gave me a good excuse for my blunder."
-    m ""
+    m "Лишившись речи, я полностью забыл, что на мне лежал тяжёлый груз ответственности, представляя людей своего мира. Даже для меня это было слишком, но, по крайней мере, он смог неплохо объяснить моё поведение."
 
 # game/chapter1.rpy:667
 translate russiantl holetravel_883eb98b:
 
     # c "I... think I'm alright."
-    c ""
+    c "Я... думаю, я впорядке."
 
 # game/chapter1.rpy:669
 translate russiantl holetravel_1b80444e:
@@ -560,13 +560,13 @@ translate russiantl holetravel_a3fad319:
 translate russiantl holetravel_91c5ac30:
 
     # m "So I followed the dragon, not straying too far from him, as the sun had already departed for the day and the remaining light diminished by the minute."
-    m ""
+    m "И я последовал за драконом. Солнце уже зашло и за минуту оставшийся свет уже исчез, поэтому я пытался не отставать слишком сильно."
 
 # game/chapter1.rpy:678
 translate russiantl holetravel_98cf1cad:
 
     # c "It is getting hard to see where I'm going..."
-    c ""
+    c "Становится слишком сложно видеть дорогу..."
 
 # game/chapter1.rpy:682
 translate russiantl holetravel_aeb0c88e:
@@ -578,7 +578,7 @@ translate russiantl holetravel_aeb0c88e:
 translate russiantl holetravel_b1ea774c:
 
     # c "Thanks. I suppose an event like this would make me a celebrity of sorts. It would be the same if one of you came to us."
-    c ""
+    c "Спасибо. Предполагаю, такое событие сделало бы меня здесь знаменитостью. В нашем мире произошло бы то же самое, прибудь туда один из вас."
 
 # game/chapter1.rpy:684
 translate russiantl holetravel_a75b3c45:
@@ -590,7 +590,7 @@ translate russiantl holetravel_a75b3c45:
 translate russiantl holetravel_73aa25c3:
 
     # c "Really? How so?"
-    c ""
+    c "Действительно? Из-за чего?"
 
 # game/chapter1.rpy:691
 translate russiantl holetravel_437d1607:
@@ -602,13 +602,13 @@ translate russiantl holetravel_437d1607:
 translate russiantl holetravel_6e0c5972:
 
     # m "By this point, it had gotten so dark that I could barely make out the building before us. I briefly wondered whether they might have street lights elsewhere, or if they just did not require any due to possible enhanced eyesight or night vision."
-    m ""
+    m "К этому моменту стало настолько темно, что я едва мог разглядеть здание впереди нас. На секунду я задумался, почему у них нет повсеместного освещения. Может, оно им просто не необходимо ввиду возможного развития зрения или ночного видения."
 
 # game/chapter1.rpy:696
 translate russiantl holetravel_4bcd03cc:
 
     # m "I could vaguely see the dragon, his light colors still visible within the blackness that engulfed the area, rear up and manipulate the door handle with one of his forepaws."
-    m ""
+    m "Я слабо видел дракона, "
 
 # game/chapter1.rpy:709
 translate russiantl holetravel_f97397b2:
