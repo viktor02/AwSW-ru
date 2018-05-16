@@ -608,7 +608,7 @@ translate russiantl holetravel_6e0c5972:
 translate russiantl holetravel_4bcd03cc:
 
     # m "I could vaguely see the dragon, his light colors still visible within the blackness that engulfed the area, rear up and manipulate the door handle with one of his forepaws."
-    m "Я слабо видел дракона, "
+    m ""
 
 # game/chapter1.rpy:709
 translate russiantl holetravel_f97397b2:
