@@ -1,9 +1,5 @@
 # TODO: Translation updated at 2017-05-02 20:02
 
-# Для разнообразия речи, я использовал различные синонимы слова "дети" и разделял их между kids и children:
-# Children - дети, ребята
-# Kids - ребятишки, малыши, детишки
-
 # game/adine2.rpy:31
 translate russiantl adine2_f2a6a6f3:
 
