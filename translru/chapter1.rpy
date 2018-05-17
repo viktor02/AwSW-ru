@@ -608,13 +608,13 @@ translate russiantl holetravel_6e0c5972:
 translate russiantl holetravel_4bcd03cc:
 
     # m "I could vaguely see the dragon, his light colors still visible within the blackness that engulfed the area, rear up and manipulate the door handle with one of his forepaws."
-    m ""
+    m "Я слабо видел дракона, но его светлые тона по-прежнему виднелись на фоне окружающих тёмных цветов. Я заметил, как он встал и открыл дверь, воспользовавшись одной из его передних лап."
 
 # game/chapter1.rpy:709
 translate russiantl holetravel_f97397b2:
 
     # m "Hinges creaking, the door opened, and with the flick of a switch, the apartment was flooded with light, blinding me after all the time we had just spent without it."
-    m ""
+    m "Дверь открылась с небольшим скрипом, и после лёгкого щелчка выключателя комната заполнилась светом, ослепив меня после всего того времени, что я провёл без света. "
 
 # game/chapter1.rpy:713
 translate russiantl holetravel_7c536461:
@@ -632,7 +632,7 @@ translate russiantl holetravel_e590ac89:
 translate russiantl holetravel_a1bc0095:
 
     # c "Thank you, Remy. Have a good night."
-    c ""
+    c "Благодарю, Реми. Доброй ночи."
 
 # game/chapter1.rpy:716
 translate russiantl holetravel_acc659e8:
@@ -644,19 +644,19 @@ translate russiantl holetravel_acc659e8:
 translate russiantl holetravel_7ce680cd:
 
     # n "With a nod, Remy left the apartment, mindful enough to close the door behind himself. Surveying the room, I considered the events that had just transpired as my gaze met the window."
-    n ""
+    n "Кивнув головой, Реми покинул квартиру, не забыв закрыть дверь за собой. Обследуя комнату, я обдумывал только что произошедшие события, как только что-то за окном привлекло моё внимание. "
 
 # game/chapter1.rpy:728
 translate russiantl holetravel_0066f440:
 
     # n "I could see movement outside, and as I drew nearer, startled, I could hear footsteps in the grass, moving away quickly. Assuming it must have been the dragon I just met, I thought nothing of it as I went to bed and slowly succumbed to the sweet allure of sleep overdue."
-    n ""
+    n "Я заметил движение снаружи. По мере приближения к окну, с некоторым испугом, я услышал шаги по траве, которые быстро отдалялись. Предполагая, что это был дракон, с которым я только что познакомился, я отбросил все плохие мысли и направился к кровати, и постепенно поддавшись сладкому очарованию сна."
 
 # game/chapter1.rpy:733
 translate russiantl holetravel_344cc935:
 
     # n "I spent a few moments thinking about my role, my mission and what it meant to be here now."
-    n ""
+    n "Несколько минут я думал о своей роли, миссии и значении. О том, что значит моё нахождение здесь и сейчас."
 
 # game/chapter1.rpy:740
 translate russiantl holetravel_76b2fe88_1:
@@ -682,7 +682,7 @@ translate russiantl holetravel_75a177a0:
     # nvl clear
     # n "I was alone."
     nvl clear
-    n ""
+    n "Я был одинок."
 
 # game/chapter1.rpy:752
 translate russiantl holetravel_76b2fe88_2:
