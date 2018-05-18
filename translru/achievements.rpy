@@ -64,7 +64,7 @@ translate russiantl strings:
 
     # achievements.rpy:190
     old "{b}Disrobement{/b}\nGet Adine to remove her headgear."
-    new "{b}Снятие{/b}\nУговорить Адайн снять головной убор."
+    new "{b}Снятие{/b}\nУговорить Эдин снять головной убор."
 
     # achievements.rpy:201
     old "{b}You are a winner!{/b}\nBeat Sebastian at his own game."
@@ -152,7 +152,7 @@ translate russiantl strings:
 
     # achievements.rpy:472
     old "{b}Reckless{/b}\nGo to the portal."
-    new "{b}Отчаянье{/b}\nПойти к порталу."
+    new "{b}Отчаяние{/b}\nПойти к порталу."
 
     # achievements.rpy:483
     old "{b}Investigator 3{/b}\nDo well on the third investigation."
@@ -216,7 +216,7 @@ translate russiantl strings:
 
     # achievements.rpy:657
     old "{b}Alone{/b}\nSee Remy's bad ending."
-    new "{b}Одиночество{/b}\nУвидеть плохную концовку Реми."
+    new "{b}Одиночество{/b}\nУвидеть плохую концовку Реми."
 
     # achievements.rpy:669
     old "{b}Casualties of War{/b}\nSee Remy's good ending."
@@ -248,15 +248,15 @@ translate russiantl strings:
 
     # achievements.rpy:757
     old "{b}Getaway{/b}\nSee Adine's bad ending."
-    new "{b}Бегство{/b}\nУвидеть плохую концовку Адайн."
+    new "{b}Бегство{/b}\nУвидеть плохую концовку Эдин."
 
     # achievements.rpy:769
     old "{b}Decisions{/b}\nSee Adine's good ending."
-    new "{b}Решения{/b}\nУвидеть хорошую концовку Адайн."
+    new "{b}Решения{/b}\nУвидеть хорошую концовку Эдин."
 
     # achievements.rpy:795
     old "{b}Betrayal{/b}\nSee the evil ending."
-    new "{b}Предательство{/b}\nУвидеть злонамеренную концовку."
+    new "{b}Предательство{/b}\nУвидеть злую концовку."
 
     # achievements.rpy:807
     old "{b}Optimist{/b}\nSee your first good ending."
