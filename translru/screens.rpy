@@ -12,7 +12,7 @@ translate russiantl strings:
 
     # screens.rpy:420
     old "Quick"
-    new "Быстрый"
+    new "Быстрые"
 
     # screens.rpy:561
     old "Video"
