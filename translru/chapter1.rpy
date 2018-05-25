@@ -160,7 +160,7 @@ translate russiantl begingame_c9f110ae:
 translate russiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Ранее я слышал о похожей технологии, хотя эта выглядела более эксперементальной. Из того, что я знал, другие портали были созданы в прошлом и предполагались для  массового использования. Что насчёт этого портала - мы не знали ни кто его построил, ни когда - или почему мы нашли его здесь, в этих дебрях. Что стало для нас ещё большим удивлением - он оказался... функционирующим."
+    n "Ранее я слышал о похожей технологии, хотя эта выглядела более эксперементальной. Из того, что я знал, другие порталы были созданы в прошлом и предполагались для массового использования. Что насчёт этого портала - мы не знали ни кто его построил, ни когда - или почему мы нашли его здесь, в этих дебрях. Что стало для нас ещё большим удивлением - он оказался... функционирующим."
 
 # game/chapter1.rpy:433
 translate russiantl begingame_337d015e:
@@ -168,7 +168,7 @@ translate russiantl begingame_337d015e:
     # nvl clear
     # n "After our first tests, we found there was someone else on the other side who was in possession of a similar portal, and our attempts at communication through letters were successful. But in the end, the machine's extraordinary demand for power meant we needed to act quickly as we wouldn’t be able to keep the portal open much longer. "
     nvl clear
-    n "После наших первых испытаний, мы обнаружили, что на другой стороне был кто-то, обладающий похожим порталом, и наши попытки связаться через портал с помощью посланий оказались успешными. Но затем мы выяснили, что были неспособны поддерживать питание машины слишком долго, и нам было необходимо действовать быстро."
+    n "После наших первых испытаний мы обнаружили, что на другой стороне был кто-то, обладающий похожим порталом, и наши попытки связаться через портал с помощью посланий оказались успешными. Но затем мы выяснили, что были неспособны поддерживать питание машины слишком долго, и нам было необходимо действовать быстро."
 
 # game/chapter1.rpy:436
 translate russiantl begingame_00947764:
@@ -192,13 +192,13 @@ translate russiantl begingame_76b2fe88_1:
 translate russiantl begingame_f40eb8ae:
 
     # n "Reza Izquierdo."
-    n "Риза Искьердо."
+    n "Реза Искьердо."
 
 # game/chapter1.rpy:447
 translate russiantl begingame_f4966cae:
 
     # n "I knew him. Or rather, had known him. We attended the same school back then, and even had a few classes together. We never really were very close friends, but we talked to each other occasionally and hung around with the same crowd sometimes. However, we still went our separate ways in the end."
-    n "Я знал его. Или скорее, знал его раньше. Мы посещали одну и ту же школу, и даже учились несколько классов вместе. Мы никогда не были очень близкими друзьями, но мы говорили друг с другом время от времени и веселились иногда в одних и тех же компаниях. Тем не менее, наши пути в конце концов разошлись."
+    n "Я знал его. Или скорее, знал его раньше. Мы посещали одну и ту же школу и даже учились несколько классов вместе. Мы никогда не были очень близкими друзьями, но мы говорили друг с другом время от времени и иногда веселились в одних и тех же компаниях. Тем не менее, наши пути в конце концов разошлись."
 
 # game/chapter1.rpy:448
 translate russiantl begingame_d966c5be:
@@ -216,7 +216,7 @@ translate russiantl begingame_0be71cd9:
 translate russiantl begingame_71b0a869:
 
     # n "While I wasn't sure which, his courage was applauded by others. After all, he couldn't possibly have known who or what would await him at the other end of the portal, and if he did meet someone there, who knew what kinds of intentions they might have?"
-    n "Пока я не был уверен в его смелости, все аплодировали его мужеству. В конце концов, он не мог точно знать, кто или что поджидает его на той стороне портала, и даже если бы он встретил кого-то там, кто знает какие намерения у них могли быть?"
+    n "Пока я не был уверен в его смелости, все аплодировали его мужеству. В конце концов, он не мог точно знать, кто или что поджидает его на той стороне портала, и даже если бы он встретил кого-то там, то кто знает какие намерения у них могли быть?"
 
 # game/chapter1.rpy:451
 translate russiantl begingame_11930bc6:
@@ -230,7 +230,7 @@ translate russiantl begingame_82f1d7da:
     # nvl clear
     # n "When the day finally came, through he went, with applause echoing across the area - equipped only with the clothes he wore, his multi-tool, a gun and a device on his wrist that acted as a PDA."
     nvl clear
-    n "Когда этот день наконец наступил, он прошёл через портал с громкими аплодисментами, имев при себе лишь свою одежду, мульти-инструмент, пистолет и наручное устройство, заменяющее КПК."
+    n "Когда этот день наконец наступил, он прошёл через портал с громкими аплодисментами, имея при себе лишь свою одежду, мульти-инструмент, пистолет и наручное устройство, заменяющее КПК."
 
 # game/chapter1.rpy:458
 translate russiantl begingame_76b2fe88_2:
@@ -242,7 +242,7 @@ translate russiantl begingame_76b2fe88_2:
 translate russiantl begingame_02377e2f:
 
     # n "Then we waited..."
-    n "Затем, мы ждали..."
+    n "Затем мы ждали..."
 
 # game/chapter1.rpy:462
 translate russiantl begingame_a929e4ad:
@@ -266,7 +266,7 @@ translate russiantl begingame_282e06e8:
 translate russiantl begingame_2a8e54d7:
 
     # n "The situation he described to us was so outlandish that we initially took it as a joke."
-    n "Ситуация, описанная им, была такой фантастической, что мы приняли её за шутку."
+    n "Ситуация, описанная им, была такой странной, что мы приняли её за шутку."
 
 # game/chapter1.rpy:466
 translate russiantl begingame_bb325a0f:
@@ -286,13 +286,13 @@ translate russiantl begingame_ac587ebf:
 translate russiantl begingame_273be6cf:
 
     # n "Finding the portal had been remarkable in itself, but this took it to a completely different level."
-    n "Найти портал уже было достаточно выдающимся результатом, но ситуация преобрела совершенно новый уровень."
+    n "Найти портал уже было само по себе достаточно выдающимся результататом, но ситуация преобрела совершенно другой уровень."
 
 # game/chapter1.rpy:471
 translate russiantl begingame_942d3fc8:
 
     # n "From what he described about the place - or, more accurately, its inhabitants - we surmised it could not be part of Earth at all."
-    n "Из того, что он описывал об этом месте - или, более верно, его жителях - мы догадались, что оно вовсе не было частью Земли."
+    n "Из того, что он описывал об этом месте - или, более верно, его жителях - мы предположили, что оно вовсе не было частью Земли."
 
 # game/chapter1.rpy:472
 translate russiantl begingame_b4430af1:
@@ -304,7 +304,7 @@ translate russiantl begingame_b4430af1:
 translate russiantl begingame_73af8ba0:
 
     # n "Even though we found it hard to believe, it had been these dragons who sent us all the letters. And what Reza found on the other side of the portal was a whole civilization of them. They could talk, write books, had buildings and electricity. In many ways, their society was actually very similar to our own."
-    n "Даже хотя нам было сложно поверить во всё это, именно драконы были теми, кто отправлял нам эти послания. Риза нашёл на другой стороне портала целую циливизацию. Они могли говорить, писать книги, умели строить и обращаться с электричеством. Во многом, их общество действительно было очень похоже на человеческое."
+    n "Даже хотя нам было сложно поверить во всё это, именно эти драконы были теми, кто отправлял нам все послания. Реза нашёл на другой стороне портала целую циливизацию. Они могли говорить, писать книги, умели строить и обращаться с электричеством. Во многом, их общество действительно было очень похоже на человеческое."
 
 # game/chapter1.rpy:474
 translate russiantl begingame_6abe8d77:
@@ -318,7 +318,7 @@ translate russiantl begingame_6abe8d77:
 translate russiantl begingame_1020ae93:
 
     # n "Our speculations led us to conclude otherwise. After all, we knew about the existence of thousands of planets, millions of light-years away that may have been theoretically habitable, yet even then we had never found conclusive proof in regards to actual alien life-forms."
-    n "Наши доводы вели к заключению обратного. Ведь, в конечном итоге, мы знали о существовании тысяч планет, находящихся в миллионах световых годах от Земли и теоретически населённых живыми существами, но даже так у нас не было убедительных подтверждений в пользу существования инородных форм жизни."
+    n "Наши домыслы вели к заключению обратного. Ведь в конечном итоге, мы знали о существовании тысяч планет, находящихся в миллионах световых годах от Земли и теоретически населённых живыми существами, но даже в этом случае у нас не было убедительных подтверждений в пользу существования инородных форм жизни."
 
 # game/chapter1.rpy:478
 translate russiantl begingame_3ff6841f:
@@ -332,7 +332,7 @@ translate russiantl begingame_94c45763:
     # nvl clear
     # n "I think there's just one more thing worth mentioning before I move on:"
     nvl clear
-    n "Перед тем, как продолжить, считаю, стоит упомянуть ещё одну вещь:"
+    n "Думаю, стоит упомянуть ещё одну вещь перед тем, как я продолжу:"
 
 # game/chapter1.rpy:481
 translate russiantl begingame_fe72b4b9:
@@ -344,19 +344,19 @@ translate russiantl begingame_fe72b4b9:
 translate russiantl begingame_dc6c4ac0:
 
     # n "They hadn't known about any other intelligent life-form beyond their own, their portal had only recently been discovered and was a technology previously unknown to them, and just as we had myths about dragons, they had myths about us."
-    n "Они не знали о каких-либо других разумных формах жизни, их портал был найден лишь недавно, и технология была ранее им неизвестна. Так же, как у нас существовали мифы о драконах, у них были мифы о нас."
+    n "Они не знали о каких-либо других разумных формах жизни, их портал был найден лишь недавно, и технология была ранее им неизвестна. Так же, как у нас существовали мифы о драконах, у них существовали мифы о нас."
 
 # game/chapter1.rpy:484
 translate russiantl begingame_32508c0c:
 
     # n "That was what we knew about them so far, and as interesting as learning those things and debating their cultural significance was, we didn't really know what we should make of it all."
-    n "Именно это мы знали о них до этого момента. Изучение и обсуждение их культурного значения становилось всё интереснее, и мы не знали, что из этого всего мы сможем сделать. "
+    n "Именно это мы знали о них до настоящего времени. Изучение и обсуждение их культурного значения становилось всё интереснее, и мы не знали, что из всего этого мы должны сделать. "
 
 # game/chapter1.rpy:485
 translate russiantl begingame_26e2ea6a:
 
     # n "Reza apparently was sure of what he was doing, though, as he eventually let us know that they had agreed on a trade."
-    n "Риза, по всей видимости, был уверен в том, что он делал. В итоге он дал нам знать, что они согласились на сделку."
+    n "Реза, по всей видимости, был уверен в том, что он делал. В итоге он дал нам знать, что они согласились на сделку."
 
 # game/chapter1.rpy:486
 translate russiantl begingame_32345ff9:
@@ -370,7 +370,7 @@ translate russiantl begingame_32345ff9:
 translate russiantl begingame_23bd1b9f:
 
     # n "Overall, they didn't seem as technologically advanced as we had been, but they did surpass us in that one aspect. Their means of generating energy seemed... sustainable."
-    n "В общем и целом, они не казались настолько технологически развитыми, насколько были мы в прошлом, но они превосходили нас в кое-чём. Их средства выработки энергии были... возобновляемыми."
+    n "В общем и целом, они не казались настолько технологически развитыми, насколько были мы, но они превосходили нас в кое-чём другом. Их средства выработки энергии были... возобновляемыми."
 
 # game/chapter1.rpy:489
 translate russiantl begingame_9422efc0:
@@ -394,19 +394,19 @@ translate russiantl begingame_c8829c2c:
 translate russiantl begingame_9cb37fb9:
 
     # n "My prior experience in both biology and sociology made me a good fit to deliver our PDA devices for the trade. And while in the dragons' world, waiting for the prototypes of our generators to be manufactured by them, I would act as an ambassador on humanity's behalf."
-    n "Мой предшествующий опыт в биологии и социологии мог пригодиться для доставки КПК устройств и обмена. И тем временем в мире драконов, ожидая изготовления ими прототипов наших генераторов, я бы играл роль представителя от имени человечества. "
+    n "Мой предшествующий опыт в биологии и социологии мог бы пригодиться для доставки наших КПК устройств и последующего обмена. И тем временем в мире драконов, ожидая изготовления ими прототипов наших генераторов, я бы играл роль представителя от имени человечества. "
 
 # game/chapter1.rpy:499
 translate russiantl begingame_062d5b60:
 
     # n "What a way to make a first impression by a display of mutual goodwill. Everyone benefits and everyone goes home happy."
-    n "Прекрасный способ создать первое впечатление, продемонстрировав взаимную доброжелательность. Все в выигрыше и расходятся по домам довольнымии."
+    n "Что за прекрасный способ для создания первого впечатления, продемонстрировав взаимную доброжелательность. Все в выигрыше и расходятся довольнымии по домам."
 
 # game/chapter1.rpy:500
 translate russiantl begingame_b084fb87:
 
     # n "All is well."
-    n "Всё прекрасно."
+    n "Всё отлично."
 
 # game/chapter1.rpy:501
 translate russiantl begingame_fe0f2718:
@@ -420,19 +420,19 @@ translate russiantl begingame_a1d738a9:
     # nvl clear
     # n "Despite the images that living, talking dragons might conjure up in some people's minds, I didn't even think of bringing a weapon myself, considering that they were reportedly friendly and peaceful enough."
     nvl clear
-    n "Несмотря на то, что живущие и разговаривающие драконы вообще могут вызвать в умах некоторых людей, я даже не подумал взять с собой средство самозащиты, надеясь на то, что они достаточно дружелюбны и миролюбивы."
+    n "Несмотря на то, что живущие и разговаривающие драконы вообще способны вызвать в умах некоторых людей, я даже не подумал взять с собой средство самозащиты, надеясь на то, что они достаточно дружелюбны и миролюбивы."
 
 # game/chapter1.rpy:504
 translate russiantl begingame_01f41d60:
 
     # n "There was no need for me to fear potential ill intentions like Reza did when he had stepped into unknown territory, and acting as humanity's ambassador, I had to do my best to uphold a high standard in fostering this diplomatic relationship."
-    n "Мне не нужно было опасаться потенциальных злонамеренных действий, о чём Риза и думал во время его перехода на неизвестную территорию. Действуя как посол от человечества, я должен был сделать всё возможное, чтобы поддерживать высокий уровень этих дипломатических отношений."
+    n "Мне не нужно было опасаться потенциальных злонамеренных действий, о чём и думал Реза во время его перехода на неизвестную территорию. Действуя как посол от человечества, я обязан сделать всё возможное, чтобы поддерживать высокий уровень этих дипломатических отношений."
 
 # game/chapter1.rpy:505
 translate russiantl begingame_29ac0db6:
 
     # n "When the time came for me to step through the portal, all my mental preparedness vanished. My anxiousness was fueled by all the questions lurking in my head, just as the machine started to do its work."
-    n "Когда время пришло, чтобы переступить через портал, вся моя психологическая подгтовока пропала. Как только машина начала свою работу, моя взволнованность переполнилась множеством вопросов, скрывавшихся в моей голове."
+    n "Когда время пришло, чтобы я переступил через портал, вся моя психическая подготовка пропала. Как только машина начала свою работу, множество вопросов, скрывавшихся в моей голове, вызывали сильное волнение."
 
 # game/chapter1.rpy:506
 translate russiantl begingame_608fb1d8:
@@ -440,19 +440,19 @@ translate russiantl begingame_608fb1d8:
     # nvl clear
     # n "Would it hurt?"
     nvl clear
-    n "Почувствую ли я боль?"
+    n "Будет ли больно?"
 
 # game/chapter1.rpy:509
 translate russiantl begingame_1b21db5d:
 
     # n "Who would I meet on the other side?"
-    n "Кто встретит меня на той стороне?"
+    n "Кого я встречу на другой стороне?"
 
 # game/chapter1.rpy:510
 translate russiantl begingame_8b5b997c:
 
     # n "What if they really weren't so friendly and just made Reza write those letters, with the pretense of appearing friendly, only to lure us into the den of man-eating monsters and certain doom, with us ending up as nothing more than a tasty afternoon snack?"
-    n "Что, если на самом деле они не так дружелюбны и заставили Ризу написать эти послания. Что, если они создавали лишь видимость дружелюбия, чтобы заманить нас в логово монстров, пожирающих людей, и верной гибели, управляясь с нами как с вкусной послеобеденной закуской?"
+    n "Что, если на самом деле они не так дружелюбны и заставили Резу написать эти послания. Что, если они создавали лишь видимость дружелюбия, чтобы заманить нас в логово монстров, пожирающих людей, и верной гибели, управляясь с нами как с вкусной послеобеденной закуской?"
 
 # game/chapter1.rpy:512
 translate russiantl begingame_605c857b:
@@ -464,7 +464,7 @@ translate russiantl begingame_605c857b:
 translate russiantl begingame_4ca759d4:
 
     # n "{cps=80}Suddenly, I felt a shiver coursing throughout my whole body and beyond when I disintegrated, as if every cell, every atom of my body was torn from me and pulled into a different direction.{/cps}{nw}"
-    n "{cps=80}Неожиданно, я почувствовал, как дрожь пробегает по всему телу и даже за его пределами, когда я дезинтегрировал. Как будто каждая клетка, каждый атом моего тела был оторван от меня и отправлен в разных направлениях.{/cps}{nw}"
+    n "{cps=80}Неожиданно, началась дезинтеграция, и я почувствовал, как дрожь пробегает по всему телу и даже за его пределами. Как будто каждая клетка, каждый атом моего тела был оторван от меня и отправлен в разных направлениях.{/cps}{nw}"
 
 # game/chapter1.rpy:598
 translate russiantl begingame_76b2fe88_4:
@@ -494,7 +494,7 @@ translate russiantl begingame_76b2fe88_5:
 translate russiantl begingame_d079f0e6:
 
     # n "Then it was dark."
-    n "Затем стало темно."
+    n "Затем было темно."
 
 # game/chapter1.rpy:618
 translate russiantl begingame_9ea6cf05:
@@ -518,7 +518,7 @@ translate russiantl holetravel_76b2fe88:
 translate russiantl holetravel_7941b5bd:
 
     # Ry "In the name of our people, I bid you welcome. If I may introduce myself, I am Remy, your guide and ambassador - a representative of our council."
-    Ry ""
+    Ry "От имени наших людей, я приветствую Вас. Позвольте представиться, я Реми, Ваш гид и посол - представитель нашего совета."
 
 # game/chapter1.rpy:664
 translate russiantl holetravel_b40dd6f0:
@@ -530,7 +530,7 @@ translate russiantl holetravel_b40dd6f0:
 translate russiantl holetravel_5c6fb2e0:
 
     # Ry "Sorry, I imagine you might still feel the effects of the teleportation. Drowsiness or weakness is not unusual, as is fainting and spontaneous emptying of your bowels, bladder or stomach. How do you feel?"
-    Ry ""
+    Ry "Приношу извинения. Я полагаю, у Вас могут по-прежнему проявляться эффекты телепортации. Сонливость и слабость вполне так же не необычны, как обморок и спонтанное опустошение кишечника, мочевого пузыря или живота. Как Вы чувствуете себя?"
 
 # game/chapter1.rpy:666
 translate russiantl holetravel_b43650b7:
@@ -548,13 +548,13 @@ translate russiantl holetravel_883eb98b:
 translate russiantl holetravel_1b80444e:
 
     # Ry "Well, I'm glad to hear that."
-    Ry ""
+    Ry "Что ж, я рад это слышать."
 
 # game/chapter1.rpy:671
 translate russiantl holetravel_a3fad319:
 
     # Ry "Maybe we should go before it gets too dark. Come with me, please."
-    Ry ""
+    Ry "Может, нам стоит отправиться до того, как станет слишком темно. Прошу, следуйте за мной."
 
 # game/chapter1.rpy:674
 translate russiantl holetravel_91c5ac30:
@@ -572,7 +572,7 @@ translate russiantl holetravel_98cf1cad:
 translate russiantl holetravel_aeb0c88e:
 
     # Ry "Sorry about that, but we had a good reason to schedule your arrival like this. We did not want you to be ambushed by a crowd, so we had to keep your exact time and date of arrival secret."
-    Ry ""
+    Ry "Простите насчёт этого, но у нас была хорошая причина для выбора такого времени. Мы не хотели, чтобы Вас застала толпа людей, поэтому нам пришлось сохранить точное время и дату прибытия в секрете."
 
 # game/chapter1.rpy:683
 translate russiantl holetravel_b1ea774c:
@@ -584,7 +584,7 @@ translate russiantl holetravel_b1ea774c:
 translate russiantl holetravel_a75b3c45:
 
     # Ry "That's quite an understatement. Some people here are rather superstitious. They might regard you or any of your kind as... divine, I suppose."
-    Ry ""
+    Ry "Это ещё мягко сказано. Некоторые люди здесь довольно суеверны. Они могут счесть Вас или кого-то из вашего вида как... божественным, полагаю."
 
 # game/chapter1.rpy:687
 translate russiantl holetravel_73aa25c3:
@@ -596,7 +596,7 @@ translate russiantl holetravel_73aa25c3:
 translate russiantl holetravel_437d1607:
 
     # Ry "We do have certain myths that involve humans and as such... Oh, I suppose the history lesson will have to wait for another time. Here we are."
-    Ry ""
+    Ry "У нас есть определённые мифы, которые описывают людей как... О, думаю, урок истории должен подождать до следующего раза. Вот мы и здесь."
 
 # game/chapter1.rpy:695
 translate russiantl holetravel_6e0c5972:
@@ -614,19 +614,19 @@ translate russiantl holetravel_4bcd03cc:
 translate russiantl holetravel_f97397b2:
 
     # m "Hinges creaking, the door opened, and with the flick of a switch, the apartment was flooded with light, blinding me after all the time we had just spent without it."
-    m "Дверь открылась с небольшим скрипом, и после лёгкого щелчка выключателя комната заполнилась светом, ослепив меня после всего того времени, что я провёл без света. "
+    m "Дверь открылась со скрипом, и после лёгкого щелчка выключателя комната заполнилась светом, ослепив меня после всего того времени, что я провёл без света. "
 
 # game/chapter1.rpy:713
 translate russiantl holetravel_7c536461:
 
     # Ry "This is where you will live for the time being. It is fully stocked, but in case you need anything else, I left you a note with a few phone numbers."
-    Ry ""
+    Ry "Вот где Вы будете жить на время Вашего прибывания здесь. Всё полностью подготовлено, но в случае, если Вам понадобится что-то ещё, я оставил записку со списком телефонных номеров."
 
 # game/chapter1.rpy:714
 translate russiantl holetravel_e590ac89:
 
     # Ry "It is getting rather late, so I will have to take my leave now. In any case, someone will come and meet you tomorrow morning."
-    Ry ""
+    Ry "Становится довольно поздно, поэтому я должен покинуть Вас. В любом случае, кто-нибудь придёт и встретит вас завтрашним утром."
 
 # game/chapter1.rpy:715
 translate russiantl holetravel_a1bc0095:
@@ -638,7 +638,7 @@ translate russiantl holetravel_a1bc0095:
 translate russiantl holetravel_acc659e8:
 
     # Ry "Until we meet again."
-    Ry ""
+    Ry "До новых встреч."
 
 # game/chapter1.rpy:727
 translate russiantl holetravel_7ce680cd:
@@ -650,13 +650,13 @@ translate russiantl holetravel_7ce680cd:
 translate russiantl holetravel_0066f440:
 
     # n "I could see movement outside, and as I drew nearer, startled, I could hear footsteps in the grass, moving away quickly. Assuming it must have been the dragon I just met, I thought nothing of it as I went to bed and slowly succumbed to the sweet allure of sleep overdue."
-    n "Я заметил движение снаружи. По мере приближения к окну, с некоторым испугом, я услышал шаги по траве, которые быстро отдалялись. Предполагая, что это был дракон, с которым я только что познакомился, я отбросил все плохие мысли и направился к кровати, и постепенно поддавшись сладкому очарованию сна."
+    n "Я заметил движение снаружи. С некоторым испугом, я приблизился к окну и мог отчётливо слышать шаги по траве, которые быстро отдалялись. Предположив, что это был дракон, с которым я только что познакомился, я отбросил все плохие мысли и направился к кровати, постепенно поддавшись сладкому очарованию сна."
 
 # game/chapter1.rpy:733
 translate russiantl holetravel_344cc935:
 
     # n "I spent a few moments thinking about my role, my mission and what it meant to be here now."
-    n "Несколько минут я думал о своей роли, миссии и значении. О том, что значит моё нахождение здесь и сейчас."
+    n "Несколько минут я думал о своей роли, миссии и что значит моё нахождение здесь и сейчас."
 
 # game/chapter1.rpy:740
 translate russiantl holetravel_76b2fe88_1:
@@ -668,13 +668,13 @@ translate russiantl holetravel_76b2fe88_1:
 translate russiantl holetravel_49a3a932:
 
     # n "Now here I was, a stranger in a strange land, as I only began to feel the weight of the burden that lay upon me, the pressure of my task and the expectations I would have to meet in representing a species, culture and civilization."
-    n ""
+    n "Теперь я был здесь, незнакомец в незнакомой стране. Я только начал чувствовать лежавший на мне вес ответственности, давление своей задачи и ожидания, с которыми я обязательно столкнусь, представляя вид, культуру и циливизацию."
 
 # game/chapter1.rpy:744
 translate russiantl holetravel_d92940c8:
 
     # n "So many would depend on it, yet I did not even know where the only human contact I had currently was."
-    n ""
+    n "Столькое будет зависеть от меня, хотя я даже не знал какая связь с человечеством существовала у меня в настоящее время."
 
 # game/chapter1.rpy:745
 translate russiantl holetravel_75a177a0:
@@ -682,7 +682,7 @@ translate russiantl holetravel_75a177a0:
     # nvl clear
     # n "I was alone."
     nvl clear
-    n "Я был одинок."
+    n "Я был один."
 
 # game/chapter1.rpy:752
 translate russiantl holetravel_76b2fe88_2:
@@ -694,13 +694,13 @@ translate russiantl holetravel_76b2fe88_2:
 translate russiantl holetravel_2b565a45:
 
     # n "So many possibilities and prospects raced through my mind. Truth be told, the thought of being able to meet an entirely new species and civilization excited me. As I was going to be one of the first to truly experience their society with its own little quirks, differences and similarities, I couldn't help but feel like some sort of modern Vasco da Gama or Marco Polo."
-    n ""
+    n "Столько возможностей и перспектив пронеслось в моей голове. По правде говоря, мысль о способности встретить совершенно новые виды и циливизации завораживала меня. Так, как я собирался быть одним из тех первых, кто по-настоящему столкнётся с их обществом со своими маленькими причудами, различаями и сходствами, то я не мог не чувствовать себя в каком-то роде современным Васко да Гамой или Марко Поло."
 
 # game/chapter1.rpy:756
 translate russiantl holetravel_8355d8c5:
 
     # n "Maybe I would even write a book about the whole experience after it's all over. I was sure it would become a hit, all things considered."
-    n ""
+    n "Может, мне даже стоит написать книгу обо всём, с чем я столкнусь после того, как всё закончится. Уверен, что такая книга стала бы хитом, учитывая все вещи."
 
 # game/chapter1.rpy:757
 translate russiantl holetravel_ed81ce8a:
@@ -708,25 +708,25 @@ translate russiantl holetravel_ed81ce8a:
     # nvl clear
     # n "At any rate, this was going to be fun."
     nvl clear
-    n ""
+    n "Во всяком случае, это будет весело."
 
 # game/chapter1.rpy:809
 translate russiantl skipintro_4ceaddf2:
 
     # s "{cps=20}You wish to glimpse the past, [player_name]? Very well.{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "{cps=20}Желаешь взглянуть на прошлое, [player_name]? Очень хорошо.{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter1.rpy:813
 translate russiantl skipintro_664c5cbc:
 
     # s "{cps=20}You wish to return once more, [player_name]? Very well.{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "{cps=20}Желаешь вернуться снова, [player_name]? Очень хорошо.{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter1.rpy:817
 translate russiantl skipintro_bc457b13:
 
     # s "{cps=20}Continue your journey, [player_name].{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
-    s ""
+    s "{cps=20}Продолжай своё путешествие, [player_name].{/cps}{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter1.rpy:1132
 translate russiantl seccont_76b2fe88:
@@ -738,25 +738,25 @@ translate russiantl seccont_76b2fe88:
 translate russiantl seccont_f6acc4a0:
 
     # n "I awoke from uneasy dreams looking at an unfamiliar ceiling. Just for a moment, I wondered where I was before the events of last night all came back to me."
-    n ""
+    n "Я проснулся от неприятных снов, глядя на непривычный потолок. На несколько секунд, я не мог понять, где я был, как только воспоминания событий прошлой ночи вернулись ко мне."
 
 # game/chapter1.rpy:1148
 translate russiantl seccont_22affa1d:
 
     # n "After a good stretch, I looked around the room illuminated by the sunlight coming in from the window. Outside, in the distance, the portal I had emerged from proudly stood on the peak of a small hill."
-    n ""
+    n "После хорошей растяжки, я окинул взором комнату, заполненую солнечным светом, исходящим из окна. Снаружи, вдалеке, виднелся портал, через который прибыл, и гордо стоял на вершине небольшого холма. "
 
 # game/chapter1.rpy:1149
 translate russiantl seccont_f69b9100:
 
     # n "Getting ready, I noticed something lying on the table. It was the note Remy had left for me in case I needed anything. Along with his own home phone and work number, there were also some numbers for delivery of food and other necessities, as well as emergency and even janitorial services. He had certainly thought of everything, even though I now had to wonder what a dragon plumber might look like."
-    n ""
+    n "Приготавливаясь, я заметил, что на столе что-то лежало. Это была записка от Реми, оставленная на случай, если мне что-то понадобится. Наряду с его собственным домашним и рабочим номерами, на ней были некоторые номера доставки еды и других потребностей, так и отделение неотложной помощи и даже уборочные сервисы. Он определённо продумал всё, хотя я даже задумался о том, как мог выглядеть дракон водопроводчик."
 
 # game/chapter1.rpy:1153
 translate russiantl seccont_b34a115e:
 
     # n "My musings were interrupted when the doorbell rang. When I opened the door, I was met by another dragon."
-    n ""
+    n "Мои размышления были прерваны дверным звонком. Когда я открыл дверь, меня встретил ещё один дракон."
 
 # game/chapter1.rpy:1188
 translate russiantl _call_skiptut_2_4d25d249:
@@ -792,67 +792,67 @@ translate russiantl _call_skipcheck_2_0054b77b:
 translate russiantl _call_skipcheck_2_8b54a3a5:
 
     # Sb "H-Hello! You must be [player_name]. I'm Sebastian, and I'll be your escort... or s-security, I suppose. Usually I work for the police, though. Nice to meet you."
-    Sb ""
+    Sb "П-Приветствую! Вы, должно быть, [player_name]. Я Себастиан, и буду вашим сопровождением... или о-охраной, полагаю. Обычно я работаю на полицию, однако. Приятно познакомиться."
 
 # game/chapter1.rpy:1259
 translate russiantl _call_skipcheck_2_dd8ee6c6:
 
     # m "He seemed a lot smaller than Remy, and when he somewhat nervously extended his arm towards me, I noticed he apparently only walked on his hind legs, the two forelimbs instead having distinct arms, hands and fingers."
-    m ""
+    m "Он выглядел намного меньше Реми, и когда он очасти нервно протянул ко мне свою руку, я заметил, что он, очевидно, ходит только на задних лапах, и две передние конечности вместо отчетливых рук, кистей и пальцев."
 
 # game/chapter1.rpy:1264
 translate russiantl _call_skipcheck_2_369fcd63:
 
     # m "When I took his hand into mine to shake it gently, I could feel the individual bumps and scales on his rough skin."
-    m ""
+    m "Когда я взял его руку, чтобы осторожно её пожать, я почувствовал отдельные бугорки и неровности на его грубой коже."
 
 # game/chapter1.rpy:1265
 translate russiantl _call_skipcheck_2_7a25dc5e:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c ""
+    c "Тоже приятно познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
 
 # game/chapter1.rpy:1268
 translate russiantl _call_skipcheck_2_7a25dc5e_1:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c ""
+    c "Тоже приятно познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
 
 # game/chapter1.rpy:1274
 translate russiantl _call_skipcheck_2_540956bc:
 
     # m "When I took his hand into mine, preparing to kiss it, I could feel the individual bumps and scales on his rough skin."
-    m ""
+    m "Когда я взял его руку, готовясь поцеловать её, я почувствовал отдельные бугорки и неровности на его грубой коже."
 
 # game/chapter1.rpy:1278
 translate russiantl _call_skipcheck_2_7a25dc5e_2:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c ""
+    c "Тоже приятно познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
 
 # game/chapter1.rpy:1284
 translate russiantl _call_skipcheck_2_89d32851:
 
     # Sb "Straight to business, eh? We're going to visit the plant where they are making your generators. They have some news for you, or so I've heard."
-    Sb ""
+    Sb "Сразу к делу? Мы собираемся посетить завод, где собирают ваши генераторы. У них есть какие-то новости для тебя. По крайней мере, я так слышал."
 
 # game/chapter1.rpy:1285
 translate russiantl _call_skipcheck_2_e6da4888:
 
     # Sb "Reza will be there, too."
-    Sb ""
+    Sb "Реза, кстати, тоже будет там."
 
 # game/chapter1.rpy:1286
 translate russiantl _call_skipcheck_2_5a47fdba:
 
     # c "Sounds great."
-    c ""
+    c "Звучит отлично."
 
 # game/chapter1.rpy:1287
 translate russiantl _call_skipcheck_2_cc9b257f:
 
     # Sb "Just follow me."
-    Sb ""
+    Sb "Просто следуй за мной."
 
 # game/chapter1.rpy:1295
 translate russiantl _call_skipcheck_2_76b2fe88:
@@ -864,7 +864,7 @@ translate russiantl _call_skipcheck_2_76b2fe88:
 translate russiantl _call_skipcheck_2_a0f2016d:
 
     # n "While we walked, I was under the impression we were purposefully avoiding the busier parts of the town, instead straying towards the edges and small alleys as to not garner too much attention."
-    n ""
+    n "Пока мы шли, "
 
 # game/chapter1.rpy:1299
 translate russiantl _call_skipcheck_2_04ea8b49:
@@ -4628,115 +4628,115 @@ translate russiantl strings:
 
     # chapter1.rpy:43
     old "Chapter 1"
-    new ""
+    new "Глава 1"
 
     # chapter1.rpy:44
     old "Prologue"
-    new ""
+    new "Пролог"
 
     # chapter1.rpy:108
     old "{color=#0000ff}B{/color}lue"
-    new ""
+    new "{color=#0000ff}С{/color}иний"
 
     # chapter1.rpy:108
     old "{color=#ff0000}R{/color}ed"
-    new ""
+    new "{color=#ff0000}К{/color}расный"
 
     # chapter1.rpy:108
     old "{color=#ffff00}Y{/color}ellow"
-    new ""
+    new "{color=#ffff00}Ж{/color}ёлтый"
 
     # chapter1.rpy:108
     old "{color=#008000}G{/color}reen"
-    new ""
+    new "{color=#008000}З{/color}елёный"
 
     # chapter1.rpy:108
     old "{color=#d3d3d3}G{/color}ray"
-    new ""
+    new "{color=#d3d3d3}С{/color}ерый"
 
     # chapter1.rpy:108
     old "[[Show more colors.]"
-    new ""
+    new "[[Другие цвета.]"
 
     # chapter1.rpy:163
     old "{color=#00ffff}C{/color}yan"
-    new ""
+    new "{color=#00ffff}Г{/color}олубой"
 
     # chapter1.rpy:163
     old "{color=#ff00ff}M{/color}agenta"
-    new ""
+    new "{color=#ff00ff}П{/color}урпурный"
 
     # chapter1.rpy:163
     old "{color=#00ff00}L{/color}ime"
-    new ""
+    new "{color=#00ff00}Л{/color}аймовый"
 
     # chapter1.rpy:163
     old "{color=#ffa500}O{/color}range"
-    new ""
+    new "{color=#ffa500}О{/color}ранжевый"
 
     # chapter1.rpy:163
     old "{color=#ffffff}W{/color}hite"
-    new ""
+    new "{color=#ffffff}Б{/color}елый"
 
     # chapter1.rpy:226
     old "{color=#ffd700}G{/color}old"
-    new ""
+    new "{color=#ffd700}З{/color}олотой"
 
     # chapter1.rpy:226
     old "{color=#c0c0c0}S{/color}ilver"
-    new ""
+    new "{color=#c0c0c0}С{/color}еребристый"
 
     # chapter1.rpy:226
     old "{color=#b5a642}B{/color}rass"
-    new ""
+    new "{color=#b5a642}Л{/color}атунный"
 
     # chapter1.rpy:226
     old "{color=#cd7f32}B{/color}ronze"
-    new ""
+    new "{color=#cd7f32}Б{/color}ронзовый"
 
     # chapter1.rpy:226
     old "{color=#cb6d51}C{/color}opper"
-    new ""
+    new "{color=#cb6d51}М{/color}едный"
 
     # chapter1.rpy:289
     old "{color=#808000}O{/color}live"
-    new ""
+    new "{color=#808000}О{/color}ливковый"
 
     # chapter1.rpy:289
     old "{color=#8b4513}B{/color}rown"
-    new ""
+    new "{color=#8b4513}К{/color}оричневый"
 
     # chapter1.rpy:289
     old "{color=#008080}T{/color}eal"
-    new ""
+    new "{color=#008080}Б{/color}ирюзовый"
 
     # chapter1.rpy:289
     old "{color=#800080}P{/color}urple"
-    new ""
+    new "{color=#800080}Ф{/color}иолетовый"
 
     # chapter1.rpy:289
     old "{color=#800000}M{/color}aroon"
-    new ""
+    new "{color=#800000}Б{/color}ордовый"
 
     # chapter1.rpy:737
     old "I felt the responsibility placed on my shoulders."
-    new ""
+    new "Я чувствовал ответственность, возложенную на мои плечи."
 
     # chapter1.rpy:737
     old "I was eager for the adventure to come."
-    new ""
+    new "Мне не терпелось встретить приключения."
 
     # chapter1.rpy:1261
     old "Shake his hand."
-    new ""
+    new "Пожать его руку."
 
     # chapter1.rpy:1261
     old "Don't shake his hand."
-    new ""
+    new "Не пожимать его руку."
 
     # chapter1.rpy:1261
     old "Kiss his hand."
-    new ""
+    new "Поцеловать его руку."
 
     # chapter1.rpy:1328
     old "I bet he'd win in a fight with mine, though."
