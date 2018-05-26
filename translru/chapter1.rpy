@@ -160,7 +160,7 @@ translate russiantl begingame_c9f110ae:
 translate russiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Ранее я слышал о похожей технологии, хотя эта выглядела более эксперементальной. Из того, что я знал, другие порталы были созданы в прошлом и предполагались для массового использования. Что насчёт этого портала - мы не знали ни кто его построил, ни когда - или почему мы нашли его здесь, в этих дебрях. Что стало для нас ещё большим удивлением - он оказался... функционирующим."
+    n "Ранее я слышал о похожей технологии, хотя эта выглядела более экспериментальной. Из того, что я знал, другие порталы были созданы в прошлом и предполагались для массового использования. Что насчёт этого портала - мы не знали ни кто его построил, ни когда - или почему мы нашли его здесь, в этих дебрях. Что стало для нас ещё большим удивлением - он оказался... функционирующим."
 
 # game/chapter1.rpy:433
 translate russiantl begingame_337d015e:
@@ -286,7 +286,7 @@ translate russiantl begingame_ac587ebf:
 translate russiantl begingame_273be6cf:
 
     # n "Finding the portal had been remarkable in itself, but this took it to a completely different level."
-    n "Найти портал уже было само по себе достаточно выдающимся результататом, но ситуация преобрела совершенно другой уровень."
+    n "Найти портал уже было само по себе достаточно выдающимся результатом, но ситуация приобрела совершенно другой уровень."
 
 # game/chapter1.rpy:471
 translate russiantl begingame_942d3fc8:
@@ -364,7 +364,7 @@ translate russiantl begingame_32345ff9:
     # nvl clear
     # n "We were to give them a few of our PDA devices, which contained vast amounts of knowledge, dwarfing even that of encyclopedias. In return, they would supply us with generators."
     nvl clear
-    n "Мы обязывались дать им несколько наших КПК устройств, содержащих огромное количество знаний, неуступающих даже знаниям в энциклопедиях. В ответ, они бы обеспечили нас генераторами."
+    n "Мы обязывались дать им несколько наших КПК устройств, содержащих огромное количество знаний, не уступающие даже знаниям в энциклопедиях. В ответ, они бы обеспечили нас генераторами."
 
 # game/chapter1.rpy:488
 translate russiantl begingame_23bd1b9f:
@@ -400,7 +400,7 @@ translate russiantl begingame_9cb37fb9:
 translate russiantl begingame_062d5b60:
 
     # n "What a way to make a first impression by a display of mutual goodwill. Everyone benefits and everyone goes home happy."
-    n "Что за прекрасный способ для создания первого впечатления, продемонстрировав взаимную доброжелательность. Все в выигрыше и расходятся довольнымии по домам."
+    n "Что за прекрасный способ для создания первого впечатления, продемонстрировав взаимную доброжелательность. Все в выигрыше и расходятся довольными по домам."
 
 # game/chapter1.rpy:500
 translate russiantl begingame_b084fb87:
@@ -500,7 +500,7 @@ translate russiantl begingame_d079f0e6:
 translate russiantl begingame_9ea6cf05:
 
     # n "I could only see a patch of lighter color contrasting with its dark surroundings as my vision started to clear. Its edges got sharper as the patch of light slowly took shape, giving me the distinguished outline of a reptilian head, and an array of horns spouting from it."
-    n "Я мог разглядеть только пятно более светлого на фоне окружающего цвета. Моё зрение начало проясняться, и пятно света медленно стало преобретать форму, похожую на голову рептилии со множеством рогов."
+    n "Я мог разглядеть только пятно более светлого на фоне окружающего цвета. Моё зрение начало проясняться, и пятно света медленно стало приобретать форму, похожую на голову рептилии со множеством рогов."
 
 # game/chapter1.rpy:639
 translate russiantl holetravel_6a175cfd:
@@ -542,7 +542,7 @@ translate russiantl holetravel_b43650b7:
 translate russiantl holetravel_883eb98b:
 
     # c "I... think I'm alright."
-    c "Я... думаю, я впорядке."
+    c "Я... думаю, я в порядке."
 
 # game/chapter1.rpy:669
 translate russiantl holetravel_1b80444e:
@@ -620,7 +620,7 @@ translate russiantl holetravel_f97397b2:
 translate russiantl holetravel_7c536461:
 
     # Ry "This is where you will live for the time being. It is fully stocked, but in case you need anything else, I left you a note with a few phone numbers."
-    Ry "Вот где Вы будете жить на время Вашего прибывания здесь. Всё полностью подготовлено, но в случае, если Вам понадобится что-то ещё, я оставил записку со списком телефонных номеров."
+    Ry "Вот где Вы будете жить на время Вашего пребывания здесь. Всё полностью подготовлено, но в случае, если Вам понадобится что-то ещё, я оставил записку со списком телефонных номеров."
 
 # game/chapter1.rpy:714
 translate russiantl holetravel_e590ac89:
@@ -694,7 +694,7 @@ translate russiantl holetravel_76b2fe88_2:
 translate russiantl holetravel_2b565a45:
 
     # n "So many possibilities and prospects raced through my mind. Truth be told, the thought of being able to meet an entirely new species and civilization excited me. As I was going to be one of the first to truly experience their society with its own little quirks, differences and similarities, I couldn't help but feel like some sort of modern Vasco da Gama or Marco Polo."
-    n "Столько возможностей и перспектив пронеслось в моей голове. По правде говоря, мысль о способности встретить совершенно новые виды и циливизации завораживала меня. Так, как я собирался быть одним из тех первых, кто по-настоящему столкнётся с их обществом со своими маленькими причудами, различаями и сходствами, то я не мог не чувствовать себя в каком-то роде современным Васко да Гамой или Марко Поло."
+    n "Столько возможностей и перспектив пронеслось в моей голове. По правде говоря, мысль о способности встретить совершенно новые виды и циливизацию завораживала меня. Так, как я собирался быть одним из тех первых, кто по-настоящему столкнётся с их обществом со своими маленькими причудами, различиями и сходствами, то я не мог не чувствовать себя в каком-то роде современным Васко да Гамой или Марко Поло."
 
 # game/chapter1.rpy:756
 translate russiantl holetravel_8355d8c5:
@@ -744,7 +744,7 @@ translate russiantl seccont_f6acc4a0:
 translate russiantl seccont_22affa1d:
 
     # n "After a good stretch, I looked around the room illuminated by the sunlight coming in from the window. Outside, in the distance, the portal I had emerged from proudly stood on the peak of a small hill."
-    n "После хорошей растяжки, я окинул взором комнату, заполненую солнечным светом, исходящим из окна. Снаружи, вдалеке, виднелся портал, через который прибыл, и гордо стоял на вершине небольшого холма. "
+    n "После хорошей растяжки, я окинул взором комнату, заполненную солнечным светом, исходящим из окна. Снаружи, вдалеке, виднелся портал, через который прибыл, и гордо стоял на вершине небольшого холма. "
 
 # game/chapter1.rpy:1149
 translate russiantl seccont_f69b9100:
@@ -798,7 +798,7 @@ translate russiantl _call_skipcheck_2_8b54a3a5:
 translate russiantl _call_skipcheck_2_dd8ee6c6:
 
     # m "He seemed a lot smaller than Remy, and when he somewhat nervously extended his arm towards me, I noticed he apparently only walked on his hind legs, the two forelimbs instead having distinct arms, hands and fingers."
-    m "Он выглядел намного меньше Реми, и когда он очасти нервно протянул ко мне свою руку, я заметил, что он, очевидно, ходит только на задних лапах, и две передние конечности вместо отчетливых рук, кистей и пальцев."
+    m "Он выглядел намного меньше Реми. Когда он отчасти нервно протянул ко мне свою руку, я заметил две передние конечности вместо отчетливых рук, кистей и пальцев, а также и то, что он, очевидно, ходит только на задних лапах."
 
 # game/chapter1.rpy:1264
 translate russiantl _call_skipcheck_2_369fcd63:
@@ -828,7 +828,7 @@ translate russiantl _call_skipcheck_2_540956bc:
 translate russiantl _call_skipcheck_2_7a25dc5e_2:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c "Тоже приятно познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
+    c "Я тоже рад познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
 
 # game/chapter1.rpy:1284
 translate russiantl _call_skipcheck_2_89d32851:
@@ -864,145 +864,145 @@ translate russiantl _call_skipcheck_2_76b2fe88:
 translate russiantl _call_skipcheck_2_a0f2016d:
 
     # n "While we walked, I was under the impression we were purposefully avoiding the busier parts of the town, instead straying towards the edges and small alleys as to not garner too much attention."
-    n "Пока мы шли, "
+    n "Пока мы шли, у меня создалось впечатление, что мы намеренно обходим более оживленные части города, вместо этого блуждая по краям города и небольшим аллеям, чтобы не привлекать слишком много внимания."
 
 # game/chapter1.rpy:1299
 translate russiantl _call_skipcheck_2_04ea8b49:
 
     # n "Even then, we got the occasional stare."
-    n ""
+    n "Но даже так на нас периодически поглядывали."
 
 # game/chapter1.rpy:1301
 translate russiantl _call_skipcheck_2_a313ff65:
 
     # n "After just a couple of minutes, we arrived at our destination where we were met by Reza, as well as yet another dragon, a vicious looking beast that didn't stay too close to him."
-    n ""
+    n "Всего лишь через пару минут мы прибыли к нужному месту, где нас встретил Реза. И также другой дракон - злобное на вид чудовище - стоя не слишком близко к нему."
 
 # game/chapter1.rpy:1319
 translate russiantl _call_skipcheck_2_ed3bc404:
 
     # Rz "Hey."
-    Rz ""
+    Rz "Привет."
 
 # game/chapter1.rpy:1320
 translate russiantl _call_skipcheck_2_4e1f9793:
 
     # c "Reza, long time no see."
-    c ""
+    c "Реза, давно не виделись."
 
 # game/chapter1.rpy:1321
 translate russiantl _call_skipcheck_2_035ee4c5:
 
     # Rz "How true that is. Good to finally see another human face around here."
-    Rz ""
+    Rz "Насколько верны эти слова. Приятно в конце концов увидеть здесь другое человеческое лицо."
 
 # game/chapter1.rpy:1323
 translate russiantl _call_skipcheck_2_ab689bf0:
 
     # Rz "What a coincidence to have you, of all people, show up."
-    Rz ""
+    Rz "Какое невероятное совпадение встретиться именно с тобой. "
 
 # game/chapter1.rpy:1324
 translate russiantl _call_skipcheck_2_a304046d:
 
     # c "Yeah, guess those degrees aren't so useless after all."
-    c ""
+    c "Ага, похоже, моё образование в конечном итоге не такое уж и бесполезное."
 
 # game/chapter1.rpy:1325
 translate russiantl _call_skipcheck_2_1d959df5:
 
     # c "By the way, who's your friend?"
-    c ""
+    c "Кстати, кто же твой друг?"
 
 # game/chapter1.rpy:1326
 translate russiantl _call_skipcheck_2_bf84f7f4:
 
     # Rz "Just my bodyguard, same as yours. Don't bother with him, he doesn't talk much."
-    Rz ""
+    Rz "Просто мой телохранитель, как и твой. Не беспокой его, он не особо разговорчив."
 
 # game/chapter1.rpy:1330
 translate russiantl _call_skipcheck_2_8eee5c09:
 
     # Rz "Hah."
-    Rz ""
+    Rz "Ха."
 
 # game/chapter1.rpy:1336
 translate russiantl _call_skipcheck_2_4c394714:
 
     # Rz "That's what he always looks like. And yes, that does mean he's always grumpy."
-    Rz ""
+    Rz "Именно так он и выглядит всё время. И да, это значит, что он всегда сердитый."
 
 # game/chapter1.rpy:1342
 translate russiantl _call_skipcheck_2_03306bb6:
 
     # Rz "Very funny."
-    Rz ""
+    Rz "Очень смешно."
 
 # game/chapter1.rpy:1347
 translate russiantl _call_skipcheck_2_f80ab64c:
 
     # m "The two dragons exchanged a few words and as I met the gaze of the larger, tenebrous dragon a few paces from us, Sebastian turned towards me and spoke up again."
-    m ""
+    m "Два дракона перекинулись парой слов, и как только я поймал взгляд большего, мрачного дракона в нескольких шагах от нас, Себастиан повернулся в мою сторону и заговорил."
 
 # game/chapter1.rpy:1353
 translate russiantl _call_skipcheck_2_e3c71041:
 
     # Sb "Hey, [player_name], this is Maverick."
-    Sb ""
+    Sb "Кстати, [player_name], это Маверик."
 
 # game/chapter1.rpy:1354
 translate russiantl _call_skipcheck_2_ec602286:
 
     # c "Nice to meet you."
-    c ""
+    c "Рад познакомиться."
 
 # game/chapter1.rpy:1355
 translate russiantl _call_skipcheck_2_dc037c95:
 
     # Mv "Yeah, whatever. Just don't expect me to give you any special treatment like everyone else is and we'll be good."
-    Mv ""
+    Mv "Да, конечно. Просто не жди от меня, как от других, какого-либо особого отношения к себе и всё будет хорошо."
 
 # game/chapter1.rpy:1356
 translate russiantl _call_skipcheck_2_3070bc42:
 
     # c "What are you talking about?"
-    c ""
+    c "О чём ты говоришь?"
 
 # game/chapter1.rpy:1357
 translate russiantl _call_skipcheck_2_d732b21c:
 
     # Mv "So you're saying you haven't noticed the stares and how they all treat you like you're the next messiah or something?"
-    Mv ""
+    Mv "Ты хочешь сказать, что не заметил все эти взгляды со стороны, и как хорошо к тебе относятся, будь ты следующим спасителем мира?"
 
 # game/chapter1.rpy:1358
 translate russiantl _call_skipcheck_2_529aeda4:
 
     # c "N-No.. I just thought..."
-    c ""
+    c "Н-Нет.. Я просто подумал..."
 
 # game/chapter1.rpy:1363
 translate russiantl _call_skipcheck_2_4f894d15:
 
     # Rz "We're not the ones making a big deal out of this, you are. We're just here to get what we agreed on and then we'll be gone. If anything, I'd actually prefer if you left us alone, but you're the one who insists on following me around wherever I go."
-    Rz ""
+    Rz "Мы не являемся теми, кто создаёт важное событие с нашего обмена, в отличие от вас. Мы здесь только для получения того, на что мы согласились, и затем мы уйдём. Если уж на то пошло, я бы и вправду хотел, чтобы вы оставили нас наедине. Но именно ты настаиваешь на преследовании меня, куда бы я ни пошёл."
 
 # game/chapter1.rpy:1369
 translate russiantl _call_skipcheck_2_bf0efca8:
 
     # m "A growl escaped the darker dragon's trembling lips as he bared his teeth at Reza."
-    m ""
+    m "Рычание вырвалось из дрожащей пасти дракона, оскалив зубы на Резу. "
 
 # game/chapter1.rpy:1373
 translate russiantl _call_skipcheck_2_9cffa3e3:
 
     # Sb "Alright, alright, that's quite enough. Let's just all go inside already, shall we?"
-    Sb ""
+    Sb "Хорошо, хорошо, достаточно этого. Давайте лучше просто все уже зайдём внутрь, ведь так?"
 
 # game/chapter1.rpy:1374
 translate russiantl _call_skipcheck_2_6044a25e:
 
     # c "After you."
-    c ""
+    c "После вас."
 
 # game/chapter1.rpy:1380
 translate russiantl _call_skipcheck_2_76b2fe88_1:
@@ -1014,103 +1014,103 @@ translate russiantl _call_skipcheck_2_76b2fe88_1:
 translate russiantl _call_skipcheck_2_0c52476d:
 
     # m "The crisis was quickly averted as we entered the building, which was characterized by its many floors, high ceilings and long, narrow hallways as Sebastian led us to our destination."
-    m ""
+    m "Проблем удалось быстро избежать, как только мы вошли в здание. Множество этажей, высокие потолки и длинные, узкие коридоры могли охарактеризовать это помещение, пока Себастиан вёл нас к месту нашего назначения. "
 
 # game/chapter1.rpy:1389
 translate russiantl _call_skipcheck_2_aed26b36:
 
     # "???" "There you are. I was waiting for you."
-    "???" ""
+    "???" "Вот и вы. Я ждала вас."
 
 # game/chapter1.rpy:1401
 translate russiantl _call_skipcheck_2_1e106597:
 
     # Sb "Wait a minute, I thought we were going to meet the guys from production. What are you doing here?"
-    Sb ""
+    Sb "Одну минуту, я думал, нас собирались встретить ребята из производства. Что ты делаешь здесь?"
 
 # game/chapter1.rpy:1405
 translate russiantl _call_skipcheck_2_8c860b7d:
 
     # "???" "They're only coming in later today, so you'll just have to make do with me."
-    "???" ""
+    "???" "Они прибудут сегодня чуть позже, поэтому вам придётся обойтись со мной."
 
 # game/chapter1.rpy:1409
 translate russiantl _call_skipcheck_2_759b976c:
 
     # Sb "I see."
-    Sb ""
+    Sb "Понятно."
 
 # game/chapter1.rpy:1410
 translate russiantl _call_skipcheck_2_46975328:
 
     # Sb "Well, [player_name], this is Anna. She kinda manages this building, though actually she's more involved with the research wing rather than production and engineering."
-    Sb ""
+    Sb "Что ж, [player_name], это Анна. Она, вроде как, заведует этим зданием, хотя на самом деле она в большей части работает с исследовательским крылом, чем производственным и инженерным."
 
 # game/chapter1.rpy:1411
 translate russiantl _call_skipcheck_2_ec602286_1:
 
     # c "Nice to meet you."
-    c ""
+    c "Приятно познакомиться."
 
 # game/chapter1.rpy:1412
 translate russiantl _call_skipcheck_2_e2ad732a:
 
     # An "My pleasure. I have something for you, by the way. It'll take them a while to make all the generators we promised, but we've got one for you here. Feel free to send it home and give it a test."
-    An ""
+    An "Весьма приятно. У меня есть кое-что для вас, кстати. Им понадобится некоторое время, чтобы собрать все обещанные генераторы, но здесь уже один подготовлен для вас. Вы вольны отправить его домой и провести тестирование."
 
 # game/chapter1.rpy:1420
 translate russiantl _call_skipcheck_2_494a6341:
 
     # Rz "That's great. I'll take it."
-    Rz ""
+    Rz "Замечательно. Я возьму его."
 
 # game/chapter1.rpy:1424
 translate russiantl _call_skipcheck_2_83471fa0:
 
     # c "Looks a little small, if you ask me."
-    c ""
+    c "Выглядит не очень большим, на мой взгляд."
 
 # game/chapter1.rpy:1425
 translate russiantl _call_skipcheck_2_71aa7402:
 
     # An "Don't underestimate its power. Oh, and do be careful not to drop it."
-    An ""
+    An "Не недооценивай его мощь. О, и не уроните его по неосторожности."
 
 # game/chapter1.rpy:1426
 translate russiantl _call_skipcheck_2_6e8828ce:
 
     # Rz "Sure. I'll be waiting outside while you do your thing, [player_name]."
-    Rz ""
+    Rz "Конечно, я буду ждать снаружи, пока ты делаешь свои дела, [player_name]."
 
 # game/chapter1.rpy:1434
 translate russiantl _call_skipcheck_2_07f32a3b:
 
     # Sb "I suppose I'll wait for you outside as well."
-    Sb ""
+    Sb "Думаю, я тоже подожду тебя снаружи."
 
 # game/chapter1.rpy:1442
 translate russiantl _call_skipcheck_2_352f0511:
 
     # c "What thing?"
-    c ""
+    c "Какие дела?"
 
 # game/chapter1.rpy:1443
 translate russiantl _call_skipcheck_2_e7d08b3b:
 
     # An "Oh, have you brought the PDA?"
-    An ""
+    An "О, так ты захватил КПК?"
 
 # game/chapter1.rpy:1444
 translate russiantl _call_skipcheck_2_22753051:
 
     # c "Of course. Here you go."
-    c ""
+    c "Конечно. Вот он."
 
 # game/chapter1.rpy:1448
 translate russiantl _call_skipcheck_2_e93cdc3b:
 
     # An "Alright, now to give this thing a test run..."
-    An ""
+    An "Прекрасно, "
 
 # game/chapter1.rpy:1452
 translate russiantl _call_skipcheck_2_677e591a:
@@ -4740,15 +4740,15 @@ translate russiantl strings:
 
     # chapter1.rpy:1328
     old "I bet he'd win in a fight with mine, though."
-    new ""
+    new "Ставлю на то, что он бы смог одолеть меня в битве."
 
     # chapter1.rpy:1328
     old "He looks grumpy."
-    new ""
+    new "Он выглядит сердитым."
 
     # chapter1.rpy:1328
     old "Just like you."
-    new ""
+    new "Прямо как ты."
 
     # chapter1.rpy:1627
     old "They say it's for our own security."
