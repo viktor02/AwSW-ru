@@ -1338,7 +1338,7 @@ translate russiantl _call_skipcheck_3_0054b77b:
 translate russiantl _call_skipcheck_3_98a18a10:
 
     # m "Luckily for us, the café was mostly empty when we arrived, as it was still pretty early in the day. Reza was quick to lead me to a table for two, prompting the dragons to get one of their own at the other side of the restaurant."
-    m "К счастью для нас, к нашему прибытию кафе было почти пустое, так как ещё было слишком раннее время. Реза быстро отвёл меня к столу только на двоих, что вынудило драконов занять места в другой части ресторана."
+    m "К счастью для нас, к нашему прибытию было ещё раннее время и кафе оказалось почти пустым. Реза быстро отвёл меня к столу только на двоих, что вынудило драконов занять места в другой части ресторана."
 
 # game/chapter1.rpy:1625
 translate russiantl _call_skipcheck_3_bac0030c:
@@ -1536,181 +1536,181 @@ translate russiantl _call_skipcheck_3_2355e57c:
 translate russiantl _call_skipcheck_3_f73d296c:
 
     # m "To be honest, I was a little skeptical of the kind of coffee they might come up with in a place like this, but after a mouthful I had to admit it wasn't so bad. I've certainly had much worse before."
-    m ""
+    m "Честно говоря, я был настроен немного скептически по отношению к тому, какой кофе они могли бы приготовить в подобном месте. Но после небольшого глотка, должен признать, он не такой уж и плохой. В своей жизни я пробовал кофе гораздо хуже."
 
 # game/chapter1.rpy:1777
 translate russiantl _call_skipcheck_3_cb9d0dd9:
 
     # m "I was wondering what kind of breakfast could be had in a place like this, but I was pleasantly surprised to find it quite as I was used to. The only real difference was that they apparently didn't use cutlery."
-    m ""
+    m "Мне было интересно, что за завтрак они могли приготовить в подобном месте. Но я был приятно удивлён, найдя его весьма схожим с тем, к чему я привык. Единственной заметной разницей было то, что они не использовали столовые приборы."
 
 # game/chapter1.rpy:1780
 translate russiantl _call_skipcheck_3_141c5d6a:
 
     # m "Apparently today's special consisted of an odd-looking fish of some sort. I was a little hesitant to try it, but considering the steam coming from it, it was probably better to wait a few minutes anyway."
-    m ""
+    m "По всей видимости, фирменное блюдо состояло из странной на вид рыбы. Я немного колебался, чтобы попробовать её. Но учитывая идущий от неё пар, я решил всё же подождать несколько минут."
 
 # game/chapter1.rpy:1782
 translate russiantl _call_skipcheck_3_668be73b:
 
     # m "When the waitress brought out meals to the two dragons across the café and exchanged a few words with them, Reza leaned forward and whispered something to me."
-    m ""
+    m "Когда официант принесла блюда двум драконом в другой части кафе и обменялась с ними несколькими словами, Реза наклонился вперёд и прошептал мне кое-что."
 
 # game/chapter1.rpy:1783
 translate russiantl _call_skipcheck_3_55feee46:
 
     # Rz "I'll send you a letter with a coded message later. You'll know what to do."
-    Rz ""
+    Rz "Я отправлю тебе письмо с зашифрованным посланием позднее. Ты поймёшь, что делать."
 
 # game/chapter1.rpy:1784
 translate russiantl _call_skipcheck_3_cac943c3:
 
     # m "Reza rose from his seat before he made it known to me that he still had a few things to do and left the restaurant, followed shortly after by the larger of the two dragons."
-    m ""
+    m "Реза встал из-за стола, прежде чем дать мне понять, что у него осталось несколько незаконченных дел, и покинул ресторан в сопровождении большего из двух драконов."
 
 # game/chapter1.rpy:1791
 translate russiantl _call_skipcheck_3_a4e9199d:
 
     # c "But you haven't even touched your... fish."
-    c ""
+    c "Но ты даже не притронулся к своей... рыбе."
 
 # game/chapter1.rpy:1792
 translate russiantl _call_skipcheck_3_8d2721c9:
 
     # m "I wasn't in a hurry, so I spent a few more minutes in contemplation while I looked out the window."
-    m ""
+    m "Я не торопился, поэтому потратил ещё несколько минут в размышлениях, глядя в окно."
 
 # game/chapter1.rpy:1793
 translate russiantl _call_skipcheck_3_1ccb67dc:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m ""
+    m "Теперь не только вся эта ситуация являлась достаточно эксцентричной, но и создавалось чувство опасности, учитывая слова Резы. У меня не было ни единой идеи, какая угроза могла таиться за всем этим."
 
 # game/chapter1.rpy:1794
 translate russiantl _call_skipcheck_3_d54bfe60:
 
     # m "Eventually, I took a bite of my somewhat unusual breakfast. While I already thought the smell was quite peculiar, the taste had been even worse. I imagined it might be the kind of delicacy that had an acquired taste. One that I certainly hadn't acquired yet. I decided to get outside before it was too late."
-    m ""
+    m "В конце концов, я снова откусил свой несколько необычный завтрак. В то время как запах казался мне довольно специфическим, на вкус было даже хуже. Блюдо представлялось мне неким видом деликатеса на любителя. На любителя, которым я определённо не являлся. Я решил выйти наружу до того, как станет слишком поздно."
 
 # game/chapter1.rpy:1799
 translate russiantl _call_skipcheck_3_0da74151:
 
     # c "Laters."
-    c ""
+    c "До скорого."
 
 # game/chapter1.rpy:1800
 translate russiantl _call_skipcheck_3_abca11aa:
 
     # m "I wasn't in a hurry, so I spent a few more minutes in contemplation while I looked out the window and finished my coffee."
-    m ""
+    m "Я не торопился, поэтому потратил ещё несколько минут в размышлениях, глядя в окно и допивая свой кофе."
 
 # game/chapter1.rpy:1801
 translate russiantl _call_skipcheck_3_1ccb67dc_1:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m ""
+    m "Теперь не только вся эта ситуация являлась достаточно эксцентричной, но и создавалось чувство опасности, учитывая слова Резы. У меня не было ни единой идеи, какая угроза могла таиться за всем этим."
 
 # game/chapter1.rpy:1802
 translate russiantl _call_skipcheck_3_82a88f03:
 
     # m "Eventually, I got up, ready to be on my way for whatever else the day might bring."
-    m ""
+    m "В конце концов, я встал, готовый ко всему, что этот день ещё может принести."
 
 # game/chapter1.rpy:1805
 translate russiantl _call_skipcheck_3_0da74151_1:
 
     # c "Laters."
-    c ""
+    c "До скорого."
 
 # game/chapter1.rpy:1806
 translate russiantl _call_skipcheck_3_c71f2cb3:
 
     # m "I wasn't in a hurry, so I spent a few more minutes in contemplation while I looked out the window and finished my breakfast."
-    m ""
+    m "Я не торопился, поэтому потратил ещё несколько минут в размышлениях, глядя в окно и доедая свой завтрак."
 
 # game/chapter1.rpy:1807
 translate russiantl _call_skipcheck_3_1ccb67dc_2:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m ""
+    m "Теперь не только вся эта ситуация являлась достаточно эксцентричной, но и создавалось чувство опасности, учитывая слова Резы. У меня не было ни единой идеи, какая угроза могла таиться за всем этим."
 
 # game/chapter1.rpy:1808
 translate russiantl _call_skipcheck_3_82a88f03_1:
 
     # m "Eventually, I got up, ready to be on my way for whatever else the day might bring."
-    m ""
+    m "В конце концов, я встал, готовый ко всему, что этот день ещё может принести."
 
 # game/chapter1.rpy:1812
 translate russiantl _call_skipcheck_3_1c70acf7:
 
     # Sb "Are you done?"
-    Sb ""
+    Sb "Ты закончил?"
 
 # game/chapter1.rpy:1813
 translate russiantl _call_skipcheck_3_aa712441:
 
     # c "Sure am."
-    c ""
+    c "Определённо."
 
 # game/chapter1.rpy:1814
 translate russiantl _call_skipcheck_3_1e2273f4:
 
     # Sb "How'd you like it?"
-    Sb ""
+    Sb "Тебе понравилось?"
 
 # game/chapter1.rpy:1817
 translate russiantl _call_skipcheck_3_3271cb01:
 
     # c "I'll just say it's probably not for me."
-    c ""
+    c "Я лучше просто скажу, что это не совсем моё."
 
 # game/chapter1.rpy:1818
 translate russiantl _call_skipcheck_3_2f18e3e6:
 
     # Sb "And you wouldn't be the only one to say that. You better wait outside just in case it decides to come up again."
-    Sb ""
+    Sb "И ты будешь не единственным, кто так скажет. Тебе лучше подождать снаружи."
 
 # game/chapter1.rpy:1834
 translate russiantl _call_syscheck_6_c55bcfa6:
 
     # s "You tried the odd-looking fish!"
-    s ""
+    s "Вы попробовали странную на вид рыбу!"
 
 # game/chapter1.rpy:1838
 translate russiantl _call_syscheck_6_9e1e790b:
 
     # s "You tried the odd-looking fish. How brave."
-    s ""
+    s "Вы попробовали странную на вид рыбу. Как же смело."
 
 # game/chapter1.rpy:1842
 translate russiantl _call_syscheck_6_ce1b9bb4:
 
     # s "You tried the odd-looking fish. But you weren't brave enough to eat it all."
-    s ""
+    s "Вы попробовали странную на вид рыбу. Но вам не хватило смелости, чтобы доесть её."
 
 # game/chapter1.rpy:1845
 translate russiantl _call_syscheck_6_f6a1b8af:
 
     # c "It was alright."
-    c ""
+    c "Было неплохо."
 
 # game/chapter1.rpy:1846
 translate russiantl _call_syscheck_6_7588cc89:
 
     # Sb "Glad you enjoyed it. Just wait outside and I'll handle the rest here."
-    Sb ""
+    Sb "Рад, что тебе понравилось. Просто подожди снаружи, а справлюсь с остальным."
 
 # game/chapter1.rpy:1848
 translate russiantl _call_syscheck_6_e631bc97:
 
     # c "Sure thing."
-    c ""
+    c "Конечно."
 
 # game/chapter1.rpy:1858
 translate russiantl _call_syscheck_6_b1ff8271:
 
     # n "I stepped outside, taking in the scenery of this strangely familiar world."
-    n ""
+    n "Я вышел на улицу, "
 
 # game/chapter1.rpy:1859
 translate russiantl _call_syscheck_6_74fd8cc1:
@@ -4788,7 +4788,7 @@ translate russiantl strings:
 
     # chapter1.rpy:1706
     old "Yeah, I've noticed it too."
-    new "Ага, я тоже это заметил."
+    new "Да, я тоже это заметил."
 
     # chapter1.rpy:1706
     old "Let me just grab my tinfoil hat real quick."
@@ -5020,7 +5020,7 @@ translate russiantl strings:
 
     # chapter1.rpy:3073
     old "Maybe they both acted in the heat of the moment."
-    new ""
+    new "на пределе эмоций"
 
     # chapter1.rpy:3073
     old "Where I come from, this kind of attack on a diplomat could be classified as an act of war, punishable by death."
