@@ -4,7 +4,7 @@
 translate russiantl bryce1_af6347bc:
 
     # m "Once again, I found myself within the police department, which seemed oddly quiet for this time of day."
-    m "И снова я оказался в полицейском участке, хотя на этот раз тут было намного тише."
+    m "И снова я оказался в полицейском участке, хотя на этот раз тут было намного тише для этого времени суток."
 
 # game/bryce1.rpy:33
 translate russiantl bryce1_035da1b9:
@@ -16,7 +16,7 @@ translate russiantl bryce1_035da1b9:
 translate russiantl bryce1_89257397:
 
     # Br "Hey [player_name], what's up?"
-    Br "Хей, [player_name], как дела?"
+    Br "Привет, [player_name]. Как дела?"
 
 # game/bryce1.rpy:38
 translate russiantl bryce1_0ccc8efa:
@@ -28,19 +28,19 @@ translate russiantl bryce1_0ccc8efa:
 translate russiantl bryce1_edcc1faa:
 
     # Br "That's right. What do you have for me?"
-    Br "Хорошо, и что ты вспомнил?"
+    Br "Верно. И что у тебя есть для меня?"
 
 # game/bryce1.rpy:40
 translate russiantl bryce1_df11dec0:
 
     # c "I'm not sure if it's worth mentioning, but I have known Reza for a couple of years, so I know some things about his personality."
-    c "Не знаю, важно ли это, но я знал Резу несколько лет, так что я знаю что-то о его характере."
+    c "Не знаю, важно ли это, но я знал Резу на протяжении нескольких лет, так что я могу сказать что-то о его характере."
 
 # game/bryce1.rpy:44
 translate russiantl bryce1_586e9ee6:
 
     # Br "Mhm, I see. Well, that's actually more helpful than you might think. Mannerisms, habits - all kinds of things would be useful to add to his profile and to get a better idea of him."
-    Br "Ага, ясно. Ну, это на самом деле может помочь. Манеры, привычки - всё это можно добавить в его дело и лучше понять его мотивы."
+    Br "Ага, ясно. Ну, на самом деле, это может неплохо помочь. Манеры, привычки - всё это было бы полезно добавить в его дело, чтобы лучше понять его мотивы."
 
 # game/bryce1.rpy:48
 translate russiantl bryce1_d22825cb:
@@ -58,43 +58,43 @@ translate russiantl bryce1_984c5d7f:
 translate russiantl bryce1_08d3dd2a:
 
     # Br "Or maybe we'll find something you'll like."
-    Br "А может мы найдёт что-то, что и тебе понравится."
+    Br "А может мы найдём что-то, что и тебе понравится."
 
 # game/bryce1.rpy:63
 translate russiantl bryce1_b28883c8:
 
     # c "Actually, I find it worrisome that the chief of police prefers to get drunk instead of hearing important information about a case."
-    c "На самом деле, мне кажется, что если шериф полиции предпочиает напиться вместо того, чтобы послушать важную информацию о деле, то об этом стоит беспокоиться."
+    c "Честно говоря, меня волнует тот факт, что шериф полиции предпочитает просто напиться вместо того, чтобы послушать важную информацию о деле."
 
 # game/bryce1.rpy:65
 translate russiantl bryce1_fe1efab4:
 
     # Br "You're quite right. In my own free time I do prefer to get drunk instead of dealing with work. If you find that \"worrisome\", maybe you should try out my job sometime."
-    Br "Не могу сказать, что ты неправ. В свободное время я предпочитаю промочить горло разгребанию работы. Если ты думаешь, что \"об этом стоит беспокоиться\", то тебе, наверно, стоит попробовать поработать тут вместо меня хоть денёк.
+    Br "Не могу сказать, что ты не прав. В свободное время я больше предпочитаю промочить горло, чем разгрести работу. Если ты думаешь, что \"об этом стоит беспокоиться\", то может тебе стоит попробовать поработать тут вместо меня хоть денёк.
 
 # game/bryce1.rpy:70
 translate russiantl bryce1_2f0ba0b7:
 
     # Br "Well, are you coming or not?"
-    Br "Так что, ты идёшь, или нет?"
+    Br "Ну, ты идёшь, или нет?"
 
 # game/bryce1.rpy:79
 translate russiantl bryce1_db7471f7:
 
     # Br "In that case, you can say whatever it is you have to say to someone else tomorrow, alright?"
-    Br "В таком случае, можешь сказать то, что ты там хотел, кому-то другому и завтра, ладно?"
+    Br "В таком случае, ты можешь сказать то, что бы ни хотел сказать, кому-то другому завтра, ладно?"
 
 # game/bryce1.rpy:80
 translate russiantl bryce1_c48dc32f:
 
     # c "Sure."
-    c "Ладно."
+    c "Конечно."
 
 # game/bryce1.rpy:82
 translate russiantl bryce1_ac0af087:
 
     # Br "Now, please excuse me before I miss happy hour."
-    Br "А теперь попрошу меня извинить, иначе я пропущу час бесплатной второй кружки"
+    Br "А теперь попрошу меня извинить, иначе я пропущу счастливый час." #"Счастливый час", когда алкогольные напитки продаются со скидкой - с 18:30 до 20:00.
 
 # game/bryce1.rpy:87
 translate russiantl bryce1_76b2fe88:
@@ -124,25 +124,25 @@ translate russiantl bryce1_d0bb4d07:
 translate russiantl bryce1_fea37bc6:
 
     # n "Or maybe our personalities just weren't compatible."
-    n "А может у нас просто несовместимые характеры."
+    n "Или, может, у нас просто несовместимые характеры."
 
 # game/bryce1.rpy:94
 translate russiantl bryce1_bc12bd7e:
 
     # n "Of course, not having a drunkard as a friend wasn't too bad of an outcome."
-    n "С другой стороны, не подружиться с местным алкашом - не самый худший исход."
+    n "С другой стороны, не подружиться с местным алкоголиком - не самый худший исход."
 
 # game/bryce1.rpy:116
 translate russiantl _call_syscheck_37_0f40089b:
 
     # s "You rejected Bryce's invitation!"
-    s "Вы отклонили приглащение Брайса!"
+    s "Вы отклонили приглашение Брайса!"
 
 # game/bryce1.rpy:120
 translate russiantl _call_syscheck_37_d456a7a0:
 
     # s "You rejected Bryce's invitation. Whatever."
-    s "Вы отклонили приглашение Брайса. Да и пофиг."
+    s "Вы отклонили приглашение Брайса. Какая разница." #Система должна выдерживать нейтральный характер
 
 # game/bryce1.rpy:124
 translate russiantl _call_syscheck_37_8b86f8ee:
@@ -154,7 +154,7 @@ translate russiantl _call_syscheck_37_8b86f8ee:
 translate russiantl _call_syscheck_37_3f5a8d43:
 
     # Br "Alright, kiddo, that's enough. You better go now before you make me really mad."
-    Br "Так, хватит. Лучше уходи сейчас, пока ты меня окончательно не разозлил."
+    Br "Хорошо, малыш, этого достаточно. Лучше уходи сейчас, пока ты окончательно меня не разозлил."
 
 # game/bryce1.rpy:150
 translate russiantl _call_syscheck_37_806ce7c2:
@@ -168,25 +168,25 @@ translate russiantl _call_syscheck_37_806ce7c2:
 translate russiantl _call_syscheck_37_ff7f9594:
 
     # n "According to his wishes, I left, wondering what went wrong between us."
-    n "Повинуясь его требованию, я ушёл, размышляя о том, что в наших отношениях пошло не так."
+    n "Согласно его воле, я ушёл, размышляя о том, что в наших отношениях пошло не так."
 
 # game/bryce1.rpy:153
 translate russiantl _call_syscheck_37_a0305aba:
 
     # n "I just wanted to help, and that was how he showed his gratitude?"
-    n "Мне просто хотелось помочь, и это была его благодарность?"
+    n "Мне просто хотелось помочь, и вот какой оказалась его благодарность?"
 
 # game/bryce1.rpy:154
 translate russiantl _call_syscheck_37_86fcf66b:
 
     # n "I could certainly live without Bryce from now on, then."
-    n "Что ж, я проживу и без Брайса."
+    n "Что ж, с этого момента я определённо смогу прожить и без Брайса."
 
 # game/bryce1.rpy:181
 translate russiantl _call_syscheck_37_dcc2b9e2:
 
     # Br "We'll see about that."
-    Br "Поживём - увидим."
+    Br "Ещё посмотрим."
 
 # game/bryce1.rpy:194
 translate russiantl contbar_de01d55d:
@@ -198,49 +198,49 @@ translate russiantl contbar_de01d55d:
 translate russiantl contbar_87c03454:
 
     # Br "Here we are."
-    Br "Вот мы и пришли."
+    Br "Вот мы и здесь."
 
 # game/bryce1.rpy:226
 translate russiantl _call_skiptut_8_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Мои записи говорят о том, что вы уже прошли этот кусок игры с неплохим исходом. Пропустить её?"
+    s "***Мои записи говорят о том, что вы уже прошли этот кусок игры с неплохим исходом. Пропустить её?"
 
 # game/bryce1.rpy:234
 translate russiantl _call_skiptut_8_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Похоже, вы уже видели эту сцену раньше. Пропустить её?"
+    s "***Похоже, вы уже видели эту сцену раньше. Пропустить её?"
 
 # game/bryce1.rpy:242
 translate russiantl _call_skiptut_8_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Так, похоже, что вы уже это видели. Можно либо снова просмотреть эту сцену, либо сэкономить немного времени и промотать её до конца."
+    s "***Так, похоже, что вы уже это видели. Можно либо снова просмотреть эту сцену, либо сэкономить немного времени и промотать её до конца."
 
 # game/bryce1.rpy:257
 translate russiantl _call_skiptut_8_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "***Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/bryce1.rpy:277
 translate russiantl _call_skipcheck_8_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "***Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/bryce1.rpy:283
 translate russiantl _call_skipcheck_8_f459e481:
 
     # c "Not too shabby, I have to admit."
-    c "Ну, не такой уж и потрёпанный, стоит отметить."
+    c "Не хило, должен признать."
 
 # game/bryce1.rpy:287
 translate russiantl _call_skipcheck_8_71808725:
 
     # Br "And just in time for happy hour."
-    Br "И мы как раз успели на час второй бесплатной кружки."
+    Br "И мы как раз успели на счастливый час."
 
 # game/bryce1.rpy:288
 translate russiantl _call_skipcheck_8_1e2e13a9:
@@ -270,37 +270,37 @@ translate russiantl _call_skipcheck_8_39d68eb9:
 translate russiantl _call_skipcheck_8_61113c8f:
 
     # Wr "One generic beer for the chief of police, sure thing. How about you, [player_name]?"
-    Wr "Одно разливное пиво шерифу полиции, ясно. А что тебе, [player_name]?"
+    Wr "Одно разливное пиво шерифу полиции, безусловно. А что вам, [player_name]?"
 
 # game/bryce1.rpy:313
 translate russiantl waitmenu_702e1676:
 
     # Wr "How couldn't I? Everyone knows about you. So, what will it be?"
-    Wr "Как можно не знать? Все уже про тебя слышали. Так чего тебе принести?"
+    Wr "Как можно не знать? Все уже слышали про вас. Так, что вы желаете?"
 
 # game/bryce1.rpy:316
 translate russiantl waitmenu_4d721c0b:
 
     # Wr "Noted. I'll be right back."
-    Wr "Отлично. Сейчас всё будет."
+    Wr "Принято. Я сейчас вернусь."
 
 # game/bryce1.rpy:324
 translate russiantl waitmenu_bcc5b1e2:
 
     # m "It wasn't long before the waiter returned with a drinking bowl as wide as it was tall, filled to the brim with a foam-topped, dark amber liquid. Carefully, he set it down in front of Bryce, who didn't hesitate to take a big gulp."
-    m "Через пару минут официант вернулся с миской для напитков, глубокой и широкой, заполненной тёмно-янтарной жидкостью и пенкой. Он осторожно поставил её перед Брайсом, который тут же сделал большой глоток."
+    m "Через пару минут официант вернулся с такой же в глубину, как и в ширину, миской для напитков, заполненной тёмно-янтарной жидкостью, и с пенкой сверху. Он осторожно поставил её перед Брайсом, который тут же сделал большой глоток."
 
 # game/bryce1.rpy:326
 translate russiantl waitmenu_118c9439:
 
     # m "He brought one for me as well, provided in a glass that seemed more appropriate for my kind."
-    m "Он принёс пива и мне, в стакане, выглядящим более подобающим для людей."
+    m "Он принёс напиток и мне, в стакане, выглядящим намного более подходящим для моего вида."
 
 # game/bryce1.rpy:330
 translate russiantl waitmenu_1353b25f:
 
     # Wr "There you go. Just call me if you need anything."
-    Wr "Наслаждайтесь. Позовите, если понадобится что-нибудь ещё."
+    Wr "Наслаждайтесь. Просто позовите, если понадобится что-нибудь ещё."
 
 # game/bryce1.rpy:331
 translate russiantl waitmenu_50600d31:
@@ -312,55 +312,55 @@ translate russiantl waitmenu_50600d31:
 translate russiantl waitmenu_3ec2cfd9:
 
     # Br "So, what is it you wanted to tell me about Reza?"
-    Br "Так что ты хотел рассказать мне о Резе?"
+    Br "Так, что ты хотел рассказать мне о Резе?"
 
 # game/bryce1.rpy:341
 translate russiantl waitmenu_773d8ecc:
 
     # c "There are a few things... I mean, they're probably not much, but anything might help, right?"
-    c "Ну, несколько фактов... Может, они и не очень важны, но любая зацепка может помочь, да?"
+    c "Существует несколько вещей... Может, они и не очень важны, но любая зацепка может помочь, ведь так?"
 
 # game/bryce1.rpy:345
 translate russiantl waitmenu_4e3d5c77:
 
     # Br "That's right. Anything unusual about him, anything that defines his character or stands out about him could help us. How about you tell me what you know about him?"
-    Br "Да. Всё, что может помочь нам понять его характер, всё необычное, отличающее его. Может, начнёшь с того, что расскажешь, что ты вообще о нём знаешь?"
+    Br "Именно. Всё, что может показаться тебе хоть немного необычным, всё, что может помочь нам понять его характер или выделяет его на фоне остальных - могло бы помочь нам. Может, начнёшь с того, что расскажешь, что ты вообще о нём знаешь?"
 
 # game/bryce1.rpy:346
 translate russiantl waitmenu_80237363:
 
     # c "Well, the earliest memory I have of him was when we both went to the same school. We only shared a few classes, though, and a couple of friends."
-    c "Что ж, познакомился с ним я ещё в школе. Мы периодически пересекались с ним, и у нас было несколько общих друзей."
+    c "Ну, самое раннее воспоминание с ним - когда мы познакомились ещё в школе. Мы лишь периодически пересекались с ним на нескольких уроках, хотя у нас было и несколько общих друзей."
 
 # game/bryce1.rpy:348
 translate russiantl waitmenu_d0e93113:
 
     # c "Overall, I'd say he was an above-average student. We didn't talk very often, but he always was very outspoken and never failed to speak up to make his opinions known."
-    c "Могу добавить, что он был довольно прилежным учеником. Хоть мы и не разговаривали слишком часто, но он всегда был откровенным и мог донести свою точку зрения быстро и чётко."
+    c "В целом, он был довольно прилежным учеником. Мы не разговаривали слишком часто, но он всегда был откровенным и мог легко донести своё мнение в быстрой и чёткой форме."
 
 # game/bryce1.rpy:349
 translate russiantl waitmenu_528630b1:
 
     # c "He was the kind of person I'd fully expect to become a politician one day, or at least an activist of some sort. That's the impression I got from him. He spoke a lot, but you could also expect him to act on his word."
-    c "Честно, я думал, что он однажды станет политиком, или хотя бы каким-нибудь активистом. По крайней мере, он производил на меня такое впечатление. Он много говорил, но при этом всегда держал своё слово."
+    c "Честно говоря, я был определённо уверен в том, что он однажды станет политиком, или хотя бы каким-нибудь активистом. По крайней мере, он производил на меня именно такое впечатление. Он много говорил, но при этом всегда держал своё слово."
 
 # game/bryce1.rpy:350
 translate russiantl waitmenu_d6dfe5da:
 
     # c "Of course, his nature caused him to clash with others, sometimes even including the school staff, though his genuine enthusiasm also garnered praise from them. He was quite a character."
-    c "Конечно, его характер частенько вызывал споры и скандалы, иногда даже с учителями, однако его неподдельный энтузиазм заработал ему всеобщее уважение. В общем, тот ещё характер у него был."
+    c "Конечно, его характер частенько вызывал споры и скандалы, иногда даже с учителями, однако его неподдельный энтузиазм вызывал всеобщее уважение. В общем, у него был тот ещё характер."
 
 # game/bryce1.rpy:351
 translate russiantl waitmenu_162e9e6d:
 
     # c "After we all graduated, I didn't hear anything about him for a long time. Only some years later, after we found the portal, was I surprised to find out he was the human who would be sent to your world. He had volunteered."
-    c "После выпуска я довольно долго ничего о нём не слышал. Только через несколько лет, когда мы уже нашли портал, я с удивлением узнал, что он оказался тем, кто отправился в ваш мир. Он вызвался."
+    c "После школы я довольно долгое время ничего не слышал о нём. Только через несколько лет, когда мы уже нашли портал, я удивился, что он оказался именно тем самым человеком, кто отправился в ваш мир. Он был добровольцем."
 
 # game/bryce1.rpy:352
 translate russiantl waitmenu_1a6531fd:
 
     # c "It wasn't until I was already here that I actually met him again, however brief our interactions were. But then I already told you everything about what happened prior to the eventual scuffle with Maverick."
-    c "Уже в вашем мире я и встретился с ним снова, хотя и не успел провести с ним достаточно времени. Ну а что случилось дальше, вплоть до столкновения с Мавериком, ты и сам знаешь."
+    c "Уже в вашем мире я и встретился с ним снова, хотя не успел провести с ним достаточно времени. Ну а что случилось дальше, вплоть до столкновения с Мавериком, ты и сам знаешь."
 
 # game/bryce1.rpy:353
 translate russiantl waitmenu_e9b001dc:
@@ -372,13 +372,13 @@ translate russiantl waitmenu_e9b001dc:
 translate russiantl waitmenu_496c14eb:
 
     # c "I know he values the use of his own intellect, but when I received the letter later, he apparently fully expected me to remember a random chemistry class we had together years ago in order to see the message."
-    c "Я знаю, что он очень гордится своими знаниями, но когда я получил это письмо, оказалось, что он ожидал, что я вспомню какой-то абсолютно ничем не примечательный урок химии, который прошёл много лет назад."
+    c "Я знаю, что он очень гордится применением своих знаний, но когда я получил это письмо, он очевидно ожидал от меня, что я вспомню какой-то абсолютно ничем непримечательный урок химии, который прошёл много лет назад."
 
 # game/bryce1.rpy:358
 translate russiantl waitmenu_68d6d001:
 
     # Br "I see, so you did not arrange this beforehand?"
-    Br "Я понял. Так получается, вы не планировали всё это заранее?"
+    Br "Понятно. Так получается, вы не планировали всё это заранее?"
 
 # game/bryce1.rpy:359
 translate russiantl waitmenu_fbab1a19:
@@ -396,13 +396,13 @@ translate russiantl waitmenu_6377318a:
 translate russiantl waitmenu_ced70947:
 
     # c "I know. I still wonder what he would have told me if Maverick hadn't interfered when we met at the portal."
-    c "А то. Мне до сих пор интересно, что бы он мне сказал, если бы Маверик не вмешался."
+    c "Знаю. Мне до сих пор интересно, что бы он сказал мне, если Маверик не вмешался, когда мы встретились у портала."
 
 # game/bryce1.rpy:365
 translate russiantl waitmenu_e0fda1f2:
 
     # Br "We do as well, and you can believe that."
-    Br "Нам тоже интересно, можешь поверить."
+    Br "Нам не меньше, можешь в это поверить."
 
 # game/bryce1.rpy:366
 translate russiantl waitmenu_96107e98:
@@ -414,25 +414,25 @@ translate russiantl waitmenu_96107e98:
 translate russiantl waitmenu_7cc8b85d:
 
     # Br "He could have easily done so since he was in charge of Reza and everything, but he totally shouldn't have. I mean, we wouldn't do anything of the sort with you. Everything he has done in regard to Reza has been a poor show of character."
-    Br "Он с лёгкостью мог это сделать, потому что отвечал за Резу, но ему точно не было разрешено этого делать. В смысле, мы бы не стали делать ничего такого с тобой. Хотя Маверик показал себя далеко не с лучшей стороны в этой ситуации с Резой."
+    Br "Он с лёгкостью мог это сделать, потому что отвечал за Резу, но ему точно не было разрешено этого. То есть, мы бы не стали делать ничего подобного с тобой. Хотя Маверик показал себя далеко не с лучшей стороны в этой ситуации с Резой."
 
 # game/bryce1.rpy:368
 translate russiantl waitmenu_5fc73175:
 
     # c "I suppose so..."
-    c "Да, наверно..."
+    c "Полагаю, да..."
 
 # game/bryce1.rpy:372
 translate russiantl waitmenu_72e5cf10:
 
     # Br "In any case, thanks for telling me all of this. You never know when this kind of information could be useful."
-    Br "В любом случае, спасибо, что рассказал и это. Никогда нельзя сказать, какая информация может пригодиться в расследовании."
+    Br "В любом случае, спасибо, что рассказал всё это. Никогда нельзя сказать, какая информация может пригодиться в расследовании."
 
 # game/bryce1.rpy:373
 translate russiantl waitmenu_bd805a76:
 
     # c "No problem."
-    c "Нет проблем."
+    c "Без проблем."
 
 # game/bryce1.rpy:374
 translate russiantl waitmenu_e4f09413:
@@ -444,19 +444,19 @@ translate russiantl waitmenu_e4f09413:
 translate russiantl waitmenu_c0898fbd:
 
     # Br "Hey, waiter, bring me another."
-    Br "Эй, официант, налей мне ещё стакан."
+    Br "Эй, официант, налейте мне ещё."
 
 # game/bryce1.rpy:383
 translate russiantl waitmenu_e8f0305c:
 
     # m "I hadn't noticed, but while I was talking, Bryce had been busy sipping on his drink. The empty bowl before him was proof of his proficiency, while I had barely touched my own drink."
-    m "Я не заметил, но пока я говорил, Брайс потягивал напиток из миски. Она уже опустела, и это показывало, какой он в пивном деле мастер, в то время как я не успел даже притронуться к своему стакану."
+    m "Я не заметил этого сразу, но пока я говорил, Брайс потягивал напиток из миски. Пустая миска перед ним доказывала его профессиональный уровень в то время, как я не успел даже притронуться к своему стакану."
 
 # game/bryce1.rpy:386
 translate russiantl waitmenu_1a077e16:
 
     # m "I hadn't noticed, but while I was talking, Bryce had been busy sipping on his drink. The empty bowl before him was proof of his proficiency."
-    m "Я не заметил, но пока я говорил, Брайс потягивал напиток из миски. Она уже опустела, и это показывало, какой он в пивном деле мастер."
+    m "Я не заметил этого сразу, но пока я говорил, Брайс потягивал напиток из миски. Пустая миска перед ним доказывала его профессиональный уровень."
 
 # game/bryce1.rpy:392
 translate russiantl waitmenu_c1d00705:
@@ -474,19 +474,19 @@ translate russiantl waitmenu_8725758a:
 translate russiantl waitmenu_a7945234:
 
     # Br "Oh, come on and stay a little. Considering we're here already, might as well enjoy the evening, right? I mean, you don't have to, but I certainly will. Or do you need to be somewhere?"
-    Br "Ой, да ладно, останься ещё немного. Раз уж пришли сюда, то можно и повеселиться, а? Я конечно не заставляю, но уж я точно пришёл повеселиться. Или тебе нужно куда-то идти?"
+    Br "Ой, да ладно, останься ещё немного. Раз уж мы пришли сюда, то можно и повеселиться, а? Я конечно не заставляю, но уж я точно пришёл повеселиться. Или тебе нужно куда-то идти?"
 
 # game/bryce1.rpy:404
 translate russiantl waitmenu_38331395:
 
     # Br "That's what I like to hear."
-    Br "Во, это мне уже нравится."
+    Br "Вот, это мне уже нравится слышать."
 
 # game/bryce1.rpy:406
 translate russiantl waitmenu_5ab0cd0a:
 
     # Br "Waiter, bring us another beer."
-    Br "Официант, ещё пива."
+    Br "Официант, принесите нам ещё пива."
 
 # game/bryce1.rpy:407
 translate russiantl waitmenu_b3f90bd9:
@@ -504,7 +504,7 @@ translate russiantl waitmenu_5b2c4c42:
 translate russiantl waitmenu_173b8fb8:
 
     # Br "Oh, come on, just try a little. Even if you don't like beer, you haven't had one like this before."
-    Br "Ой да ладно, давай, попробуй хоть немного. Если тебе не нравится пиво, значит ты ещё не пробовал настоящего пива."
+    Br "Ой, да ладно, давай, попробуй хоть немного. Если тебе не нравится пиво, значит ты ещё не пробовал настоящего пива."
 
 # game/bryce1.rpy:420
 translate russiantl waitmenu_a89274f8:
@@ -522,7 +522,7 @@ translate russiantl waitmenu_ae19ebaf:
 translate russiantl waitmenu_9a85f7fd:
 
     # Br "Oh, come on. Really?"
-    Br "Ой да ну, серьёзно?"
+    Br "Ой, да ну, серьёзно?"
 
 # game/bryce1.rpy:427
 translate russiantl waitmenu_76b2fe88:
@@ -540,13 +540,13 @@ translate russiantl waitmenu_74d8976a:
 translate russiantl waitmenu_51382e72:
 
     # n "Luckily, I didn't have much trouble finding my way back alone. I certainly couldn't stand spending any more time with someone like Bryce."
-    n "К счастью, найти дорогу обратно не оказалось проблемой. Как говорится, таких как Брайс лучше один раз увидеть, чем семь раз увидеть."
+    n "К счастью, найти дорогу обратно в одиночку не оказалось большой проблемой. Я определённо не мог больше терпеть провождения времени с кем-то, как Брайс."
 
 # game/bryce1.rpy:432
 translate russiantl waitmenu_35414c30:
 
     # n "Needless to say, I didn't regret leaving him behind."
-    n "В общем-то, я не слишком жалею, что он остался там."
+    n "Нет необходимости говорить то, что я не очень и жалею, оставляя его."
 
 # game/bryce1.rpy:434
 translate russiantl waitmenu_76b2fe88_1:
@@ -563,7 +563,7 @@ translate russiantl _call_syscheck_39_0f40089b:
 # game/bryce1.rpy:462
 translate russiantl _call_syscheck_39_d456a7a0:
 
-    # s "You rejected Bryce's invitation. Whatever."
+    # s "."
     s "Вы отклонили приглашение Брайса. Ну и пофиг."
 
 # game/bryce1.rpy:466
@@ -618,7 +618,7 @@ translate russiantl _call_syscheck_40_0f40089b:
 translate russiantl _call_syscheck_40_d456a7a0:
 
     # s "You rejected Bryce's invitation. Whatever."
-    s "Вы отклонили приглашение Брайса. Ну и пофиг."
+    s "Вы отклонили приглашение Брайса. Какая разница."
 
 # game/bryce1.rpy:524
 translate russiantl _call_syscheck_40_8b86f8ee:
@@ -630,25 +630,25 @@ translate russiantl _call_syscheck_40_8b86f8ee:
 translate russiantl _call_syscheck_40_b8efe23b:
 
     # m "Bryce was just about to start on his second when he suddenly spoke up."
-    m "Брайс уже собирался начать своё второе пиво, как вдруг заговорил."
+    m "Брайс уже собирался приняться за своё второе пиво, как вдруг заговорил."
 
 # game/bryce1.rpy:549
 translate russiantl _call_syscheck_40_e589dbf6:
 
     # Br "You know what, why don't we have ourselves a drinking contest?"
-    Br "Знаешь, а почему бы нам не начать соревнование по выпивке?"
+    Br "Знаешь, а почему бы нам не провести соревнование по выпивке?"
 
 # game/bryce1.rpy:553
 translate russiantl _call_syscheck_40_b90b74c8:
 
     # Br "How about a handicap, then? I'll go easy on you."
-    Br "Как насчёт форы? Иначе мне будет слишком просто."
+    Br "Как насчёт форы? Иначе, для меня будет слишком просто."
 
 # game/bryce1.rpy:554
 translate russiantl _call_syscheck_40_0eda4a1d:
 
     # c "You're not letting this go, are you?"
-    c "Ты ж просто так не отстанешь, да?"
+    c "Ты же просто так не отстанешь, не так ли?"
 
 # game/bryce1.rpy:556
 translate russiantl _call_syscheck_40_20c4d93f:
@@ -660,13 +660,13 @@ translate russiantl _call_syscheck_40_20c4d93f:
 translate russiantl _call_syscheck_40_24bf3ebf:
 
     # Br "Alright, let's do this."
-    Br "Ладно, погнали."
+    Br "Хорошо, вперёд."
 
 # game/bryce1.rpy:560
 translate russiantl _call_syscheck_40_95f01fd4:
 
     # m "Bryce lowered his snout and gulped down beer at an inhuman rate. The bowl drained rapidly and was empty in an instant."
-    m "Брайс опустил свою морду в миску и выпил всё за несколько секунд."
+    m "Брайс опустил свою морду вниз и выпил всё с нечеловеческой реакцией. Миска опустела в одно мгновение."
 
 # game/bryce1.rpy:562
 translate russiantl _call_syscheck_40_1ed5a3cb:
@@ -684,7 +684,7 @@ translate russiantl _call_syscheck_40_38331395:
 translate russiantl _call_syscheck_40_b528af4e:
 
     # c "No, thanks. I'm not interested."
-    c "Не, спасибо, не заинтересован."
+    c "Нет, спасибо, я не заинтересован."
 
 # game/bryce1.rpy:572
 translate russiantl _call_syscheck_40_fdaa8a1d:
@@ -696,7 +696,7 @@ translate russiantl _call_syscheck_40_fdaa8a1d:
 translate russiantl _call_syscheck_40_d0cd212b:
 
     # c "No way. I'm leaving."
-    c "Ну уж нет, я ухожу."
+    c "Ну уж нет. Я ухожу."
 
 # game/bryce1.rpy:575
 translate russiantl _call_syscheck_40_76b2fe88:
@@ -708,19 +708,19 @@ translate russiantl _call_syscheck_40_76b2fe88:
 translate russiantl _call_syscheck_40_29877c22:
 
     # n "Despite Bryce's further protests, I simply got up and left."
-    n "Несмотря на протесты Брайса, я просто-напросто встал и вышел."
+    n "Несмотря на дальнейшие протесты Брайса, я просто-напросто встал и вышел."
 
 # game/bryce1.rpy:579
 translate russiantl _call_syscheck_40_b2590a5d:
 
     # n "Drinking contests weren't exactly my idea of fun, and if he didn't want to do anything else, he should have found another drinking buddy."
-    n "Соревнования по выпивке явно не мой тип развлечения, и если ему больше ничем не хочется заниматься, то пусть ищет себе другого собутыльника."
+    n "Соревнования по выпивке явно не мой тип развлечения, и если ему больше ничем не хочется заниматься, то пусть ищет себе другого приятеля для выпивки."
 
 # game/bryce1.rpy:580
 translate russiantl _call_syscheck_40_0a83aac3:
 
     # n "I knew I could do without him, at any rate."
-    n "В конце концов, проживу как-нибудь и без него."
+    n "В конце концов, я знал, что обойдусь и без него."
 
 # game/bryce1.rpy:602
 translate russiantl _call_syscheck_41_0f40089b:
@@ -732,7 +732,7 @@ translate russiantl _call_syscheck_41_0f40089b:
 translate russiantl _call_syscheck_41_d456a7a0:
 
     # s "You rejected Bryce's invitation. Whatever."
-    s "Вы отклонили приглашение Брайса. Ну и пофиг."
+    s "Вы отклонили приглашение Брайса. Какая разница."
 
 # game/bryce1.rpy:610
 translate russiantl _call_syscheck_41_8b86f8ee:
@@ -744,19 +744,19 @@ translate russiantl _call_syscheck_41_8b86f8ee:
 translate russiantl _call_syscheck_41_7243e5f4:
 
     # c "(Considering they don't even have cars, at least I won't have to worry about drinking and driving.)"
-    c "(Принимая во внимание то, что у них нет машин, мне хотя бы не пришлось беспокоиться о том, что придётся садиться за руль выпившим.)"
+    c "(Принимая во внимание то, что у них нет машин, мне хотя бы не приходится беспокоиться о том, что придётся садиться за руль выпившим.)"
 
 # game/bryce1.rpy:634
 translate russiantl _call_syscheck_41_f15a69da:
 
     # Br "The rules are simple. We both get a round, then we wait a few moments until the next one so the effects can kick in. Whoever gives up first loses."
-    Br "Правила простые. Мы оба пьём по очереди, а потом ждём немного, пока не вштырит. Первый, кто сдастся - проиграл."
+    Br "Правила простые. Мы оба пьём по очереди, а затем ждём некоторое время, пока эффект не подействует на нас. Первый, кто сдаётся - проиграл."
 
 # game/bryce1.rpy:640
 translate russiantl _call_syscheck_41_37241e44:
 
     # Br "Sure, just wait until you have a swig of the real stuff and we'll see how easy it is for you."
-    Br "Конечно, ты сначала выпей побольше, а там посмотрим, как ты запоёшь."
+    Br "Конечно, ты сначала глотни чего-то настоящего, а там уже и посмотрим, насколько это просто для тебя."
 
 # game/bryce1.rpy:646
 translate russiantl _call_syscheck_41_60623633:
@@ -774,49 +774,49 @@ translate russiantl _call_syscheck_41_dcc2b9e2:
 translate russiantl _call_syscheck_41_24bf3ebf:
 
     # Br "Alright, let's do this."
-    Br "Ладно, погнали."
+    Br "Хорошо, вперёд."
 
 # game/bryce1.rpy:661
 translate russiantl _call_syscheck_41_95920217:
 
     # m "He made a show of looking me in the eyes while he lowered his muzzle into the bowl before he started guzzling his drink noisily. It was gone in seconds. Certainly, this was going to be tough."
-    m "Он произвёл на меня сильное впечатление, не отрываясь смотря мне в глаза, пока опускал свою морду в миску перед тем, как начать громко пить. Пиво исчезло за несколько секунд. Соревнование обещает быть сложным."
+    m "Он произвёл на меня сильное впечатление, не отрываясь смотря мне прямо в глаза, и опустил свою морду в миску, начав затем громко пить. Пиво исчезло за несколько секунд. Определённо, соревнование обещает быть сложным."
 
 # game/bryce1.rpy:665
 translate russiantl _call_syscheck_41_120e03dd:
 
     # m "My confidence faltered, but there was no turning back now. How did I think I could win in a drinking contest against a frickin' dragon?"
-    m "Моя уверенность пошатнулась, но назад пути уже нет. Как можно было подумать, что перепить дракона вообще возможно?"
+    m "Моя уверенность пошатнулась, но назад пути уже не было. Как я вообще мог подумать, что смогу перепить чёртового дракона?"
 
 # game/bryce1.rpy:669
 translate russiantl _call_syscheck_41_8b9c58f0:
 
     # m "Nevertheless, I grasped the drink, putting on the best show I could while I tried to recreate Bryce's feat. After the first sip, however, I realized it was very different from any other beer I had tried before, yet I persevered through the intense taste until the glass was empty."
-    m "Однако я начал пить, стараясь выглядеть как можно более круто, подражая Брайсу. И уже после первого же глотка почувствовал, что это пиво совсем непохоже на что-либо из того, что я пробовал раньше. Но я не подал виду, и всё равно осушил стакан до дна."
+    m "Однако я начал пить, стараясь выглядеть как можно более уверенно, подражая искусству Брайса. Уже после первого глотка я почувствовал, что это пиво совсем непохоже на что-либо из того, что я пробовал раньше. Но не подавая виду, я всё равно осушил стакан до дна."
 
 # game/bryce1.rpy:673
 translate russiantl _call_syscheck_41_c866ee43:
 
     # m "I probably wasn't as impressive as Bryce had been just moments earlier, but I couldn't afford to show any weakness. My plan was cut short, though, as I set down the glass and an unusually strong aftertaste hit me, causing me to make a face."
-    m "Похоже, что я не произвёл такого же впечатления, как Брайс, но и давать слабину тоже было нельзя. Но мой план быстро провалился, как только я поставил стакан и пришло сильнейшее послевкусие, из-за которого я скорчил гримасу отвращения."
+    m "Похоже, что я не производил такого же впечатления, как Брайс, но и показывать слабость тоже нельзя. Тем не менее, мой план быстро провалился, как только я поставил стакан и пришло сильнейшее послевкусие, из-за которого я скорчил гримасу отвращения."
 
 # game/bryce1.rpy:677
 translate russiantl _call_syscheck_41_e35de9a9:
 
     # Br "How'd you like it?"
-    Br "Ну чё, как оно?"
+    Br "Ну что, как оно?"
 
 # game/bryce1.rpy:678
 translate russiantl _call_syscheck_41_0c6f4401:
 
     # c "Ugh, this is some really strong stuff."
-    c "Ух, какое-то крепкое пиво."
+    c "Ух, я бы назвал его по-настоящему крепким."
 
 # game/bryce1.rpy:682
 translate russiantl _call_syscheck_41_d49e7689:
 
     # Br "I told ya. You better know beforehand how much you can take, or it'll hit you harder later on. Wanna give up already?"
-    Br "Я ж говорил. Лучше сразу оцени свои силы и подумай, сколько ты сможешь выпить, иначе потом будет только хуже. Не хочешь сдаться уже сейчас?"
+    Br "Я же говорил. Лучше сразу оцени свои силы и подумай, сколько ты сможешь выпить, иначе потом будет только хуже. Не хочешь сдаться уже сейчас?"
 
 # game/bryce1.rpy:688
 translate russiantl _call_syscheck_41_c506eba2:
@@ -840,7 +840,7 @@ translate russiantl _call_syscheck_41_506f977e:
 translate russiantl _call_syscheck_41_3a8a02d3:
 
     # Br "You can't be serious. You give up already? That's not even a competition, it's laughable."
-    Br "Да ты смеёшься. Сдаёшься так быстро? Это ж даже не соревнование получилось, а фигня какая-то."
+    Br "Да ты смеёшься. Сдаёшься так быстро? Это же даже нельзя назвать соревнованием, просто смешно."
 
 # game/bryce1.rpy:699
 translate russiantl _call_syscheck_41_daee519a:
@@ -852,7 +852,7 @@ translate russiantl _call_syscheck_41_daee519a:
 translate russiantl _call_syscheck_41_adc488cb:
 
     # Br "If you can't take it, just get out."
-    Br "Знаешь, если ты такой слабак, то иди отсюда."
+    Br "Если ты не можешь выдержать этого, то просто уходи."
 
 # game/bryce1.rpy:703
 translate russiantl _call_syscheck_41_76b2fe88:
@@ -870,7 +870,7 @@ translate russiantl _call_syscheck_41_f8c413c3:
 translate russiantl _call_syscheck_41_c3643eb7:
 
     # n "There was no point in staying if the only thing he planned to do was taunt me over his victory, even though it didn't look like he enjoyed it much."
-    n "Нет смысла оставаться, если всё, что ему хочется делать - это насмехаться над тем, что он меня победил, хотя и не похоже, что он очень сильно этому обрадовался."
+    n "Нет смысла оставаться, если всё, что ему хочется делать - это насмехаться над тем, что он меня победил. Хотя и не похоже, что он очень сильно этому обрадовался."
 
 # game/bryce1.rpy:708
 translate russiantl _call_syscheck_41_76e9ea22:
@@ -894,13 +894,13 @@ translate russiantl _call_syscheck_41_76b2fe88_1:
 translate russiantl _call_syscheck_41_26f042c1:
 
     # c "So, when's the next round starting?"
-    c "Так когда начинаем следующий раунд?"
+    c "Так, когда начинаем следующий раунд?"
 
 # game/bryce1.rpy:738
 translate russiantl _call_syscheck_41_cfdd61d2:
 
     # Br "Soon enough. Do you feel it? Do you feel the buzz kicking in already?"
-    Br "Скоро. Так тебя уже вштырило? Чувствуешь, как голова начинает гудеть?"
+    Br "Скоро. Ты уже чувствуешь это? Чувствуешь, как голова начинает гудеть?"
 
 # game/bryce1.rpy:739
 translate russiantl _call_syscheck_41_10f27db5:
@@ -918,13 +918,13 @@ translate russiantl _call_syscheck_41_6b6f6d3f:
 translate russiantl _call_syscheck_41_db7f6485:
 
     # Br "I'm sure it isn't."
-    Br "Ну ясное дело."
+    Br "Я уверен в этом."
 
 # game/bryce1.rpy:755
 translate russiantl _call_syscheck_41_9bde5fdb:
 
     # Br "That's what I thought."
-    Br "Да я так и подумал."
+    Br "Да, я так и подумал."
 
 # game/bryce1.rpy:761
 translate russiantl _call_syscheck_41_0195f9bc:
@@ -966,7 +966,7 @@ translate russiantl _call_syscheck_41_307060d5:
 translate russiantl _call_syscheck_41_819f0e3b:
 
     # Br "Waiter, bring us another round."
-    Br "Ффициант, давай нам ещё по одной!"
+    Br "Официант, давай нам ещё по одной!"
 
 # game/bryce1.rpy:792
 translate russiantl _call_syscheck_41_6d558826:
@@ -1002,7 +1002,7 @@ translate russiantl _call_syscheck_41_3da409e2:
 translate russiantl _call_syscheck_41_a10b39d9:
 
     # Xi "Did I hear something about a contest?"
-    Xi "Мне кажется, или кто-то сказал "соревнование"? ""
+    Xi "Мне кажется, или кто-то сказал что-то про соревнование?"
 
 # game/bryce1.rpy:820
 translate russiantl _call_syscheck_41_a44a33d3:
@@ -1014,13 +1014,13 @@ translate russiantl _call_syscheck_41_a44a33d3:
 translate russiantl _call_syscheck_41_e5a84285:
 
     # Xi "Up to your old shenanigans, I see."
-    Xi "Опять взялся за свои старые проделки, как я вижу."
+    Xi "Опять взялся за свои старые проделки, понятно."
 
 # game/bryce1.rpy:824
 translate russiantl _call_syscheck_41_57b54eec:
 
     # Br laugh "Now, don't spoil the fun. I don't go around telling people about what you're up to, either."
-    Br laugh "Ну, не разрушай всю интригу. Я ж не хожу и не рассказываю всем подряд, что ты задумал."
+    Br laugh "Ну же, не разрушай всю интригу. Я ведь не хожу и не рассказываю всем подряд, что ты задумал."
 
 # game/bryce1.rpy:826
 translate russiantl _call_syscheck_41_f828523f:
@@ -1038,7 +1038,7 @@ translate russiantl _call_syscheck_41_4ae87edc:
 translate russiantl _call_syscheck_41_0979cd19:
 
     # Br "I went first last time, so it's your turn now."
-    Br "Я в прошлый раз пил первым, так что теперь твоя очередь."
+    Br "В прошлый раз я пил первым, так что теперь твоя очередь."
 
 # game/bryce1.rpy:847
 translate russiantl _call_syscheck_41_4bbd42f0:
@@ -1050,7 +1050,7 @@ translate russiantl _call_syscheck_41_4bbd42f0:
 translate russiantl _call_syscheck_41_cebe3500:
 
     # m "One thing that always puzzled me about seasoned drinkers was the sheer amount of liquid they could ingest without issue. Keeping it down, however, was a much different question."
-    m "Что меня всегда интересовало в опытных алкоголиках, так это как они умудряются поглощать такое количество жидкости. Другой вопрос - как эта жидкость остаётся в них."
+    m "Что меня всегда интересовало в закалённых алкоголиках, так это то, как они умудряются поглощать такое количество жидкости. Другой вопрос - как эта жидкость остаётся в них."
 
 # game/bryce1.rpy:849
 translate russiantl _call_syscheck_41_440c57d9:
@@ -1074,19 +1074,19 @@ translate russiantl _call_syscheck_41_18fc96e2:
 translate russiantl _call_syscheck_41_1d71fc0b:
 
     # Br "I've had much more than this before."
-    Br "Я раньше и больше выпивал."
+    Br "Я раньше и намного больше выпивал."
 
 # game/bryce1.rpy:868
 translate russiantl _call_syscheck_41_ef827699:
 
     # m "Roaring laughter erupted from the dragon as his paw struck the table, rattling the containers resting on it."
-    m "Дракон оглушительно засмеялся и так сильно начал бить по столу, что стаканы задребезжали."
+    m "Дракон оглушительно засмеялся и так сильно начал бить по столу, что сосуды задребезжали."
 
 # game/bryce1.rpy:869
 translate russiantl _call_syscheck_41_06fb37a9:
 
     # Br "Keep it up, kiddo. You still stand a chance if you can make me die of laughter."
-    Br "Продолжай в том же духе. У тебя есть шанс победить, если заставишь меня умереть от смеха."
+    Br "Продолжай в том же духе, малыш. У тебя всё ещё есть шанс победить, если заставишь меня умереть от смеха."
 
 # game/bryce1.rpy:872
 translate russiantl _call_syscheck_41_ae0a1d05:
@@ -1098,13 +1098,13 @@ translate russiantl _call_syscheck_41_ae0a1d05:
 translate russiantl _call_syscheck_41_b5ff6161:
 
     # Br "As for my turn, let me demonstrate."
-    Br "Похоже, теперь моя очередь, смотри и учись."
+    Br "Похоже, теперь моя очередь. Смотри и учись."
 
 # game/bryce1.rpy:880
 translate russiantl _call_syscheck_41_30bc5d3a:
 
     # m "Once again, he consumed his drink, though his swigs were noticeably slower than before. His resolve was also fading, though not as fast as mine had, as he clearly held the advantage. Was there any way I could still turn this around?"
-    m "И вновь он опустошил свою миску, хотя на этот раз глотки были заметно медленнее. Его решимость иссякала, хотя и не так быстро, как моя, так что у него явно было преимущество. Можно ли было ещё вырвать у него победу?"
+    m "И вновь, он опустошил свою миску, хотя на этот раз глотки были заметно медленнее. Его решимость иссякала, хотя и не так быстро, как моя, так что у него явно было преимущество. Можно ли было ещё вырвать у него победу?"
 
 # game/bryce1.rpy:890
 translate russiantl _call_syscheck_41_7480d039:
@@ -1170,7 +1170,7 @@ translate russiantl _call_syscheck_41_1c2ac3fc:
 translate russiantl _call_syscheck_41_1b3273b0:
 
     # c "Just fine, thanks for asking."
-    c "Нормально, спасибо, что спросил."
+    c "Нормально. Спасибо, что спросил."
 
 # game/bryce1.rpy:931
 translate russiantl _call_syscheck_41_a194c007:
@@ -1206,13 +1206,13 @@ translate russiantl _call_syscheck_41_88e66bd2:
 translate russiantl _call_syscheck_41_4b508814:
 
     # Br "Now... it's yours."
-    Br "А теперь... ты пей."
+    Br "А теперь... пей ты."
 
 # game/bryce1.rpy:959
 translate russiantl _call_syscheck_41_16f22ee4:
 
     # m "He was a lot heavier than me, and even though his bowls held far more liquid than my glasses, how did I think I'd stand a chance against him? When I picked up my glass, I didn't have feeling in my fingers anymore."
-    m "Он был намного больше меня, и хоть его миска была намного объёмистее моего стакана, как я мог подумать, что у меня есть шанс против него? Когда стакан оказался в моих руках, пальцы уже едва ли слушались меня."
+    m "Он был намного больше меня, и хоть его миска была намного объёмистее моего стакана, как я тогда мог подумать, что у меня есть шанс против него? Когда стакан оказался в моих руках, пальцы уже едва ли слушались меня."
 
 # game/bryce1.rpy:963
 translate russiantl _call_syscheck_41_34d7e99f:
@@ -1224,19 +1224,19 @@ translate russiantl _call_syscheck_41_34d7e99f:
 translate russiantl _call_syscheck_41_5ca79c87:
 
     # c "S-So, w-what... do we do now?"
-    c "Т-так, ч-чё... чё теперь?"
+    c "Т-так, ч-что... теперь?"
 
 # game/bryce1.rpy:971
 translate russiantl _call_syscheck_41_bdf1a500:
 
     # Br "Wait for you to... t-throw up so I win?"
-    Br "А теперь подождём... пока тебя стошнит и я выиграю?"
+    Br "А теперь подождём... пока тебя стошнит, и я выиграю?"
 
 # game/bryce1.rpy:977
 translate russiantl _call_syscheck_41_6293f0c2:
 
     # Br "Well, duh... Of course it doesn't count if you spit out your drink halfway through."
-    Br "Ну так, пх... Конечно не считается, что ты выпил стакан, если ты всё разлил."
+    Br "Ну так, пх... Конечно, не считается, что ты выпил стакан, если ты всё разлил."
 
 # game/bryce1.rpy:979
 translate russiantl _call_syscheck_41_d748282a:
@@ -1254,7 +1254,7 @@ translate russiantl _call_syscheck_41_2321cd89:
 translate russiantl _call_syscheck_41_ae29466d:
 
     # Br "Just... don't..."
-    Br "Лучше не надо."
+    Br "Просто... Не надо..."
 
 # game/bryce1.rpy:994
 translate russiantl _call_syscheck_41_849c8d53:
@@ -1272,25 +1272,25 @@ translate russiantl _call_syscheck_41_e4ec6fd8:
 translate russiantl _call_syscheck_41_8db3b15e:
 
     # Br "Dammit, you don't just ask someone why they're brown! Don't you have... like... differently colored people where you come from? Or do they all look like you?"
-    Br "Чёрт побери, нельзя просто взять и спросить кого-то, почему он коричневый! У вас разве... типа... у людей не разный цвет кожи? Или все выглядят как ты?"
+    Br "Чёрт побери, нельзя просто взять и спросить кого-то, почему он коричневый! У вас разве... типа... у людей, не разный цвет кожи? Или все выглядят как ты?"
 
 # game/bryce1.rpy:1002
 translate russiantl _call_syscheck_41_f1569105:
 
     # c "You... seriously look like a chocolate cream cake... delicious chocolate cream cake. Can I taste you?"
-    c "Ты... серьёзно выглядишь как шоколадный торт... вкуснющий шоколадный торт. Можно мне хоть кусочек?"
+    c "Ты... серьёзно выглядишь, как шоколадный торт... вкуснющий шоколадный торт. Можно мне хоть кусочек?"
 
 # game/bryce1.rpy:1008
 translate russiantl _call_syscheck_41_a62209a1:
 
     # Br "I just am... Got nothing more to say 'bout that."
-    Br "Просто я... Мне нечего добавить."
+    Br "Просто я... Мне нечего добавить насчёт этого."
 
 # game/bryce1.rpy:1012
 translate russiantl _call_syscheck_41_d19f855d:
 
     # c "..."
-    c ". . ."
+    c "..."
 
 # game/bryce1.rpy:1014
 translate russiantl _call_syscheck_41_76352b71:
@@ -1368,7 +1368,7 @@ translate russiantl _call_syscheck_41_76634173:
 translate russiantl _call_syscheck_41_0eb13f67:
 
     # m "For the first time, I could see something in his eyes other than his always present confidence. Was it disbelief, or insecurity? I guessed my feat caught him off guard, as he seemed genuinely impressed. If nothing else, this showed me that even his own conviction was cracking now. I could totally win this."
-    m "Впервые его глаза показали что-то, кроме стальной уверенности. Была это неуверенность, сомнение? Похоже, то, что я не сдался, застало его врасплох, и он выглядел впечатлённым. По крайней мере, это показало, что его уверенность падала. Всё ещё можно победить."
+    m "Впервые его глаза показали что-то, кроме стальной уверенности. Была ли это неуверенность, сомнение? Похоже, то, что я не сдался, застало его врасплох, и он выглядел искренне впечатлённым. По крайней мере, это показало то, что его уверенность падала. Я точно всё ещё мог победить."
 
 # game/bryce1.rpy:1078
 translate russiantl _call_syscheck_41_c1731578:
@@ -1380,7 +1380,7 @@ translate russiantl _call_syscheck_41_c1731578:
 translate russiantl _call_syscheck_41_0d2a0960:
 
     # m "He was struggling. It became more and more obvious as he tried to swallow the liquid in his bowl bit by bit. He stopped at one point, panting heavily. I considered taking a cheap shot at him, but as he had refrained from doing so during my turn, I wasn't going to start now."
-    m "Ему было нелегко. Он пытался пить маленькими глоточками. Где-то посередине от остановился, чтобы отдышаться. Я подумывал о том, чтобы как-нибудь подколоть его, но так как он не стал делать такого когда была моя очередь, я передумал."
+    m "Ему было нелегко. Он пытался пить маленькими глоточками. Где-то посередине от остановился, чтобы отдышаться. Я подумывал о том, чтобы как-нибудь подколоть его, но так как он не стал делать такого, когда была моя очередь, то я передумал."
 
 # game/bryce1.rpy:1086
 translate russiantl _call_syscheck_41_7480d039_1:
@@ -1410,7 +1410,7 @@ translate russiantl _call_syscheck_41_4d0fcc3c:
 translate russiantl _call_syscheck_41_1c772ef4:
 
     # Br "Sheesh, sorry for asking."
-    Br "Ну и ладно, прости, что спросил."
+    Br "Чёрт, прости, что спросил."
 
 # game/bryce1.rpy:1126
 translate russiantl _call_syscheck_41_0bed258f:
@@ -1446,7 +1446,7 @@ translate russiantl _call_syscheck_41_d96fe527:
 translate russiantl _call_syscheck_41_6f3f2bac:
 
     # Br "Guess I'll just have another to secure my victory, then."
-    Br "Ну, тогда я выпью ещё, чтоб закрепить победу."
+    Br "Ну, тогда я выпью ещё, чтобы закрепить свою победу."
 
 # game/bryce1.rpy:1151
 translate russiantl _call_syscheck_41_fdd3ae60:
@@ -1554,7 +1554,7 @@ translate russiantl _call_syscheck_41_4545410c:
 translate russiantl _call_syscheck_41_f66cca5a:
 
     # c "(He is still unconscious.)"
-    c "(Он не реагирует)"
+    c "(Он до сих пор не реагирует.)"
 
 # game/bryce1.rpy:1216
 translate russiantl _call_syscheck_41_db8fedc8:
@@ -1566,7 +1566,7 @@ translate russiantl _call_syscheck_41_db8fedc8:
 translate russiantl _call_syscheck_41_5f8e6fc1:
 
     # Br "Wha? 's that you, [player_name]? Where am I?"
-    Br "Ась? Эт ты, [player_name]? Где я?"
+    Br "Чт? О, Это ты, [player_name]? Где я?"
 
 # game/bryce1.rpy:1221
 translate russiantl _call_syscheck_41_49835fc5:
@@ -1650,7 +1650,7 @@ translate russiantl _call_syscheck_41_c0184757:
 translate russiantl _call_syscheck_41_2c2e8c69:
 
     # c "We're still in the bar. And I just put some pepper there to wake you up."
-    c "Мы всё ещё в баре. И я насыпал туда перцу, чтоб разбудить тебя."
+    c "Мы всё ещё в баре. И я насыпал туда перец, чтобы разбудить тебя."
 
 # game/bryce1.rpy:1256
 translate russiantl _call_syscheck_41_98f47339:
@@ -1680,7 +1680,7 @@ translate russiantl _call_syscheck_41_25c5b01b_1:
 translate russiantl _call_syscheck_41_803a507c:
 
     # m "I awoke looking at an unfamiliar ceiling. For a moment, I wondered where I was before the events of last night all came back to me. As I got up and looked around, I realized that I'd apparently slept on the floor."
-    m "Я проснулся и увидел незнакомый потолок. На секундочку я испугался, куда я попал, но потом прошлая ночь всплыла в памяти. Когда я встал и огляделся, то понял, что спал на полу."
+    m "Я проснулся и увидел незнакомый потолок. На секунду я испугался, спрашивая себя, куда я попал, но потом в памяти всплыла прошлая ночь. Когда я встал и огляделся, то понял, что спал на полу."
 
 # game/bryce1.rpy:1266
 translate russiantl _call_syscheck_41_82181d98:
@@ -1692,7 +1692,7 @@ translate russiantl _call_syscheck_41_82181d98:
 translate russiantl _call_syscheck_41_da6837de:
 
     # c "(Guess I must have passed out after I got Bryce home.)"
-    c "(Наверно, я вырубился, когда довёл Брайса до дома.)"
+    c "(Наверно, я потерял сознание, когда довёл Брайса до дома.)"
 
 # game/bryce1.rpy:1274
 translate russiantl _call_syscheck_41_d710dd54:
@@ -1740,7 +1740,7 @@ translate russiantl _call_syscheck_41_61f333a7_2:
 translate russiantl _call_syscheck_41_c4305314:
 
     # Br "Daaamn, my head. Why are you even here?"
-    Br "Блииин, башка трещит. А что ты здесь делаешь?"
+    Br "Чёёрт, моя голова. А что ты здесь делаешь?"
 
 # game/bryce1.rpy:1305
 translate russiantl _call_syscheck_41_59eeaffb:
@@ -1764,13 +1764,13 @@ translate russiantl _call_syscheck_41_bc8c7852:
 translate russiantl _call_syscheck_41_dbe3a790:
 
     # Br "I don't even know, but you stood your ground and I respect that."
-    Br "Даже не представляю, но я уважаю, что ты держался до последнего."
+    Br "Даже не представляю. Но я уважаю, что ты держался до последнего."
 
 # game/bryce1.rpy:1318
 translate russiantl _call_syscheck_41_472d8355:
 
     # Br "You didn't do anything funny while I was out, did you?"
-    Br "Ты ж ничего не сделал эдакого, пока я спал?"
+    Br "Ты же ничего не сделал эдакого, пока я спал?"
 
 # game/bryce1.rpy:1323
 translate russiantl _call_syscheck_41_dcc4839f:
@@ -1800,25 +1800,25 @@ translate russiantl _call_syscheck_41_51787622:
 translate russiantl _call_syscheck_41_8c2b668a:
 
     # c "At least it's not like you were egging me on the whole time. Wait, actually, that is exactly what happened."
-    c "Ну, ты хотя бы не науськивал меня продолжать даже когда мне не хотелось. Хотя погоди, ты как раз делал это."
+    c "Ну, ты хотя бы не науськивал меня продолжать даже когда мне не хотелось. Хотя погоди, именно это ты и делал."
 
 # game/bryce1.rpy:1333
 translate russiantl _call_syscheck_41_6ded3fbf:
 
     # Br "No, you are right. This was a bad idea all around."
-    Br "Нет, ты прав. Это была глупая идея."
+    Br "Нет, ты прав. Это была глупая идея в любом случае."
 
 # game/bryce1.rpy:1334
 translate russiantl _call_syscheck_41_fee57dbc:
 
     # c "That's easy to say after the fact."
-    c "Сейчас так легко говорить."
+    c "Сейчас легко так говорить."
 
 # game/bryce1.rpy:1336
 translate russiantl _call_syscheck_41_94c61e32:
 
     # Br "Yeah, and I clearly held you there against your will and made you drink too, right?"
-    Br "Ах да, я же держал тебя там против твоего желания и вливал пиво тебе в рот, да?"
+    Br "Ах да, я же явно держал тебя против твоего желания и вливал пиво тебе в рот, да?"
 
 # game/bryce1.rpy:1337
 translate russiantl _call_syscheck_41_6b561738:
@@ -1830,7 +1830,7 @@ translate russiantl _call_syscheck_41_6b561738:
 translate russiantl _call_syscheck_41_e27d2f9c:
 
     # Br "So when it's not my fault, it's your job's fault. That's just brilliant, it's everyone's fault but your own. Well done, [player_name]."
-    Br "Значит, если это не моя вина, то вина твоей работы. Гениально, это вина кого угодно, но только не твоя. Просто замечательно, [player_name]."
+    Br "Значит, если это не моя вина, то вина твоей работы. Просто гениально, это вина кого угодно, но только не твоя. Просто замечательно, [player_name]."
 
 # game/bryce1.rpy:1340
 translate russiantl _call_syscheck_41_e7cca4c5:
@@ -1866,7 +1866,7 @@ translate russiantl bryce1skip_3ffd6748:
 translate russiantl bryce1skip_51e1a649:
 
     # c "Deal."
-    c "Замётано."
+    c "По рукам."
 
 # game/bryce1.rpy:1375
 translate russiantl bryce1skip_0584cbbe:
@@ -1884,7 +1884,7 @@ translate russiantl bryce1skip_9b9ab1ee:
 translate russiantl bryce1skip_1808e0cc:
 
     # Br "Damn, I should really get going, or I'll be late for work. You know how to get back to your apartment from here, right?"
-    Br "Чёрт, мне уже пора бежать, иначе я опоздаю на работа. Ты знаешь, как добраться отсюда до дома, да?"
+    Br "Чёрт, мне уже пора бежать, иначе я опоздаю на работу. Ты ведь знаешь, как добраться отсюда до своего дома, да?"
 
 # game/bryce1.rpy:1378
 translate russiantl bryce1skip_3275e9ef:
@@ -1920,13 +1920,13 @@ translate russiantl bryce1skip_3ffd6748_1:
 translate russiantl bryce1skip_51e1a649_1:
 
     # c "Deal."
-    c "Замётано."
+    c "По рукам."
 
 # game/bryce1.rpy:1412
 translate russiantl bryce1skip_9eb38675:
 
     # Br "Maybe I'll invite you over some other time and show you that there's more to the chief of police than getting drunk and passing out?"
-    Br "Знаешь, пожалуй я приглашу тебя куда-нибудь ещё в следующий раз, хотя бы покажу, что шериф умеет не только вливать в себя пиво и вырубаться?"
+    Br "Знаешь, пожалуй я приглашу тебя куда-нибудь ещё в следующий раз, хотя бы покажу, что шериф умеет не только вливать в себя пиво и терять сознание?"
 
 # game/bryce1.rpy:1413
 translate russiantl bryce1skip_70fb6772:
@@ -1938,7 +1938,7 @@ translate russiantl bryce1skip_70fb6772:
 translate russiantl bryce1skip_c45783e0:
 
     # Br "Heh, I'm sure we'll think of something else that could measure our endurance."
-    Br "Хех, я уверен, что мы сможем найти ещё способ измерить нашу выносливость."
+    Br "Хех, я уверен, что мы сможем ещё найти другой способ измерить нашу выносливость."
 
 translate russiantl strings:
 
@@ -1960,11 +1960,11 @@ translate russiantl strings:
 
     # bryce1.rpy:52
     old "I don't usually drink, though."
-    new "Я обычно не пью, знаешь ли."
+    new "Я обычно не пью, всё-таки."
 
     # bryce1.rpy:52
     old "Just one? I'll take three."
-    new "Всего за одной кружечкой? Я бы не стал так ограничиваться."
+    new "Всего одна? Я бы не стал так ограничиваться."
 
     # bryce1.rpy:52
     old "Let's go."
@@ -1980,7 +1980,7 @@ translate russiantl strings:
 
     # bryce1.rpy:66
     old "S-Sorry, that's not what I meant."
-    new "Прости, я не это имел в виду."
+    new "П-Прости, я не это имел в виду."
 
     # bryce1.rpy:66
     old "It can't be that hard."
@@ -1992,7 +1992,7 @@ translate russiantl strings:
 
     # bryce1.rpy:304
     old "Me too."
-    new "Мне того же."
+    new "Мне тоже."
 
     # bryce1.rpy:304
     old "Nothing yet. I'll have something later, I think."
@@ -2000,11 +2000,11 @@ translate russiantl strings:
 
     # bryce1.rpy:304
     old "How'd you know my name?"
-    new "Откуда ты знаешь моё имя?"
+    new "Откуда вы знаете моё имя?"
 
     # bryce1.rpy:402
     old "Not really. I guess I can stay for a little while."
-    new "Не особо. Наверно, я останусь."
+    new "Не особо. Наверно, я останусь ненадолго."
 
     # bryce1.rpy:402
     old "I'd rather just go home and read a book."
@@ -2012,7 +2012,7 @@ translate russiantl strings:
 
     # bryce1.rpy:410
     old "Alright, then."
-    new "Ладушки-оладушки."
+    new "Хорошо, тогда."
 
     # bryce1.rpy:410
     old "I don't really drink, though."
@@ -2024,7 +2024,7 @@ translate russiantl strings:
 
     # bryce1.rpy:417
     old "[[Leave.]"
-    new "[[Уйти]"
+    new "[[Уйти.]"
 
     # bryce1.rpy:551
     old "I would, but I don't think I can beat someone like you."
@@ -2040,7 +2040,7 @@ translate russiantl strings:
 
     # bryce1.rpy:636
     old "Let's burn some brain cells."
-    new "Так давай сожжём немного мозговых клеток."
+    new "Так давай сожжём несколько мозговых клеток."
 
     # bryce1.rpy:636
     old "That's your mistake. I never give up."
@@ -2052,11 +2052,11 @@ translate russiantl strings:
 
     # bryce1.rpy:684
     old "S-Shut up!"
-    new "Замолкни!"
+    new "З-Замолкни!"
 
     # bryce1.rpy:684
     old "[[Give up.]"
-    new "[[Сдаться]"
+    new "[[Сдаться.]"
 
     # bryce1.rpy:745
     old "That's not a blush!"
@@ -2068,19 +2068,19 @@ translate russiantl strings:
 
     # bryce1.rpy:745
     old "I'm not buzzed."
-    new "Неа, всё хорошо."
+    new "Не-а, всё хорошо."
 
     # bryce1.rpy:769
     old "I'm having a drinking contest with a dragon. How could I not love this?"
-    new "Я соревнуюсь с драконом в том, кто больше выпьет. Как это может не нравиться?"
+    new "Я соревнуюсь с драконом в том, кто больше выпьет. Как мне это может не нравиться?"
 
     # bryce1.rpy:769
     old "It's alright. Certainly a nice change from what I'm used to."
-    new "Тут неплохо."
+    new "Тут неплохо. Определённо неплохая смена обстановки."
 
     # bryce1.rpy:769
     old "To be honest, I think I'd rather be home."
-    new "Если честно, то дома лучше."
+    new "Если честно, то мне скорее лучше дома."
 
     # bryce1.rpy:859
     old "Let's see how you do."
@@ -2104,7 +2104,7 @@ translate russiantl strings:
 
     # bryce1.rpy:896
     old "Maybe. Having a lil' fun doesn't hurt, right?"
-    new "Возможно. Немного повеселиться никогда не помешает, да?"
+    new "Возможно. Немного повеселиться никогда не помешает, ведь так?"
 
     # bryce1.rpy:973
     old "Y-You never said that was a rule."
@@ -2112,11 +2112,11 @@ translate russiantl strings:
 
     # bryce1.rpy:973
     old "You... wish."
-    new "Мечтай."
+    new "М-Мечтай."
 
     # bryce1.rpy:973
     old "M-Might as well do that now..."
-    new "Хоть щас могу исполнить."
+    new "Х-Хоть сейчас могу исполнить."
 
     # bryce1.rpy:997
     old "Why are you... brown?"
@@ -2124,7 +2124,7 @@ translate russiantl strings:
 
     # bryce1.rpy:997
     old "Why are you so damn attractive?"
-    new "Почему ты такой красивый?"
+    new "Почему ты так чертовски привлекателен?"
 
     # bryce1.rpy:997
     old "[[Say nothing.]"
@@ -2144,7 +2144,7 @@ translate russiantl strings:
 
     # bryce1.rpy:1064
     old "Your... move, \"Chief\"."
-    new "Ваш... ход, \"Шериф\""
+    new "Ваш... ход, \"Шериф\"."
 
     # bryce1.rpy:1064
     old "S-Suck on this, you ssscaly bastard."
@@ -2188,11 +2188,11 @@ translate russiantl strings:
 
     # bryce1.rpy:1214
     old "Slap him."
-    new "Дать ему несколько пощёчин."
+    new "Дать ему пощёчину."
 
     # bryce1.rpy:1214
     old "Put some pepper on his nose."
-    new "Насыпать перца ему в ноздри."
+    new "Насыпать немного перца ему в нос."
 
     # bryce1.rpy:1276
     old "You are salivating."
