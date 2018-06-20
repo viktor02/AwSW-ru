@@ -1,340 +1,340 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+﻿# TODO: Translation updated at 2017-06-20 19:02
 
 # game/xkatsu.rpy:31
 translate russiantl katsu_84a9f97b:
 
     # c "There you are. I wasn't sure if I was going to find you from the description you gave me."
-    c ""
+    c "Вот ты где. Я не был уверен, найду ли я тебя по описанию, которое ты мне дал"
 
 # game/xkatsu.rpy:33
 translate russiantl katsu_3e5a2405:
 
     # Ka "Well, this corner is where I do business. You could've asked anyone and they would've told you where to find me."
-    Ka ""
+    Ka "Ну, этот уголок - это то, где я занимаюсь бизнесом. Вы могли бы спросить кого-нибудь, и они сказали бы вам, где меня найти."
 
 # game/xkatsu.rpy:53
 translate russiantl _call_skiptut_27_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
+    s "Мои записи показывают, что вы уже прошли эту сцену удовлетворительным образом. Хочешь пропустить до конца?"
 
 # game/xkatsu.rpy:61
 translate russiantl _call_skiptut_27_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
+    s "Похоже, вы видели это раньше. Перейти к концу сцены?"
 
 # game/xkatsu.rpy:69
 translate russiantl _call_skiptut_27_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Итак, кажется, вы видели это раньше. Вы можете посмотреть это снова, либо мы могли бы сэкономить время и просто пропустить до конца этой сцены."
 
 # game/xkatsu.rpy:83
 translate russiantl _call_skiptut_27_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xkatsu.rpy:103
 translate russiantl _call_skipcheck_27_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xkatsu.rpy:108
 translate russiantl _call_skipcheck_27_89aefe22:
 
     # c "I see."
-    c ""
+    c "Я вижу."
 
 # game/xkatsu.rpy:110
 translate russiantl _call_skipcheck_27_5574df77:
 
     # Ka smile "Now, what would you like for your ice cream?"
-    Ka smile ""
+    Ka smile "Итак, что бы вы хотели "
 
 # game/xkatsu.rpy:112
 translate russiantl _call_skipcheck_27_3f6459e2:
 
     # c "Well, what do you have to offer?"
-    c ""
+    c "Ну, что будешь заказывать?"
 
 # game/xkatsu.rpy:114
 translate russiantl _call_skipcheck_27_c92505a3:
 
     # Ka normal "What I have to offer?"
-    Ka normal ""
+    Ka normal "Что будете заказывать?"
 
 # game/xkatsu.rpy:116
 translate russiantl _call_skipcheck_27_f5ef96df:
 
     # Ka excited "As for the main dish, I have ice cream, gelato, frozen yoghurt, frozen custard, soft serve, sorbet, sandwiches, popsicles, mellorine, sherbet, cold taffy, snow cones and haluhalo."
-    Ka excited ""
+    Ka excited "Что касается основного блюда, у меня есть мороженое, джелато, замороженный йогурт, замороженный заварной крем, софуто-куриму, сорбет, сэндвичи, эскимосы, меллорин, шербет, холодный таффи, снежные конусы и халухало."
 
 # game/xkatsu.rpy:118
 translate russiantl _call_skipcheck_27_86148265:
 
     # c "Alright."
-    c ""
+    c "Хорошо."
 
 # game/xkatsu.rpy:120
 translate russiantl _call_skipcheck_27_33c0604b:
 
     # Ka "For sides, I can offer you waffles, sticks, pretzels, cups, wafer cones, cake cones, sugar cones, chocolate-coated cones, double cones or vanilla cones."
-    Ka ""
+    Ka "Я могу предложить вам вафли, палочки, крендели, чашки, вафельные конусы, конусы для пирожных, сахарные конусы, шоколадные конусы, двойные конусы или ванильные конусы."
 
 # game/xkatsu.rpy:122
 translate russiantl _call_skipcheck_27_c7c5eb60:
 
     # c "That's a lot of variety you have there."
-    c ""
+    c "Большой выбор у вас тут."
 
 # game/xkatsu.rpy:124
 translate russiantl _call_skipcheck_27_54032bb9:
 
     # Ka smile "And I haven't even started on about the toppings. Now you know why I have to keep dragging this big cart everywhere."
-    Ka smile ""
+    Ka smile "И я даже не начал рассказывать о начинке. Теперь вы знаете, почему мне приходится постоянно таскать эту большую тележку."
 
 # game/xkatsu.rpy:130
 translate russiantl _call_skipcheck_27_3f970c7c:
 
     # Br "Excuse me?"
-    Br ""
+    Br "Простите?"
 
 # game/xkatsu.rpy:132
 translate russiantl _call_skipcheck_27_6ce4d008:
 
     # Ka normal "I'm sorry, but we're closed."
-    Ka normal ""
+    Ka normal "Извиняюсь, но мы закрыты."
 
 # game/xkatsu.rpy:134
 translate russiantl _call_skipcheck_27_34c45c80:
 
     # Br brow b flip "You don't look closed."
-    Br brow b flip ""
+    Br brow b flip "Вы не выглядите закрытыми."
 
 # game/xkatsu.rpy:136
 translate russiantl _call_skipcheck_27_bb1eeeab:
 
     # Ka "But we are."
-    Ka ""
+    Ka "Но это так."
 
 # game/xkatsu.rpy:138
 translate russiantl _call_skipcheck_27_5372b7be:
 
     # Br stern b flip "I really want to buy an ice cream, though. Please? It's really hot, and I'll pay you twice as much."
-    Br stern b flip ""
+    Br stern b flip "Я реально хочу купить мороженое. Пожалуйста, здесь очень жарко, и я заплачу вам в два раза больше."
 
 # game/xkatsu.rpy:140
 translate russiantl _call_skipcheck_27_32da668c:
 
     # Ka "Sorry, we are closed."
-    Ka ""
+    Ka "Простите, мы закрыты."
 
 # game/xkatsu.rpy:142
 translate russiantl _call_skipcheck_27_0f044a44:
 
     # Br "Can you at least tell me when you're going to be open?"
-    Br ""
+    Br "Можете ли вы хотя бы сказать мне, когда будете открыты?"
 
 # game/xkatsu.rpy:144
 translate russiantl _call_skipcheck_27_03ee1582:
 
     # Ka "When I feel like it. Now, off you go."
-    Ka ""
+    Ka "Когда я захочу. Теперь, уходите."
 
 # game/xkatsu.rpy:146
 translate russiantl _call_skipcheck_27_a28eb104:
 
     # Br "But..."
-    Br ""
+    Br "Но..."
 
 # game/xkatsu.rpy:148
 translate russiantl _call_skipcheck_27_516d708b:
 
     # m "Katsuharu waved a claw dismissively."
-    m ""
+    m "Катцухару пренебрежительно отмахнулся когтем."
 
 # game/xkatsu.rpy:150
 translate russiantl _call_skipcheck_27_2e7684c8:
 
     # Ka exhausted "Off you go."
-    Ka exhausted ""
+    Ka exhausted "Уходите."
 
 # game/xkatsu.rpy:152
 translate russiantl _call_skipcheck_27_eee7c435:
 
     # Br brow b flip "Sheesh, whatever. I'll just go and jump into a lake or something."
-    Br brow b flip ""
+    Br brow b flip "Шиш, однако. Я просто пойду и прыгну в озере или сделаю еще что-нибудь подобное."
 
 # game/xkatsu.rpy:166
 translate russiantl _call_skipcheck_27_31d17e9e:
 
     # c "Why did you come here when you're closed?"
-    c ""
+    c "Зачем вы приходите сюда, когда закрыты"
 
 # game/xkatsu.rpy:168
 translate russiantl _call_skipcheck_27_93989e73:
 
     # Ka normal "This is just my spot. Has been for a long time. I'll open for those pesky customers later, but right now I have a guest to entertain."
-    Ka normal ""
+    Ka normal "Просто это моя точка. Долгое время. Позднее я откроюсь для надоедливых клиентов, но сейчас у меня есть гость для развлечения."
 
 # game/xkatsu.rpy:170
 translate russiantl _call_skipcheck_27_89aefe22_1:
 
     # c "I see."
-    c ""
+    c "Я понимаю."
 
 # game/xkatsu.rpy:172
 translate russiantl _call_skipcheck_27_c51b62f2:
 
     # c "How long have you been doing this?"
-    c ""
+    c "Как долго вы занимаетесь этим?"
 
 # game/xkatsu.rpy:174
 translate russiantl _call_skipcheck_27_d5c6024a:
 
     # Ka "I've been in this business for over 40 years now."
-    Ka ""
+    Ka "Я веду этот бизнес более 40 лет."
 
 # game/xkatsu.rpy:176
 translate russiantl _call_skipcheck_27_4a82553f:
 
     # c "Oh, wow."
-    c ""
+    c "Ого."
 
 # game/xkatsu.rpy:178
 translate russiantl _call_skipcheck_27_183a712a:
 
     # Ka "You see, I'm this town's only real ice cream vendor."
-    Ka ""
+    Ka "Как ты понимаешь, я здесь единственный настоящий продавец мороженого."
 
 # game/xkatsu.rpy:180
 translate russiantl _call_skipcheck_27_ae6024c2:
 
     # Ka "Sure, you could just go into a store and buy any premade ice cream nowadays, but it's just not the same."
-    Ka ""
+    Ka "Конечно, вы могли бы просто пойти в магазин и купить любое готовое мороженое в наши дни, но это совсем не то же самое."
 
 # game/xkatsu.rpy:182
 translate russiantl _call_skipcheck_27_6db37f05:
 
     # Ka smile "My customers know that. They love my ice cream."
-    Ka smile ""
+    Ka smile "Мои клиенты это знают. Они любят мое мороженое."
 
 # game/xkatsu.rpy:184
 translate russiantl _call_skipcheck_27_6392e953:
 
     # Ka normal "Of course I don't just sell it, I also do ice cream parties and catering."
-    Ka normal ""
+    Ka normal "Конечно, я не просто продаю его, я так же делаю вечеринки с мороженым и кейтерингом"
 
 # game/xkatsu.rpy:186
 translate russiantl _call_skipcheck_27_a545a7c0:
 
     # c "Ice cream parties?"
-    c ""
+    c "Вечеринки с мороженым?"
 
 # game/xkatsu.rpy:188
 translate russiantl _call_skipcheck_27_2704a437:
 
     # Ka smile "Only for very special occasions."
-    Ka smile ""
+    Ka smile "Только для особых случаев."
 
 # game/xkatsu.rpy:190
 translate russiantl _call_skipcheck_27_8910c3cd:
 
     # c "The townsfolk must really like your ice cream, then."
-    c ""
+    c "Горожанам должно реально нравится ваше мороженое."
 
 # game/xkatsu.rpy:192
 translate russiantl _call_skipcheck_27_0da75cc0:
 
     # Ka normal "Oh, yes. Business has been wonderful for decades. Lately though, everything just seems to be going down."
-    Ka normal ""
+    Ka normal "О, да. Бизнес был прекрасным десятилетиями. В последнее время, похоже, все идёт на спад."
 
 # game/xkatsu.rpy:194
 translate russiantl _call_skipcheck_27_1bc47770:
 
     # c "Why is that?"
-    c ""
+    c "Почему так?"
 
 # game/xkatsu.rpy:196
 translate russiantl _call_skipcheck_27_90893c34:
 
     # Ka exhausted "Every day, less customers find their way to me. If I don't sell everything, things start to spoil and I have to throw them away. I never had to do that before."
-    Ka exhausted ""
+    Ka exhausted "Каждый день всё меньше клиентов находят путь ко мне. Если я не продаду всё, то продукты начинают портиться и я должен буду их выкинуть. Мне никогда не приходилось делать этого раньше"
 
 # game/xkatsu.rpy:198
 translate russiantl _call_skipcheck_27_1e569efa:
 
     # Ka "If it keeps going like this for much longer, I might have to face the reality of bankruptcy. I was planning to retire in a few years... But I can't. Not like this."
-    Ka ""
+    Ka "Если так продолжится, я должен буду столкнуться с реальностью банкротства. Я планировал уйти на пенсию через несколько лет... Но не могу. Не так.."
 
 # game/xkatsu.rpy:200
 translate russiantl _call_skipcheck_27_96db169b:
 
     # Ka "It wouldn't be nearly as bad if I hadn't also lost all my savings recently."
-    Ka ""
+    Ka "Это было бы не так уж плохо, если бы я не потерял все свои сбережения в последнее время."
 
 # game/xkatsu.rpy:202
 translate russiantl _call_skipcheck_27_8244759d:
 
     # c "Oh no! What happened?"
-    c ""
+    c "О, нет! Что случилось?"
 
 # game/xkatsu.rpy:204
 translate russiantl _call_skipcheck_27_031d882e:
 
     # Ka normal "Well, I happen to be an avid player of a game called Mahjong, and just as it so happens, sometimes people play it for money, too."
-    Ka normal ""
+    Ka normal "Ну, мне доводилось быть игроком в Маджонг, и как это случается, иногда люди играют на деньги."
 
 # game/xkatsu.rpy:206
 translate russiantl _call_skipcheck_27_ba3b9d48:
 
     # c "You lost all your life savings by gambling?"
-    c ""
+    c "Вы потеряли все свои сбережения жизни за счет азартных игр?"
 
 # game/xkatsu.rpy:208
 translate russiantl _call_skipcheck_27_26794a18:
 
     # Ka smile "That's the funny thing about gambling - sometimes you win, and sometimes you don't."
-    Ka smile ""
+    Ka smile "Это самое забавное в азартных играх - иногда вы выигрываете, а иногда и нет."
 
 # game/xkatsu.rpy:210
 translate russiantl _call_skipcheck_27_1f99c997:
 
     # Ka excited "Sometimes you win big, and sometimes you lose all your savings. That's just how it goes."
-    Ka excited ""
+    Ka excited "Иногда вы выигрываете много, а иногда вы теряете всё. Так оно и есть."
 
 # game/xkatsu.rpy:212
 translate russiantl _call_skipcheck_27_89aefe22_2:
 
     # c "I see."
-    c ""
+    c "Я понимаю."
 
 # game/xkatsu.rpy:214
 translate russiantl _call_skipcheck_27_2f384b1c:
 
     # c "How did you decide to become an ice cream vendor, anyway?"
-    c ""
+    c "Как вы решили стать продавцом мороженого?"
 
 # game/xkatsu.rpy:216
 translate russiantl _call_skipcheck_27_1a34c2ff:
 
     # Ka normal "I have quite a history, human, so I'd hope you're prepared."
-    Ka normal ""
+    Ka normal "У меня есть неплохая история, человек, так что я надеюсь ты готов."
 
 # game/xkatsu.rpy:218
 translate russiantl _call_skipcheck_27_22362d1c:
 
     # c "Well, I am an ambassador, so if you have a story to tell, I'll listen."
-    c ""
+    c "Ну, я посол, так что если вы хотите рассказать историю, я слушаю."
 
 # game/xkatsu.rpy:220
 translate russiantl _call_skipcheck_27_6255a17a:
 
     # Ka "As you wish."
-    Ka ""
+    Ka "Как пожелаешь."
 
 # game/xkatsu.rpy:226
 translate russiantl _call_skipcheck_27_76b2fe88:
@@ -346,25 +346,25 @@ translate russiantl _call_skipcheck_27_76b2fe88:
 translate russiantl _call_skipcheck_27_a33bd48c:
 
     # n "I have very fond memories of my childhood. When I was little, we had a confectioner in town who offered all kinds of specialties - from cookies and sweets to cakes and chocolates."
-    n ""
+    n "У меня очень хорошие воспоминания о моем детстве. Когда я был маленьким, у нас был кондитер в городе, который предлагал всевозможные блюда - от печенья и конфет до тортов и шоколадных конфет."
 
 # game/xkatsu.rpy:236
 translate russiantl _call_skipcheck_27_de499e2c:
 
     # n "The owner was a kind, old dragoness who made everything that was sold in her shop with her own two claws. Her confectionery was always very good, but it was her ice cream that was truly exceptional."
-    n ""
+    n "Владелецей была доброй, старой драконихой, все, что было продано в ее магазине, было сделано её двумя собственными когтями. Ее кондитерские изделия всегда хорошими, но именно ее мороженое было действительно исключительным."
 
 # game/xkatsu.rpy:238
 translate russiantl _call_skipcheck_27_6d730534:
 
     # n "Even as a small child, I could always taste the difference - even when my peers didn't care and proclaimed one ice cream as good as the next."
-    n ""
+    n "Даже будучи маленьким ребенком, я всегда мог испытать разницу - даже когда мои сверстники не заботились и хвалили одно мороженое так же хорошо, как и следующее."
 
 # game/xkatsu.rpy:240
 translate russiantl _call_skipcheck_27_6af849a9:
 
     # n "As I grew up, I came to a fundamental understanding about people. There are those who are content with the lowest common denominator, and those - like me - who could appreciate the finer details in expertly crafted things."
-    n ""
+    n "Когда я вырос, я пришёл к фундаментальному пониманию людей. Есть люди, которые довольствуются самым низким общим знаменателем, и те, кто, как я, могут оценить более тонкие детали в умело созданных вещах."
 
 # game/xkatsu.rpy:243
 translate russiantl _call_skipcheck_27_76b2fe88_1:
@@ -376,31 +376,31 @@ translate russiantl _call_skipcheck_27_76b2fe88_1:
 translate russiantl _call_skipcheck_27_f3779635:
 
     # n "I talked with her when I heard of her plans to retire, to see if someone else was to continue running the shop, or if she had taken in an apprentice. But, to my utter dismay, I learned that this was not the case."
-    n ""
+    n "Я разговаривал с ней, когда я слышал о ее планах уйти в отставку, будет ли кто-то еще продолжать дело в магазине, или она взяла ученика. Но, к моему полному ужасу, я узнал, что это не так."
 
 # game/xkatsu.rpy:248
 translate russiantl _call_skipcheck_27_eefc4909:
 
     # n "You see, she was the kind of humble person who didn't think of herself or her wares as special in any way, so she never felt the need to preserve them."
-    n ""
+    n "Видишь ли, она была таким скромным человеком, который не думал о себе или о своих товарах как о чем-то особенном, поэтому она никогда не чувствовала необходимости сохранять их."
 
 # game/xkatsu.rpy:250
 translate russiantl _call_skipcheck_27_add6a901:
 
     # n "I realized that without my intervention, her art would be lost forever."
-    n ""
+    n "Я осознал, что без моего вмешательства ее искусство будет потеряно навсегда."
 
 # game/xkatsu.rpy:252
 translate russiantl _call_skipcheck_27_b197aa8e:
 
     # n "I begged and pleaded with her not to let this happen, but she insisted that I had vastly overestimated her skill."
-    n ""
+    n "Я молил и умолял ее не допустить этого, но она настаивала на том, что я сильно переоценивал ее умение."
 
 # game/xkatsu.rpy:254
 translate russiantl _call_skipcheck_27_492b3bb5:
 
     # n "It was not until I ran out and brought her some of the store-bought pulp they dared to call ice cream that she gave in and agreed with me."
-    n ""
+    n "Только когда я выбежалал и привез ей какую-то поделку из проданной в магазине целлюлозы, они осмелились называть мороженое, которое она сделала, и согласилась со мной."
 
 # game/xkatsu.rpy:257
 translate russiantl _call_skipcheck_27_76b2fe88_2:
@@ -412,25 +412,25 @@ translate russiantl _call_skipcheck_27_76b2fe88_2:
 translate russiantl _call_skipcheck_27_0bec13a5:
 
     # n "As a creator, she of course had never felt the need to buy some for herself when she could just make her own. And after only eating her own, wonderful ice cream for all these years, it had just become ordinary for her. She had never realized how exceptional it truly was."
-    n ""
+    n "Как создатель, она никогда не видела смысла в покупке, когда можно сделать собственное. И после того, как она годами ела свое собственное, прекрасное мороженое, оно стало для неё обычным. Она никогда не понимала, насколько оно замечательно."
 
 # game/xkatsu.rpy:262
 translate russiantl _call_skipcheck_27_f38b34fd:
 
     # n "Even though she was already at retirement age at the time, she took me in as an apprentice to teach me the fine art of confectionary."
-    n ""
+    n "Несмотря на то, что в то время она уже была в возрасте выхода на пенсию, она взяла меня в качестве ученика, чтобы научить меня прекрасному искусству кондитерских изделий"
 
 # game/xkatsu.rpy:264
 translate russiantl _call_skipcheck_27_527f4bdf:
 
     # n "I was her student for a few years and learned the basics of many different recipes, but unfortunately, she passed away before I could learn the secrets to her particular blend of ice cream."
-    n ""
+    n "Я был ее учеником в течение нескольких лет и изучил основы многих разных рецептов, но, к сожалению, она скончалась, прежде чем я смог узнать секреты ее смеси мороженого."
 
 # game/xkatsu.rpy:266
 translate russiantl _call_skipcheck_27_2b9ce85a:
 
     # n "For the next couple of years, I travelled from city to city, trying to find her relatives or confectioners of a similar caliber in order to find the last ingredients of her recipe."
-    n ""
+    n "В течение следующих нескольких лет я путешествовал из города в город, пытаясь найти своих родственников или кондитеров такого же качества, чтобы найти последние ингредиенты ее рецепта."
 
 # game/xkatsu.rpy:269
 translate russiantl _call_skipcheck_27_76b2fe88_3:
@@ -442,31 +442,31 @@ translate russiantl _call_skipcheck_27_76b2fe88_3:
 translate russiantl _call_skipcheck_27_40b6b549:
 
     # n "Going from one disappointment to the next, I finally tracked down a distant nephew who remembered her from his own childhood."
-    n ""
+    n "Переходя от одного разочарования к следующему, я, наконец, выследил далекого племянника, который помнил ее из своего детства."
 
 # game/xkatsu.rpy:274
 translate russiantl _call_skipcheck_27_c87ec369:
 
     # n "Even back then, her ice cream had apparently been very popular in the family. He was very happy to hear that she was able to fulfill her dream of owning her own confectionery."
-    n ""
+    n "Даже тогда, ее мороженое, по-видимому, было очень популярным в семье. Он был очень рад услышать, что она смогла осуществить свою мечту о том, чтобы иметь собственную кондитерскую."
 
 # game/xkatsu.rpy:276
 translate russiantl _call_skipcheck_27_8a20b4f5:
 
     # n "However, after he told me that the recipe was the confectioner's own and that she had never divulged it to anyone else, I had to realize that this was a secret she had apparently taken with her to the grave."
-    n ""
+    n "Однако, после того, как он сказал мне, что рецепт был собственностью кондитера и что она никогда не говорила его никому другому, я должен был понять, что это секрет, который она, видимо, унесла с собой в могилу."
 
 # game/xkatsu.rpy:278
 translate russiantl _call_skipcheck_27_dd162cf2:
 
     # n "Nowadays, people tell me that I have surpassed her. What they don't know is that all the different recipes I use - all the varieties I offer - came to be when I tried to recreate her recipe."
-    n ""
+    n "В наши дни люди говорят мне, что я ее превзошел. То, что они не знают, состоит в том, что все разные рецепты, которые я использую, - все предлагаемые мною варианты - появились, когда я попытался воссоздать её рецепт."
 
 # game/xkatsu.rpy:280
 translate russiantl _call_skipcheck_27_84559e79:
 
     # n "I never succeeded."
-    n ""
+    n "Мне так и не удалось."
 
 # game/xkatsu.rpy:285
 translate russiantl _call_skipcheck_27_76b2fe88_4:
@@ -478,31 +478,31 @@ translate russiantl _call_skipcheck_27_76b2fe88_4:
 translate russiantl _call_skipcheck_27_d27f5b09:
 
     # Ka exhausted "Just look at the number of different ice creams I sell. People tell me how impressive that is and how they are all wonderful."
-    Ka exhausted ""
+    Ka exhausted "Просто посмотрите на количество различных видов мороженого, которые я продаю. Люди говорят мне, насколько это впечатляет и какие все они замечательные."
 
 # game/xkatsu.rpy:299
 translate russiantl _call_skipcheck_27_3f61d4e1:
 
     # Ka "They think it makes me better than her, but she only ever sold a single flavor, a single variety. She never needed anything else, because that one flavor was perfect."
-    Ka ""
+    Ka "Они думают, что это делает меня лучше, чем она, но она продавала только один аромат, один сорт. Ей никогда не понадобилось ничего другого, потому что этот аромат был идеальным."
 
 # game/xkatsu.rpy:303
 translate russiantl _call_skipcheck_27_8a6c8bca:
 
     # Ka "I can only ascribe my own success to what I learned from her."
-    Ka ""
+    Ka "Я могу только приписать свой собственный успех тому, что я узнал от нее."
 
 # game/xkatsu.rpy:305
 translate russiantl _call_skipcheck_27_cb9578b7:
 
     # Ka "Of course, this corner is not the only place where I sell the ice cream. I also have my spots in the surrounding villages, but even out there I can slowly see the influence of the cities taking over."
-    Ka ""
+    Ka "Конечно, этот уголок - не единственное место, где я продаю мороженое. У меня также есть свои точки в окрестных деревнях, но даже там я могу медленно увидеть влияние городов."
 
 # game/xkatsu.rpy:307
 translate russiantl _call_skipcheck_27_9450c088:
 
     # Ka "The trouble is, nowadays people just don't appreciate the art anymore. They only care that they can eat, and not about what they eat. They are too quick to settle for what they can get from the local supermarkets. Ugly, mass-manufactured pulp. Gah!"
-    Ka ""
+    Ka "Беда в том, что сейчас люди просто не ценят искусство. Их волнует только то, что они могут есть, а не то, что они едят. Они слишком быстры, соглашаются на то, что они могут получить в местных супермаркетах. Уродливая, массовая подделка. Гхх!"
 
 # game/xkatsu.rpy:309
 translate russiantl _call_skipcheck_27_63e05560:
@@ -1150,17 +1150,17 @@ translate russiantl strings:
 
     # xkatsu.rpy:7
     old "Chapter 4 - Katsu"
-    new ""
+    new "Глава 4 - Катцу"
 
     # xkatsu.rpy:11
     old "Chapter 3 - Katsu"
-    new ""
+    new "Глава 3 - Катцу"
 
     # xkatsu.rpy:15
     old "Chapter 2 - Katsu"
-    new ""
+    new "Глава 2 - Катцу"
 
     # xkatsu.rpy:19
     old "Chapter 1 - Katsu"
-    new ""
+    new "Глава 1 - Катцу"
 
